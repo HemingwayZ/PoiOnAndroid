@@ -10,11 +10,11 @@ repositories {
 }
 
 dependencies {
-//    compile 'org.apache.poi:poi-ooxml:3.17'
+    compile 'org.apache.poi:poi-ooxml:3.17'
 //    compile 'org.apache.poi:poi-ooxml:3.10-FINAL'
 //    compile 'org.apache.poi:poi-ooxml:3.9'
     compile 'com.fasterxml:aalto-xml:1.1.0'
-    compile 'fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf:1.0.6'
+//    compile 'fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf:1.0.6'
 }
 
 shadowJar {
@@ -42,6 +42,9 @@ shadowJar {
     // java.awt is not available, but class Color is used in APIs in POI, therefore
     // relocate this class to another one where we can include a rewrite
     relocate 'java.awt.Color', 'org.apache.poi.java.awt.Color'
+    relocate 'java.awt.Dimension', 'org.apache.poi.java.awt.Dimension'
+    relocate 'java.awt.Dimension2D', 'org.apache.poi.java.awt.Dimension2D'
+    relocate 'java.awt','and.awt'
 }
 
 jar.dependsOn shadowJar

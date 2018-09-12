@@ -11,6 +11,8 @@ import android.util.Log;
 
 //import org.apache.poi.xslf.usermodel.XSLFRenderingHint;
 
+import org.apache.poi.xslf.usermodel.XSLFRenderingHint;
+
 import java.util.HashMap;
 
 import and.awt.BasicStroke;
@@ -220,22 +222,22 @@ public class Graphics2D extends Graphics {
 		}
 	}
 
-//	public AffineTransform getRenderingHint(XSLFRenderingHint groupTransform) {
-//		return affineTransformHintMap.get(groupTransform);
-//	}
+	public AffineTransform getRenderingHint(XSLFRenderingHint groupTransform) {
+		return affineTransformHintMap.get(groupTransform);
+	}
 	
-//	HashMap<XSLFRenderingHint, AffineTransform> affineTransformHintMap = new HashMap<XSLFRenderingHint, AffineTransform>();
-//
-//	public void setRenderingHint(XSLFRenderingHint hint, boolean b) {
-//		if (hint == XSLFRenderingHint.GSAVE) {
-//			canvas.save();
-//		} else if (hint == XSLFRenderingHint.GRESTORE) {
-//			canvas.restore();
-//		}
-//	}
-//
-//	public void setRenderingHint(XSLFRenderingHint groupTransform,
-//			AffineTransform tx0) {
-//		affineTransformHintMap.put(groupTransform, tx0);
-//	}
+	HashMap<XSLFRenderingHint, AffineTransform> affineTransformHintMap = new HashMap<XSLFRenderingHint, AffineTransform>();
+
+	public void setRenderingHint(XSLFRenderingHint hint, boolean b) {
+		if (hint == XSLFRenderingHint.GSAVE) {
+			canvas.save();
+		} else if (hint == XSLFRenderingHint.GRESTORE) {
+			canvas.restore();
+		}
+	}
+
+	public void setRenderingHint(XSLFRenderingHint groupTransform,
+			AffineTransform tx0) {
+		affineTransformHintMap.put(groupTransform, tx0);
+	}
 }

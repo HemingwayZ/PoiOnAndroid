@@ -9,9 +9,9 @@ import android.graphics.Path;
 import android.graphics.Rect;
 import android.util.Log;
 
-//import org.apache.poi.xslf.usermodel.XSLFRenderingHint;
+//import XSLFRenderingHint;
 
-import org.apache.poi.xslf.usermodel.XSLFRenderingHint;
+import org.apache.poi2.xslf.usermodel.XSLFRenderingHint;
 
 import java.util.HashMap;
 

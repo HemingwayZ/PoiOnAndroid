@@ -12,11 +12,11 @@ import android.widget.ImageView;
 
 import net.pbdavey.awt.Graphics2D;
 
-import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
-import org.apache.poi.openxml4j.opc.OPCPackage;
-import org.apache.poi.openxml4j.opc.PackageAccess;
-import org.apache.poi.xslf.usermodel.XMLSlideShow;
-import org.apache.poi.xslf.usermodel.XSLFSlide;
+import org.apache.poi2.openxml4j.exceptions.InvalidFormatException;
+import org.apache.poi2.openxml4j.opc.OPCPackage;
+import org.apache.poi2.openxml4j.opc.PackageAccess;
+import org.apache.poi2.xslf.usermodel.XMLSlideShow;
+import org.apache.poi2.xslf.usermodel.XSLFSlide;
 
 import java.io.StringReader;
 import java.util.concurrent.atomic.AtomicBoolean;
@@ -28,6 +28,9 @@ import javax.xml.stream.events.XMLEvent;
 
 import and.awt.Dimension;
 
+/**
+ * 如果出现异常情况
+ */
 public class PPTActivity extends AppCompatActivity {
 
     @Override
@@ -68,16 +71,13 @@ public class PPTActivity extends AppCompatActivity {
             @Override
             public void run() {
 //                InputStream inputStream = getResources().openRawResource(R.raw.talkaboutjvm);
-               String path = "/sdcard/talkaboutjvm.pptx";
+               String path = "/sdcard/test1.pptx";
                 try {
 //                    XMLSlideShow ppt = new XMLSlideShow(inputStream);
                     XMLSlideShow ppt = new XMLSlideShow(OPCPackage.open(path,
                             PackageAccess.READ));
 
                     Dimension pgsize = ppt.getPageSize();
-
-
-
 
                     final Bitmap bmp = Bitmap.createBitmap((int) pgsize.getWidth(),
                             (int) pgsize.getHeight(), Bitmap.Config.RGB_565);
@@ -89,7 +89,7 @@ public class PPTActivity extends AppCompatActivity {
 
                     Dimension pageSize = ppt.getPageSize();
                     XSLFSlide[] slides = ppt.getSlides();
-                    XSLFSlide slide = slides[0];
+                    XSLFSlide slide = slides[1];
 
                     Graphics2D graphice = new Graphics2D(canvas);
                     final AtomicBoolean isCanceled = new AtomicBoolean(false);

@@ -10,10 +10,18 @@ repositories {
 }
 
 dependencies {
-    compile 'org.apache.poi:poi-ooxml:3.17'
+    // https://mvnrepository.com/artifact/org.apache.poi/poi
+//    compile group: 'org.apache.poi', name: 'poi', version: '3.17'{
+//        exclude module:"xmlbeans-2.6.0"
+//    }
+
+    compile ('org.apache.poi:poi-ooxml:3.17'){
+        exclude group:'org.apache.xmlbeans'
+        exclude group:'org.apache.poi.xslf'
+    }
 //    compile 'org.apache.poi:poi-ooxml:3.10-FINAL'
 //    compile 'org.apache.poi:poi-ooxml:3.9'
-    compile 'com.fasterxml:aalto-xml:1.1.0'
+    compile ('com.fasterxml:aalto-xml:1.1.0')
 //    compile 'fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf:1.0.6'
 }
 
@@ -33,6 +41,7 @@ shadowJar {
         exclude(dependency('com.github.virtuald:curvesapi'))
         exclude(dependency('commons-codec:commons-codec'))
         exclude(dependency('commons-codec:commons-collections4'))
+        exclude(dependency('org.apache.poi:xslf'))
     }
 
     // Relocate javax dependencies so Android does not choke
@@ -45,6 +54,7 @@ shadowJar {
     relocate 'java.awt.Dimension', 'org.apache.poi.java.awt.Dimension'
     relocate 'java.awt.Dimension2D', 'org.apache.poi.java.awt.Dimension2D'
     relocate 'java.awt','and.awt'
+    relocate 'java.awt.Dimension','and.awt.Dimension'
 }
 
 jar.dependsOn shadowJar

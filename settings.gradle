@@ -1,1 +1,3 @@
-include ':app','poishadow'
+include ':app',
+//        ':pptxlib',
+        'poishadow'

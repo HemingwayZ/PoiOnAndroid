@@ -21,7 +21,7 @@ package java.awt;
 
 import android.support.annotation.NonNull;
 
-import org.apache.poi.util.Internal;
+import org.apache.poi2.util.Internal;
 
 import java.lang.ref.WeakReference;
 import java.util.Collection;

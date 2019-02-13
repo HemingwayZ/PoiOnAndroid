@@ -35,6 +35,89 @@ android {
         pickFirst 'META-INF/license.txt'
         pickFirst 'META-INF/dependencies.txt'
         pickFirst 'META-INF/LGPL2.1'
+        pickFirst 'META-INF/INDEX.LIST'
+
+        pickFirst 'schemaorg_apache_xmlbeans/type/http_3A_2F_2Fwww_2Ebea_2Ecom_2F2003_2F05_2Fxmlbean_2Fltgfmt/file_2Ddesc.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/toplevelsimpletypec958type.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/modelgroup/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/redefinable.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/UnionDocument/Union.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/element/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/enumeration.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/nestedparticlemodelgroup.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/uniqueelement.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/namespace/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/xmlns.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/type/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/groupRef.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/RealGroup.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/anon421ctype.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/element/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/selector.xsb'
+
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xmlconfig/Qnameconfig.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/element/URI_SHA_1_5AAF5BEFD4F30D215E94ED53118FE32C537C3B26/definitions.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/AnnotationDocument/Annotation.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLCONFIG/extensionconfig2ac2type.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLTOOLS/tests5621doctype.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/anyelement.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/enumeration052edoctype.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/attributegroupidentityconstraint.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/listelement.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/complextype5dbbtype.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/element/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/annotation.xsb'
+
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/GroupDocument.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/LocalElement.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/NamedGroup.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLTOOLS/tests9d6eelemtype.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/complextype83cbdoctype.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/type/URI_SHA_1_5AAF5BEFD4F30D215E94ED53118FE32C537C3B26/TImport.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/AllNNI.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/element/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/include.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLLANG/baseattribute.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/anonc904type.xsb'
+
+//        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/redefine9e9felemtype.xsb'
+//        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/xpath6f9aattrtype.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLSCHEMA/*'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/*'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xmlconfig/*'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLTOOLS/*'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/SimpleContentDocument/*'
+
+        pickFirst 'schemaorg_apache_xmlbeans/element/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/*'
+        pickFirst 'schemaorg_apache_xmlbeans/identityconstraint/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/*'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/DerivationSet/*'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/AnyDocument/*'
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/org/apache/xmlbeans/impl/xb/xsdschema/AllNNI/*'
+        pickFirst 'schemaorg_apache_xmlbeans/type/**'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLLANG/*'
+        pickFirst 'schemaorg_apache_xmlbeans/element/**'
+        pickFirst 'schemaorg_apache_xmlbeans/modelgroup/**'
+
+        pickFirst 'schemaorg_apache_xmlbeans/javaname/**'
+
+        pickFirst 'schemaorg_apache_xmlbeans/attributegroup/http_3A_2F_2Fwww_2Ew3_2Eorg_2FXML_2F1998_2Fnamespace/specialAttrs.xsb'
+
+//        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLCONFIG/config4185doctype.xsb'
+        pickFirst 'schemaorg_apache_xmlbeans/system/sXMLCONFIG/*'
+        pickFirst 'schemaorg_apache_xmlbeans/namespace/http_3A_2F_2Fwww_2Ebea_2Ecom_2F2003_2F01_2Fxmlbean_2Fxsdownload/*'
+
+        pickFirst 'schemaorg_apache_xmlbeans/namespace/URI_SHA_1_0072531D5C2BA64B5A3672B694CDAA153CD30788/*'
+        pickFirst 'schemaorg_apache_xmlbeans/src/*'
+        pickFirst 'org/apache/xmlbeans/impl/regex/message_fr.properties'
+        pickFirst 'schemaorg_apache_xmlbeans/attribute/http_3A_2F_2Fwww_2Ew3_2Eorg_2FXML_2F1998_2Fnamespace/*'
+        pickFirst 'org/apache/xmlbeans/message.properties'
+        pickFirst 'schemaorg_apache_xmlbeans/attributegroup/http_3A_2F_2Fwww_2Ew3_2Eorg_2F2001_2FXMLSchema/*'
+        pickFirst 'org/apache/xmlbeans/impl/regex/message_ja.properties'
+        pickFirst 'schemaorg_apache_xmlbeans/namespace/http_3A_2F_2Fwww_2Ebea_2Ecom_2F2003_2F05_2Fxmlbean_2Fltgfmt/*'
+        pickFirst 'schemaorg_apache_xmlbeans/namespace/http_3A_2F_2Fwww_2Ew3_2Eorg_2FXML_2F1998_2Fnamespace/*'
+        pickFirst 'org/apache/xmlbeans/impl/regex/README.txt'
+        pickFirst 'org/apache/xmlbeans/impl/schema/TypeSystemHolder.template'
+        pickFirst 'schemaorg_apache_xmlbeans/namespace/URI_SHA_1_5AAF5BEFD4F30D215E94ED53118FE32C537C3B26/*'
+        pickFirst 'org/apache/xmlbeans/impl/regex/message.properties'
+
+        pickFirst 'org.apache.xmlbeans.SchemaAnnotation'
+        pickFirst 'org.apache.xmlbeans.xml.stream.Location'
+        pickFirst 'org.apache.xmlbeans.xml.stream.utils.*'
+        pickFirst 'org.apache.xmlbeans.xml.stream.XMLName'
+        pickFirst 'org.apache.xmlbeans.xml.stream.Location'
     }
 }
 
@@ -46,8 +129,11 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
+// https://mvnrepository.com/artifact/org.apache.xmlbeans/xmlbeans
+//    implementation group: 'org.apache.xmlbeans', name: 'xmlbeans', version: '2.3.0'
+
 
     implementation 'com.android.support:multidex:1.0.3'
-    //        implementation files('../poishadow/build/libs/poishadow-all.jar')
-//    implementation project(':poishadow')
+//    implementation files('../poishadow/build/libs/poishadow-all.jar')
+    implementation project(':poishadow')
 }

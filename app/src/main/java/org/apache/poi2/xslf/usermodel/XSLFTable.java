@@ -24,7 +24,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-import javax.xml.namespace.QName;
+import org.apache.poi.javax.xml.namespace.QName;
 
 import org.apache.poi2.POIXMLException;
 import org.apache.poi2.util.Internal;

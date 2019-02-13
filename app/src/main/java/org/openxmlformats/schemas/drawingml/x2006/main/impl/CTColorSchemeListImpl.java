@@ -19,8 +19,8 @@ public class CTColorSchemeListImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTRACLRSCHEME$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extraClrScheme");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTRACLRSCHEME$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extraClrScheme");
     
     
     /**

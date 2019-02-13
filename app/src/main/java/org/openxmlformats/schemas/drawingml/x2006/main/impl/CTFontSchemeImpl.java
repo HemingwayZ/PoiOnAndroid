@@ -19,14 +19,14 @@ public class CTFontSchemeImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName MAJORFONT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "majorFont");
-    private static final javax.xml.namespace.QName MINORFONT$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "minorFont");
-    private static final javax.xml.namespace.QName EXTLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName NAME$6 = 
-        new javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName MAJORFONT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "majorFont");
+    private static final org.apache.poi.javax.xml.namespace.QName MINORFONT$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "minorFont");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
     
     
     /**

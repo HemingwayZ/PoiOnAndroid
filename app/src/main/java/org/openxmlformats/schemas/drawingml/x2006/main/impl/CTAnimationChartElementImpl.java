@@ -19,12 +19,12 @@ public class CTAnimationChartElementImpl extends org.apache.xmlbeans.impl.values
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SERIESIDX$0 = 
-        new javax.xml.namespace.QName("", "seriesIdx");
-    private static final javax.xml.namespace.QName CATEGORYIDX$2 = 
-        new javax.xml.namespace.QName("", "categoryIdx");
-    private static final javax.xml.namespace.QName BLDSTEP$4 = 
-        new javax.xml.namespace.QName("", "bldStep");
+    private static final org.apache.poi.javax.xml.namespace.QName SERIESIDX$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "seriesIdx");
+    private static final org.apache.poi.javax.xml.namespace.QName CATEGORYIDX$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "categoryIdx");
+    private static final org.apache.poi.javax.xml.namespace.QName BLDSTEP$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bldStep");
     
     
     /**

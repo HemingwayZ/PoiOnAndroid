@@ -19,34 +19,34 @@ public class CTReflectionEffectImpl extends org.apache.xmlbeans.impl.values.XmlC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BLURRAD$0 = 
-        new javax.xml.namespace.QName("", "blurRad");
-    private static final javax.xml.namespace.QName STA$2 = 
-        new javax.xml.namespace.QName("", "stA");
-    private static final javax.xml.namespace.QName STPOS$4 = 
-        new javax.xml.namespace.QName("", "stPos");
-    private static final javax.xml.namespace.QName ENDA$6 = 
-        new javax.xml.namespace.QName("", "endA");
-    private static final javax.xml.namespace.QName ENDPOS$8 = 
-        new javax.xml.namespace.QName("", "endPos");
-    private static final javax.xml.namespace.QName DIST$10 = 
-        new javax.xml.namespace.QName("", "dist");
-    private static final javax.xml.namespace.QName DIR$12 = 
-        new javax.xml.namespace.QName("", "dir");
-    private static final javax.xml.namespace.QName FADEDIR$14 = 
-        new javax.xml.namespace.QName("", "fadeDir");
-    private static final javax.xml.namespace.QName SX$16 = 
-        new javax.xml.namespace.QName("", "sx");
-    private static final javax.xml.namespace.QName SY$18 = 
-        new javax.xml.namespace.QName("", "sy");
-    private static final javax.xml.namespace.QName KX$20 = 
-        new javax.xml.namespace.QName("", "kx");
-    private static final javax.xml.namespace.QName KY$22 = 
-        new javax.xml.namespace.QName("", "ky");
-    private static final javax.xml.namespace.QName ALGN$24 = 
-        new javax.xml.namespace.QName("", "algn");
-    private static final javax.xml.namespace.QName ROTWITHSHAPE$26 = 
-        new javax.xml.namespace.QName("", "rotWithShape");
+    private static final org.apache.poi.javax.xml.namespace.QName BLURRAD$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "blurRad");
+    private static final org.apache.poi.javax.xml.namespace.QName STA$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "stA");
+    private static final org.apache.poi.javax.xml.namespace.QName STPOS$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "stPos");
+    private static final org.apache.poi.javax.xml.namespace.QName ENDA$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "endA");
+    private static final org.apache.poi.javax.xml.namespace.QName ENDPOS$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "endPos");
+    private static final org.apache.poi.javax.xml.namespace.QName DIST$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dist");
+    private static final org.apache.poi.javax.xml.namespace.QName DIR$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dir");
+    private static final org.apache.poi.javax.xml.namespace.QName FADEDIR$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "fadeDir");
+    private static final org.apache.poi.javax.xml.namespace.QName SX$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sx");
+    private static final org.apache.poi.javax.xml.namespace.QName SY$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sy");
+    private static final org.apache.poi.javax.xml.namespace.QName KX$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "kx");
+    private static final org.apache.poi.javax.xml.namespace.QName KY$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "ky");
+    private static final org.apache.poi.javax.xml.namespace.QName ALGN$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "algn");
+    private static final org.apache.poi.javax.xml.namespace.QName ROTWITHSHAPE$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rotWithShape");
     
     
     /**

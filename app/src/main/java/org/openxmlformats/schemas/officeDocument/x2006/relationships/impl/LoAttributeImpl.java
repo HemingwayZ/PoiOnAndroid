@@ -20,8 +20,8 @@ public class LoAttributeImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LO$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "lo");
+    private static final org.apache.poi.javax.xml.namespace.QName LO$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "lo");
     
     
     /**

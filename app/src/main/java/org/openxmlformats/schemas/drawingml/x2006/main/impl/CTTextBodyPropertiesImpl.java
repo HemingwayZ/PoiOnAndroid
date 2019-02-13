@@ -19,60 +19,60 @@ public class CTTextBodyPropertiesImpl extends org.apache.xmlbeans.impl.values.Xm
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName PRSTTXWARP$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstTxWarp");
-    private static final javax.xml.namespace.QName NOAUTOFIT$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noAutofit");
-    private static final javax.xml.namespace.QName NORMAUTOFIT$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "normAutofit");
-    private static final javax.xml.namespace.QName SPAUTOFIT$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spAutoFit");
-    private static final javax.xml.namespace.QName SCENE3D$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scene3d");
-    private static final javax.xml.namespace.QName SP3D$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sp3d");
-    private static final javax.xml.namespace.QName FLATTX$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "flatTx");
-    private static final javax.xml.namespace.QName EXTLST$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName ROT$16 = 
-        new javax.xml.namespace.QName("", "rot");
-    private static final javax.xml.namespace.QName SPCFIRSTLASTPARA$18 = 
-        new javax.xml.namespace.QName("", "spcFirstLastPara");
-    private static final javax.xml.namespace.QName VERTOVERFLOW$20 = 
-        new javax.xml.namespace.QName("", "vertOverflow");
-    private static final javax.xml.namespace.QName HORZOVERFLOW$22 = 
-        new javax.xml.namespace.QName("", "horzOverflow");
-    private static final javax.xml.namespace.QName VERT$24 = 
-        new javax.xml.namespace.QName("", "vert");
-    private static final javax.xml.namespace.QName WRAP$26 = 
-        new javax.xml.namespace.QName("", "wrap");
-    private static final javax.xml.namespace.QName LINS$28 = 
-        new javax.xml.namespace.QName("", "lIns");
-    private static final javax.xml.namespace.QName TINS$30 = 
-        new javax.xml.namespace.QName("", "tIns");
-    private static final javax.xml.namespace.QName RINS$32 = 
-        new javax.xml.namespace.QName("", "rIns");
-    private static final javax.xml.namespace.QName BINS$34 = 
-        new javax.xml.namespace.QName("", "bIns");
-    private static final javax.xml.namespace.QName NUMCOL$36 = 
-        new javax.xml.namespace.QName("", "numCol");
-    private static final javax.xml.namespace.QName SPCCOL$38 = 
-        new javax.xml.namespace.QName("", "spcCol");
-    private static final javax.xml.namespace.QName RTLCOL$40 = 
-        new javax.xml.namespace.QName("", "rtlCol");
-    private static final javax.xml.namespace.QName FROMWORDART$42 = 
-        new javax.xml.namespace.QName("", "fromWordArt");
-    private static final javax.xml.namespace.QName ANCHOR$44 = 
-        new javax.xml.namespace.QName("", "anchor");
-    private static final javax.xml.namespace.QName ANCHORCTR$46 = 
-        new javax.xml.namespace.QName("", "anchorCtr");
-    private static final javax.xml.namespace.QName FORCEAA$48 = 
-        new javax.xml.namespace.QName("", "forceAA");
-    private static final javax.xml.namespace.QName UPRIGHT$50 = 
-        new javax.xml.namespace.QName("", "upright");
-    private static final javax.xml.namespace.QName COMPATLNSPC$52 = 
-        new javax.xml.namespace.QName("", "compatLnSpc");
+    private static final org.apache.poi.javax.xml.namespace.QName PRSTTXWARP$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstTxWarp");
+    private static final org.apache.poi.javax.xml.namespace.QName NOAUTOFIT$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noAutofit");
+    private static final org.apache.poi.javax.xml.namespace.QName NORMAUTOFIT$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "normAutofit");
+    private static final org.apache.poi.javax.xml.namespace.QName SPAUTOFIT$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spAutoFit");
+    private static final org.apache.poi.javax.xml.namespace.QName SCENE3D$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scene3d");
+    private static final org.apache.poi.javax.xml.namespace.QName SP3D$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sp3d");
+    private static final org.apache.poi.javax.xml.namespace.QName FLATTX$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "flatTx");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName ROT$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rot");
+    private static final org.apache.poi.javax.xml.namespace.QName SPCFIRSTLASTPARA$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "spcFirstLastPara");
+    private static final org.apache.poi.javax.xml.namespace.QName VERTOVERFLOW$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "vertOverflow");
+    private static final org.apache.poi.javax.xml.namespace.QName HORZOVERFLOW$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "horzOverflow");
+    private static final org.apache.poi.javax.xml.namespace.QName VERT$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "vert");
+    private static final org.apache.poi.javax.xml.namespace.QName WRAP$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "wrap");
+    private static final org.apache.poi.javax.xml.namespace.QName LINS$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lIns");
+    private static final org.apache.poi.javax.xml.namespace.QName TINS$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "tIns");
+    private static final org.apache.poi.javax.xml.namespace.QName RINS$32 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rIns");
+    private static final org.apache.poi.javax.xml.namespace.QName BINS$34 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bIns");
+    private static final org.apache.poi.javax.xml.namespace.QName NUMCOL$36 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "numCol");
+    private static final org.apache.poi.javax.xml.namespace.QName SPCCOL$38 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "spcCol");
+    private static final org.apache.poi.javax.xml.namespace.QName RTLCOL$40 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rtlCol");
+    private static final org.apache.poi.javax.xml.namespace.QName FROMWORDART$42 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "fromWordArt");
+    private static final org.apache.poi.javax.xml.namespace.QName ANCHOR$44 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "anchor");
+    private static final org.apache.poi.javax.xml.namespace.QName ANCHORCTR$46 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "anchorCtr");
+    private static final org.apache.poi.javax.xml.namespace.QName FORCEAA$48 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "forceAA");
+    private static final org.apache.poi.javax.xml.namespace.QName UPRIGHT$50 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "upright");
+    private static final org.apache.poi.javax.xml.namespace.QName COMPATLNSPC$52 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "compatLnSpc");
     
     
     /**

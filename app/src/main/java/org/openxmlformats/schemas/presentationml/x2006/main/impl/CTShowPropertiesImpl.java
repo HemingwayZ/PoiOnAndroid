@@ -19,30 +19,30 @@ public class CTShowPropertiesImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName PRESENT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "present");
-    private static final javax.xml.namespace.QName BROWSE$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "browse");
-    private static final javax.xml.namespace.QName KIOSK$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "kiosk");
-    private static final javax.xml.namespace.QName SLDALL$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldAll");
-    private static final javax.xml.namespace.QName SLDRG$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldRg");
-    private static final javax.xml.namespace.QName CUSTSHOW$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custShow");
-    private static final javax.xml.namespace.QName PENCLR$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "penClr");
-    private static final javax.xml.namespace.QName EXTLST$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName LOOP$16 = 
-        new javax.xml.namespace.QName("", "loop");
-    private static final javax.xml.namespace.QName SHOWNARRATION$18 = 
-        new javax.xml.namespace.QName("", "showNarration");
-    private static final javax.xml.namespace.QName SHOWANIMATION$20 = 
-        new javax.xml.namespace.QName("", "showAnimation");
-    private static final javax.xml.namespace.QName USETIMINGS$22 = 
-        new javax.xml.namespace.QName("", "useTimings");
+    private static final org.apache.poi.javax.xml.namespace.QName PRESENT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "present");
+    private static final org.apache.poi.javax.xml.namespace.QName BROWSE$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "browse");
+    private static final org.apache.poi.javax.xml.namespace.QName KIOSK$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "kiosk");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDALL$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldAll");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDRG$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldRg");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTSHOW$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custShow");
+    private static final org.apache.poi.javax.xml.namespace.QName PENCLR$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "penClr");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName LOOP$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "loop");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWNARRATION$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showNarration");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWANIMATION$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showAnimation");
+    private static final org.apache.poi.javax.xml.namespace.QName USETIMINGS$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "useTimings");
     
     
     /**

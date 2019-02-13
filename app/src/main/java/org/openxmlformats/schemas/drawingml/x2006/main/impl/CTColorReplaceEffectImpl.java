@@ -19,18 +19,18 @@ public class CTColorReplaceEffectImpl extends org.apache.xmlbeans.impl.values.Xm
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SCRGBCLR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scrgbClr");
-    private static final javax.xml.namespace.QName SRGBCLR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "srgbClr");
-    private static final javax.xml.namespace.QName HSLCLR$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hslClr");
-    private static final javax.xml.namespace.QName SYSCLR$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sysClr");
-    private static final javax.xml.namespace.QName SCHEMECLR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "schemeClr");
-    private static final javax.xml.namespace.QName PRSTCLR$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SCRGBCLR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scrgbClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SRGBCLR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "srgbClr");
+    private static final org.apache.poi.javax.xml.namespace.QName HSLCLR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hslClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SYSCLR$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sysClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SCHEMECLR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "schemeClr");
+    private static final org.apache.poi.javax.xml.namespace.QName PRSTCLR$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstClr");
     
     
     /**

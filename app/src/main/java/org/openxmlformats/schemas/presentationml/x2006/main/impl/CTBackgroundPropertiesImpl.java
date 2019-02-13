@@ -19,26 +19,26 @@ public class CTBackgroundPropertiesImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName NOFILL$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
-    private static final javax.xml.namespace.QName SOLIDFILL$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
-    private static final javax.xml.namespace.QName GRADFILL$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
-    private static final javax.xml.namespace.QName BLIPFILL$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
-    private static final javax.xml.namespace.QName PATTFILL$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
-    private static final javax.xml.namespace.QName GRPFILL$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
-    private static final javax.xml.namespace.QName EFFECTLST$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
-    private static final javax.xml.namespace.QName EFFECTDAG$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
-    private static final javax.xml.namespace.QName EXTLST$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SHADETOTITLE$18 = 
-        new javax.xml.namespace.QName("", "shadeToTitle");
+    private static final org.apache.poi.javax.xml.namespace.QName NOFILL$0 =
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
+    private static final org.apache.poi.javax.xml.namespace.QName SOLIDFILL$2 =
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRADFILL$4 =
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
+    private static final org.apache.poi.javax.xml.namespace.QName BLIPFILL$6 =
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
+    private static final org.apache.poi.javax.xml.namespace.QName PATTFILL$8 =
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRPFILL$10 =
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTLST$12 =
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTDAG$14 =
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$16 =
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SHADETOTITLE$18 =
+        new org.apache.poi.javax.xml.namespace.QName("", "shadeToTitle");
     
     
     /**

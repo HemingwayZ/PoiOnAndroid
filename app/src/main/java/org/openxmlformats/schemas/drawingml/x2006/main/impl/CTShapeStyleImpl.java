@@ -19,14 +19,14 @@ public class CTShapeStyleImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LNREF$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnRef");
-    private static final javax.xml.namespace.QName FILLREF$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillRef");
-    private static final javax.xml.namespace.QName EFFECTREF$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectRef");
-    private static final javax.xml.namespace.QName FONTREF$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fontRef");
+    private static final org.apache.poi.javax.xml.namespace.QName LNREF$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnRef");
+    private static final org.apache.poi.javax.xml.namespace.QName FILLREF$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillRef");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTREF$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectRef");
+    private static final org.apache.poi.javax.xml.namespace.QName FONTREF$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fontRef");
     
     
     /**

@@ -19,8 +19,8 @@ public class CTTableGridImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName GRIDCOL$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gridCol");
+    private static final org.apache.poi.javax.xml.namespace.QName GRIDCOL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gridCol");
     
     
     /**

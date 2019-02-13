@@ -19,12 +19,12 @@ public class CTNonVisualDrawingShapePropsImpl extends org.apache.xmlbeans.impl.v
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SPLOCKS$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spLocks");
-    private static final javax.xml.namespace.QName EXTLST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName TXBOX$4 = 
-        new javax.xml.namespace.QName("", "txBox");
+    private static final org.apache.poi.javax.xml.namespace.QName SPLOCKS$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spLocks");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName TXBOX$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "txBox");
     
     
     /**

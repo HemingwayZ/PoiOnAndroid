@@ -19,18 +19,18 @@ public class CTCommonSlideDataImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BG$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bg");
-    private static final javax.xml.namespace.QName SPTREE$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "spTree");
-    private static final javax.xml.namespace.QName CUSTDATALST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custDataLst");
-    private static final javax.xml.namespace.QName CONTROLS$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "controls");
-    private static final javax.xml.namespace.QName EXTLST$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName NAME$10 = 
-        new javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName BG$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bg");
+    private static final org.apache.poi.javax.xml.namespace.QName SPTREE$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "spTree");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTDATALST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custDataLst");
+    private static final org.apache.poi.javax.xml.namespace.QName CONTROLS$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "controls");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
     
     
     /**

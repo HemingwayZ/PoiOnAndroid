@@ -19,8 +19,8 @@ public class CTSoftEdgesEffectImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName RAD$0 = 
-        new javax.xml.namespace.QName("", "rad");
+    private static final org.apache.poi.javax.xml.namespace.QName RAD$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rad");
     
     
     /**

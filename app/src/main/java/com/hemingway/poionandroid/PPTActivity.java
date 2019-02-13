@@ -88,7 +88,7 @@ public class PPTActivity extends AppCompatActivity {
                     canvas.drawPaint(paint);
 
                     XSLFSlide[] slides = ppt.getSlides();
-                    XSLFSlide slide = slides[1];
+                    XSLFSlide slide = slides[2];
 
                     Graphics2D graphice = new Graphics2D(canvas);
                     final AtomicBoolean isCanceled = new AtomicBoolean(false);

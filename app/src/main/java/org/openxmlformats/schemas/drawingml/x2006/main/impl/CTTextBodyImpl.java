@@ -19,12 +19,12 @@ public class CTTextBodyImpl extends org.apache.xmlbeans.impl.values.XmlComplexCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BODYPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bodyPr");
-    private static final javax.xml.namespace.QName LSTSTYLE$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lstStyle");
-    private static final javax.xml.namespace.QName P$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "p");
+    private static final org.apache.poi.javax.xml.namespace.QName BODYPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bodyPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LSTSTYLE$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lstStyle");
+    private static final org.apache.poi.javax.xml.namespace.QName P$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "p");
     
     
     /**

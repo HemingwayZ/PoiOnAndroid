@@ -20,8 +20,8 @@ public class ThemeDocumentImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName THEME$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "theme");
+    private static final org.apache.poi.javax.xml.namespace.QName THEME$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "theme");
     
     
     /**

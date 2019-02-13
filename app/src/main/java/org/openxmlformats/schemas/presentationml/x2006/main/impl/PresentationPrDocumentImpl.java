@@ -20,8 +20,8 @@ public class PresentationPrDocumentImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName PRESENTATIONPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "presentationPr");
+    private static final org.apache.poi.javax.xml.namespace.QName PRESENTATIONPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "presentationPr");
     
     
     /**

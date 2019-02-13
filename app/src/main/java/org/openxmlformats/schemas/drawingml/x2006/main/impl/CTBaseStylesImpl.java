@@ -19,14 +19,14 @@ public class CTBaseStylesImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CLRSCHEME$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrScheme");
-    private static final javax.xml.namespace.QName FONTSCHEME$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fontScheme");
-    private static final javax.xml.namespace.QName FMTSCHEME$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fmtScheme");
-    private static final javax.xml.namespace.QName EXTLST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRSCHEME$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrScheme");
+    private static final org.apache.poi.javax.xml.namespace.QName FONTSCHEME$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fontScheme");
+    private static final org.apache.poi.javax.xml.namespace.QName FMTSCHEME$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fmtScheme");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

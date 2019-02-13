@@ -19,14 +19,14 @@ public class CTSlideSyncPropertiesImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SERVERSLDID$2 = 
-        new javax.xml.namespace.QName("", "serverSldId");
-    private static final javax.xml.namespace.QName SERVERSLDMODIFIEDTIME$4 = 
-        new javax.xml.namespace.QName("", "serverSldModifiedTime");
-    private static final javax.xml.namespace.QName CLIENTINSERTEDTIME$6 = 
-        new javax.xml.namespace.QName("", "clientInsertedTime");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SERVERSLDID$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "serverSldId");
+    private static final org.apache.poi.javax.xml.namespace.QName SERVERSLDMODIFIEDTIME$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "serverSldModifiedTime");
+    private static final org.apache.poi.javax.xml.namespace.QName CLIENTINSERTEDTIME$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "clientInsertedTime");
     
     
     /**

@@ -19,10 +19,10 @@ public class CTTextSpacingImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SPCPCT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spcPct");
-    private static final javax.xml.namespace.QName SPCPTS$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spcPts");
+    private static final org.apache.poi.javax.xml.namespace.QName SPCPCT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spcPct");
+    private static final org.apache.poi.javax.xml.namespace.QName SPCPTS$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spcPts");
     
     
     /**

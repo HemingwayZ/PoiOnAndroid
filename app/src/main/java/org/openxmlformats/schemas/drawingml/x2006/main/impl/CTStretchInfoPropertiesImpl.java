@@ -19,8 +19,8 @@ public class CTStretchInfoPropertiesImpl extends org.apache.xmlbeans.impl.values
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName FILLRECT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillRect");
+    private static final org.apache.poi.javax.xml.namespace.QName FILLRECT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillRect");
     
     
     /**

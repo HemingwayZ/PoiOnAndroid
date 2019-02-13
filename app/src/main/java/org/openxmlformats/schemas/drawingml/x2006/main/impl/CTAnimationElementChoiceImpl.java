@@ -19,10 +19,10 @@ public class CTAnimationElementChoiceImpl extends org.apache.xmlbeans.impl.value
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName DGM$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "dgm");
-    private static final javax.xml.namespace.QName CHART$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "chart");
+    private static final org.apache.poi.javax.xml.namespace.QName DGM$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "dgm");
+    private static final org.apache.poi.javax.xml.namespace.QName CHART$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "chart");
     
     
     /**

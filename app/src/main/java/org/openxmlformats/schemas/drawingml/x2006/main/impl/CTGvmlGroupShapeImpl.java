@@ -19,24 +19,24 @@ public class CTGvmlGroupShapeImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName NVGRPSPPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "nvGrpSpPr");
-    private static final javax.xml.namespace.QName GRPSPPR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpSpPr");
-    private static final javax.xml.namespace.QName TXSP$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "txSp");
-    private static final javax.xml.namespace.QName SP$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sp");
-    private static final javax.xml.namespace.QName CXNSP$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cxnSp");
-    private static final javax.xml.namespace.QName PIC$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pic");
-    private static final javax.xml.namespace.QName GRAPHICFRAME$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "graphicFrame");
-    private static final javax.xml.namespace.QName GRPSP$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpSp");
-    private static final javax.xml.namespace.QName EXTLST$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName NVGRPSPPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "nvGrpSpPr");
+    private static final org.apache.poi.javax.xml.namespace.QName GRPSPPR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpSpPr");
+    private static final org.apache.poi.javax.xml.namespace.QName TXSP$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "txSp");
+    private static final org.apache.poi.javax.xml.namespace.QName SP$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sp");
+    private static final org.apache.poi.javax.xml.namespace.QName CXNSP$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cxnSp");
+    private static final org.apache.poi.javax.xml.namespace.QName PIC$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pic");
+    private static final org.apache.poi.javax.xml.namespace.QName GRAPHICFRAME$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "graphicFrame");
+    private static final org.apache.poi.javax.xml.namespace.QName GRPSP$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpSp");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

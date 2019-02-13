@@ -19,10 +19,10 @@ public class CTAdjPoint2DImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName X$0 = 
-        new javax.xml.namespace.QName("", "x");
-    private static final javax.xml.namespace.QName Y$2 = 
-        new javax.xml.namespace.QName("", "y");
+    private static final org.apache.poi.javax.xml.namespace.QName X$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "x");
+    private static final org.apache.poi.javax.xml.namespace.QName Y$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "y");
     
     
     /**

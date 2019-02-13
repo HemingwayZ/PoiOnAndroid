@@ -19,20 +19,20 @@ public class CTXYAdjustHandleImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName POS$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pos");
-    private static final javax.xml.namespace.QName GDREFX$2 = 
-        new javax.xml.namespace.QName("", "gdRefX");
-    private static final javax.xml.namespace.QName MINX$4 = 
-        new javax.xml.namespace.QName("", "minX");
-    private static final javax.xml.namespace.QName MAXX$6 = 
-        new javax.xml.namespace.QName("", "maxX");
-    private static final javax.xml.namespace.QName GDREFY$8 = 
-        new javax.xml.namespace.QName("", "gdRefY");
-    private static final javax.xml.namespace.QName MINY$10 = 
-        new javax.xml.namespace.QName("", "minY");
-    private static final javax.xml.namespace.QName MAXY$12 = 
-        new javax.xml.namespace.QName("", "maxY");
+    private static final org.apache.poi.javax.xml.namespace.QName POS$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pos");
+    private static final org.apache.poi.javax.xml.namespace.QName GDREFX$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "gdRefX");
+    private static final org.apache.poi.javax.xml.namespace.QName MINX$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "minX");
+    private static final org.apache.poi.javax.xml.namespace.QName MAXX$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "maxX");
+    private static final org.apache.poi.javax.xml.namespace.QName GDREFY$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "gdRefY");
+    private static final org.apache.poi.javax.xml.namespace.QName MINY$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "minY");
+    private static final org.apache.poi.javax.xml.namespace.QName MAXY$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "maxY");
     
     
     /**

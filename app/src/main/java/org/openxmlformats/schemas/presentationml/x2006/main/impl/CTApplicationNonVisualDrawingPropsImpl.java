@@ -19,26 +19,26 @@ public class CTApplicationNonVisualDrawingPropsImpl extends org.apache.xmlbeans.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName PH$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "ph");
-    private static final javax.xml.namespace.QName AUDIOCD$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "audioCd");
-    private static final javax.xml.namespace.QName WAVAUDIOFILE$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "wavAudioFile");
-    private static final javax.xml.namespace.QName AUDIOFILE$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "audioFile");
-    private static final javax.xml.namespace.QName VIDEOFILE$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "videoFile");
-    private static final javax.xml.namespace.QName QUICKTIMEFILE$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "quickTimeFile");
-    private static final javax.xml.namespace.QName CUSTDATALST$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custDataLst");
-    private static final javax.xml.namespace.QName EXTLST$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName ISPHOTO$16 = 
-        new javax.xml.namespace.QName("", "isPhoto");
-    private static final javax.xml.namespace.QName USERDRAWN$18 = 
-        new javax.xml.namespace.QName("", "userDrawn");
+    private static final org.apache.poi.javax.xml.namespace.QName PH$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "ph");
+    private static final org.apache.poi.javax.xml.namespace.QName AUDIOCD$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "audioCd");
+    private static final org.apache.poi.javax.xml.namespace.QName WAVAUDIOFILE$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "wavAudioFile");
+    private static final org.apache.poi.javax.xml.namespace.QName AUDIOFILE$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "audioFile");
+    private static final org.apache.poi.javax.xml.namespace.QName VIDEOFILE$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "videoFile");
+    private static final org.apache.poi.javax.xml.namespace.QName QUICKTIMEFILE$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "quickTimeFile");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTDATALST$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custDataLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName ISPHOTO$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "isPhoto");
+    private static final org.apache.poi.javax.xml.namespace.QName USERDRAWN$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "userDrawn");
     
     
     /**

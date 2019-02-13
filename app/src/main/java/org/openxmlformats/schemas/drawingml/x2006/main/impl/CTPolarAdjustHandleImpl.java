@@ -19,20 +19,20 @@ public class CTPolarAdjustHandleImpl extends org.apache.xmlbeans.impl.values.Xml
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName POS$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pos");
-    private static final javax.xml.namespace.QName GDREFR$2 = 
-        new javax.xml.namespace.QName("", "gdRefR");
-    private static final javax.xml.namespace.QName MINR$4 = 
-        new javax.xml.namespace.QName("", "minR");
-    private static final javax.xml.namespace.QName MAXR$6 = 
-        new javax.xml.namespace.QName("", "maxR");
-    private static final javax.xml.namespace.QName GDREFANG$8 = 
-        new javax.xml.namespace.QName("", "gdRefAng");
-    private static final javax.xml.namespace.QName MINANG$10 = 
-        new javax.xml.namespace.QName("", "minAng");
-    private static final javax.xml.namespace.QName MAXANG$12 = 
-        new javax.xml.namespace.QName("", "maxAng");
+    private static final org.apache.poi.javax.xml.namespace.QName POS$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pos");
+    private static final org.apache.poi.javax.xml.namespace.QName GDREFR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "gdRefR");
+    private static final org.apache.poi.javax.xml.namespace.QName MINR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "minR");
+    private static final org.apache.poi.javax.xml.namespace.QName MAXR$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "maxR");
+    private static final org.apache.poi.javax.xml.namespace.QName GDREFANG$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "gdRefAng");
+    private static final org.apache.poi.javax.xml.namespace.QName MINANG$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "minAng");
+    private static final org.apache.poi.javax.xml.namespace.QName MAXANG$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "maxAng");
     
     
     /**

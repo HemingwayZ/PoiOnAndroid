@@ -19,14 +19,14 @@ public class CTTableStyleCellStyleImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TCBDR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tcBdr");
-    private static final javax.xml.namespace.QName FILL$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fill");
-    private static final javax.xml.namespace.QName FILLREF$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillRef");
-    private static final javax.xml.namespace.QName CELL3D$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cell3D");
+    private static final org.apache.poi.javax.xml.namespace.QName TCBDR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tcBdr");
+    private static final org.apache.poi.javax.xml.namespace.QName FILL$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fill");
+    private static final org.apache.poi.javax.xml.namespace.QName FILLREF$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillRef");
+    private static final org.apache.poi.javax.xml.namespace.QName CELL3D$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cell3D");
     
     
     /**

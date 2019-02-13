@@ -19,10 +19,10 @@ public class CTTextAutonumberBulletImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TYPE$0 = 
-        new javax.xml.namespace.QName("", "type");
-    private static final javax.xml.namespace.QName STARTAT$2 = 
-        new javax.xml.namespace.QName("", "startAt");
+    private static final org.apache.poi.javax.xml.namespace.QName TYPE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "type");
+    private static final org.apache.poi.javax.xml.namespace.QName STARTAT$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "startAt");
     
     
     /**

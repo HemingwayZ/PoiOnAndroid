@@ -19,8 +19,8 @@ public class CTCornerDirectionTransitionImpl extends org.apache.xmlbeans.impl.va
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName DIR$0 = 
-        new javax.xml.namespace.QName("", "dir");
+    private static final org.apache.poi.javax.xml.namespace.QName DIR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dir");
     
     
     /**

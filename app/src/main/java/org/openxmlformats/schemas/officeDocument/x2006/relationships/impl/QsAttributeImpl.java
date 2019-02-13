@@ -20,8 +20,8 @@ public class QsAttributeImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName QS$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "qs");
+    private static final org.apache.poi.javax.xml.namespace.QName QS$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "qs");
     
     
     /**

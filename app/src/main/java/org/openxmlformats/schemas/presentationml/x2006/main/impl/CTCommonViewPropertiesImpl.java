@@ -19,12 +19,12 @@ public class CTCommonViewPropertiesImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SCALE$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "scale");
-    private static final javax.xml.namespace.QName ORIGIN$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "origin");
-    private static final javax.xml.namespace.QName VARSCALE$4 = 
-        new javax.xml.namespace.QName("", "varScale");
+    private static final org.apache.poi.javax.xml.namespace.QName SCALE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "scale");
+    private static final org.apache.poi.javax.xml.namespace.QName ORIGIN$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "origin");
+    private static final org.apache.poi.javax.xml.namespace.QName VARSCALE$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "varScale");
     
     
     /**

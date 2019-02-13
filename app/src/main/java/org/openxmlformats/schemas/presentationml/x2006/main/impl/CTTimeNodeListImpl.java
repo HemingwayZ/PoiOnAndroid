@@ -19,32 +19,32 @@ public class CTTimeNodeListImpl extends org.apache.xmlbeans.impl.values.XmlCompl
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName PAR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "par");
-    private static final javax.xml.namespace.QName SEQ$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "seq");
-    private static final javax.xml.namespace.QName EXCL$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "excl");
-    private static final javax.xml.namespace.QName ANIM$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "anim");
-    private static final javax.xml.namespace.QName ANIMCLR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animClr");
-    private static final javax.xml.namespace.QName ANIMEFFECT$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animEffect");
-    private static final javax.xml.namespace.QName ANIMMOTION$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animMotion");
-    private static final javax.xml.namespace.QName ANIMROT$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animRot");
-    private static final javax.xml.namespace.QName ANIMSCALE$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animScale");
-    private static final javax.xml.namespace.QName CMD$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cmd");
-    private static final javax.xml.namespace.QName SET$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "set");
-    private static final javax.xml.namespace.QName AUDIO$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "audio");
-    private static final javax.xml.namespace.QName VIDEO$24 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "video");
+    private static final org.apache.poi.javax.xml.namespace.QName PAR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "par");
+    private static final org.apache.poi.javax.xml.namespace.QName SEQ$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "seq");
+    private static final org.apache.poi.javax.xml.namespace.QName EXCL$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "excl");
+    private static final org.apache.poi.javax.xml.namespace.QName ANIM$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "anim");
+    private static final org.apache.poi.javax.xml.namespace.QName ANIMCLR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animClr");
+    private static final org.apache.poi.javax.xml.namespace.QName ANIMEFFECT$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animEffect");
+    private static final org.apache.poi.javax.xml.namespace.QName ANIMMOTION$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animMotion");
+    private static final org.apache.poi.javax.xml.namespace.QName ANIMROT$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animRot");
+    private static final org.apache.poi.javax.xml.namespace.QName ANIMSCALE$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "animScale");
+    private static final org.apache.poi.javax.xml.namespace.QName CMD$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cmd");
+    private static final org.apache.poi.javax.xml.namespace.QName SET$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "set");
+    private static final org.apache.poi.javax.xml.namespace.QName AUDIO$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "audio");
+    private static final org.apache.poi.javax.xml.namespace.QName VIDEO$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "video");
     
     
 //    /**

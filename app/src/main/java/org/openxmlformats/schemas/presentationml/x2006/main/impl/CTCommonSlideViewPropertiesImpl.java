@@ -19,16 +19,16 @@ public class CTCommonSlideViewPropertiesImpl extends org.apache.xmlbeans.impl.va
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CVIEWPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cViewPr");
-    private static final javax.xml.namespace.QName GUIDELST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "guideLst");
-    private static final javax.xml.namespace.QName SNAPTOGRID$4 = 
-        new javax.xml.namespace.QName("", "snapToGrid");
-    private static final javax.xml.namespace.QName SNAPTOOBJECTS$6 = 
-        new javax.xml.namespace.QName("", "snapToObjects");
-    private static final javax.xml.namespace.QName SHOWGUIDES$8 = 
-        new javax.xml.namespace.QName("", "showGuides");
+    private static final org.apache.poi.javax.xml.namespace.QName CVIEWPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cViewPr");
+    private static final org.apache.poi.javax.xml.namespace.QName GUIDELST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "guideLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SNAPTOGRID$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "snapToGrid");
+    private static final org.apache.poi.javax.xml.namespace.QName SNAPTOOBJECTS$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "snapToObjects");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWGUIDES$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showGuides");
     
     
     /**

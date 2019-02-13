@@ -19,8 +19,8 @@ public class CTCustomColorListImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CUSTCLR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "custClr");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTCLR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "custClr");
     
     
     /**

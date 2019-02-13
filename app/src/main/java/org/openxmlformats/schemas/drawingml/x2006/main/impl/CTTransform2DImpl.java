@@ -19,16 +19,16 @@ public class CTTransform2DImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName OFF$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "off");
-    private static final javax.xml.namespace.QName EXT$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ext");
-    private static final javax.xml.namespace.QName ROT$4 = 
-        new javax.xml.namespace.QName("", "rot");
-    private static final javax.xml.namespace.QName FLIPH$6 = 
-        new javax.xml.namespace.QName("", "flipH");
-    private static final javax.xml.namespace.QName FLIPV$8 = 
-        new javax.xml.namespace.QName("", "flipV");
+    private static final org.apache.poi.javax.xml.namespace.QName OFF$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "off");
+    private static final org.apache.poi.javax.xml.namespace.QName EXT$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ext");
+    private static final org.apache.poi.javax.xml.namespace.QName ROT$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rot");
+    private static final org.apache.poi.javax.xml.namespace.QName FLIPH$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "flipH");
+    private static final org.apache.poi.javax.xml.namespace.QName FLIPV$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "flipV");
     
     
     /**

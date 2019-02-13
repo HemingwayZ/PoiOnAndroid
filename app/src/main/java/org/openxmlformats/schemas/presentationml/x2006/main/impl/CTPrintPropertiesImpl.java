@@ -19,18 +19,18 @@ public class CTPrintPropertiesImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName PRNWHAT$2 = 
-        new javax.xml.namespace.QName("", "prnWhat");
-    private static final javax.xml.namespace.QName CLRMODE$4 = 
-        new javax.xml.namespace.QName("", "clrMode");
-    private static final javax.xml.namespace.QName HIDDENSLIDES$6 = 
-        new javax.xml.namespace.QName("", "hiddenSlides");
-    private static final javax.xml.namespace.QName SCALETOFITPAPER$8 = 
-        new javax.xml.namespace.QName("", "scaleToFitPaper");
-    private static final javax.xml.namespace.QName FRAMESLIDES$10 = 
-        new javax.xml.namespace.QName("", "frameSlides");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName PRNWHAT$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "prnWhat");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRMODE$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "clrMode");
+    private static final org.apache.poi.javax.xml.namespace.QName HIDDENSLIDES$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hiddenSlides");
+    private static final org.apache.poi.javax.xml.namespace.QName SCALETOFITPAPER$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "scaleToFitPaper");
+    private static final org.apache.poi.javax.xml.namespace.QName FRAMESLIDES$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "frameSlides");
     
     
     /**

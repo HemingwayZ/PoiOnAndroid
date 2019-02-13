@@ -19,8 +19,8 @@ public class CTGeomGuideListImpl extends org.apache.xmlbeans.impl.values.XmlComp
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName GD$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gd");
+    private static final org.apache.poi.javax.xml.namespace.QName GD$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gd");
     
     
     /**

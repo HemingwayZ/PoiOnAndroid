@@ -19,16 +19,16 @@ public class CTStyleMatrixImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName FILLSTYLELST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillStyleLst");
-    private static final javax.xml.namespace.QName LNSTYLELST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnStyleLst");
-    private static final javax.xml.namespace.QName EFFECTSTYLELST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectStyleLst");
-    private static final javax.xml.namespace.QName BGFILLSTYLELST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bgFillStyleLst");
-    private static final javax.xml.namespace.QName NAME$8 = 
-        new javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName FILLSTYLELST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillStyleLst");
+    private static final org.apache.poi.javax.xml.namespace.QName LNSTYLELST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnStyleLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTSTYLELST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectStyleLst");
+    private static final org.apache.poi.javax.xml.namespace.QName BGFILLSTYLELST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bgFillStyleLst");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
     
     
     /**

@@ -20,8 +20,8 @@ public class LinkAttributeImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LINK$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "link");
+    private static final org.apache.poi.javax.xml.namespace.QName LINK$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "link");
     
     
     /**

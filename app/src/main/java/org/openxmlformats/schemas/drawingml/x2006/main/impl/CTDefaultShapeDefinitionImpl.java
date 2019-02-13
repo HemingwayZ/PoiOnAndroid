@@ -19,16 +19,16 @@ public class CTDefaultShapeDefinitionImpl extends org.apache.xmlbeans.impl.value
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SPPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spPr");
-    private static final javax.xml.namespace.QName BODYPR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bodyPr");
-    private static final javax.xml.namespace.QName LSTSTYLE$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lstStyle");
-    private static final javax.xml.namespace.QName STYLE$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "style");
-    private static final javax.xml.namespace.QName EXTLST$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SPPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spPr");
+    private static final org.apache.poi.javax.xml.namespace.QName BODYPR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bodyPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LSTSTYLE$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lstStyle");
+    private static final org.apache.poi.javax.xml.namespace.QName STYLE$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "style");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

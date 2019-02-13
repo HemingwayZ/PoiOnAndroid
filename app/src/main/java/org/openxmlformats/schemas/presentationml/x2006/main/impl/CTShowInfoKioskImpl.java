@@ -19,8 +19,8 @@ public class CTShowInfoKioskImpl extends org.apache.xmlbeans.impl.values.XmlComp
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName RESTART$0 = 
-        new javax.xml.namespace.QName("", "restart");
+    private static final org.apache.poi.javax.xml.namespace.QName RESTART$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "restart");
     
     
     /**

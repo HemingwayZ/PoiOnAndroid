@@ -19,8 +19,8 @@ public class CTTextCharBulletImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CHAR$0 = 
-        new javax.xml.namespace.QName("", "char");
+    private static final org.apache.poi.javax.xml.namespace.QName CHAR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "char");
     
     
     /**

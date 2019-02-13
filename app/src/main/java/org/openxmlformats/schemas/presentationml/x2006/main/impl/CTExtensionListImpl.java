@@ -19,8 +19,8 @@ public class CTExtensionListImpl extends org.apache.xmlbeans.impl.values.XmlComp
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "ext");
+    private static final org.apache.poi.javax.xml.namespace.QName EXT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "ext");
     
     
     /**

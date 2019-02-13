@@ -19,14 +19,14 @@ public class CTObjectStyleDefaultsImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SPDEF$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spDef");
-    private static final javax.xml.namespace.QName LNDEF$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnDef");
-    private static final javax.xml.namespace.QName TXDEF$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "txDef");
-    private static final javax.xml.namespace.QName EXTLST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SPDEF$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spDef");
+    private static final org.apache.poi.javax.xml.namespace.QName LNDEF$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnDef");
+    private static final org.apache.poi.javax.xml.namespace.QName TXDEF$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "txDef");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

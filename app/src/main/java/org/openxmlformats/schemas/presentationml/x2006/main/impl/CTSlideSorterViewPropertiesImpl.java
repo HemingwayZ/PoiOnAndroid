@@ -19,12 +19,12 @@ public class CTSlideSorterViewPropertiesImpl extends org.apache.xmlbeans.impl.va
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CVIEWPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cViewPr");
-    private static final javax.xml.namespace.QName EXTLST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SHOWFORMATTING$4 = 
-        new javax.xml.namespace.QName("", "showFormatting");
+    private static final org.apache.poi.javax.xml.namespace.QName CVIEWPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cViewPr");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWFORMATTING$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showFormatting");
     
     
     /**

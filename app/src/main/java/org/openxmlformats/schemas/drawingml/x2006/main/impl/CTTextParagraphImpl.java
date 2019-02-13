@@ -19,16 +19,16 @@ public class CTTextParagraphImpl extends org.apache.xmlbeans.impl.values.XmlComp
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName PPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pPr");
-    private static final javax.xml.namespace.QName R$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "r");
-    private static final javax.xml.namespace.QName BR$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "br");
-    private static final javax.xml.namespace.QName FLD$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fld");
-    private static final javax.xml.namespace.QName ENDPARARPR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "endParaRPr");
+    private static final org.apache.poi.javax.xml.namespace.QName PPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName R$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "r");
+    private static final org.apache.poi.javax.xml.namespace.QName BR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "br");
+    private static final org.apache.poi.javax.xml.namespace.QName FLD$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fld");
+    private static final org.apache.poi.javax.xml.namespace.QName ENDPARARPR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "endParaRPr");
     
     
     /**

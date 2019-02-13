@@ -19,10 +19,10 @@ public class CTAnimationDgmElementImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ID$0 = 
-        new javax.xml.namespace.QName("", "id");
-    private static final javax.xml.namespace.QName BLDSTEP$2 = 
-        new javax.xml.namespace.QName("", "bldStep");
+    private static final org.apache.poi.javax.xml.namespace.QName ID$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "id");
+    private static final org.apache.poi.javax.xml.namespace.QName BLDSTEP$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bldStep");
     
     
     /**

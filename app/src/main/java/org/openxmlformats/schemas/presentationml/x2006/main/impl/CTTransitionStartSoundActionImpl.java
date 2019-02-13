@@ -19,10 +19,10 @@ public class CTTransitionStartSoundActionImpl extends org.apache.xmlbeans.impl.v
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SND$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "snd");
-    private static final javax.xml.namespace.QName LOOP$2 = 
-        new javax.xml.namespace.QName("", "loop");
+    private static final org.apache.poi.javax.xml.namespace.QName SND$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "snd");
+    private static final org.apache.poi.javax.xml.namespace.QName LOOP$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "loop");
     
     
     /**

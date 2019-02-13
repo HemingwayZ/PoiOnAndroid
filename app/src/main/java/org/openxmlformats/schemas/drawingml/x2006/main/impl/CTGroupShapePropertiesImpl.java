@@ -19,30 +19,30 @@ public class CTGroupShapePropertiesImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName XFRM$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "xfrm");
-    private static final javax.xml.namespace.QName NOFILL$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
-    private static final javax.xml.namespace.QName SOLIDFILL$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
-    private static final javax.xml.namespace.QName GRADFILL$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
-    private static final javax.xml.namespace.QName BLIPFILL$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
-    private static final javax.xml.namespace.QName PATTFILL$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
-    private static final javax.xml.namespace.QName GRPFILL$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
-    private static final javax.xml.namespace.QName EFFECTLST$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
-    private static final javax.xml.namespace.QName EFFECTDAG$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
-    private static final javax.xml.namespace.QName SCENE3D$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scene3d");
-    private static final javax.xml.namespace.QName EXTLST$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName BWMODE$22 = 
-        new javax.xml.namespace.QName("", "bwMode");
+    private static final org.apache.poi.javax.xml.namespace.QName XFRM$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "xfrm");
+    private static final org.apache.poi.javax.xml.namespace.QName NOFILL$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
+    private static final org.apache.poi.javax.xml.namespace.QName SOLIDFILL$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRADFILL$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
+    private static final org.apache.poi.javax.xml.namespace.QName BLIPFILL$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
+    private static final org.apache.poi.javax.xml.namespace.QName PATTFILL$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRPFILL$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTLST$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTDAG$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
+    private static final org.apache.poi.javax.xml.namespace.QName SCENE3D$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scene3d");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName BWMODE$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bwMode");
     
     
     /**

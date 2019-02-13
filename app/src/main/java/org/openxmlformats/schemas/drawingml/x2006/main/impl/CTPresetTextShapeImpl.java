@@ -19,10 +19,10 @@ public class CTPresetTextShapeImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName AVLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "avLst");
-    private static final javax.xml.namespace.QName PRST$2 = 
-        new javax.xml.namespace.QName("", "prst");
+    private static final org.apache.poi.javax.xml.namespace.QName AVLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "avLst");
+    private static final org.apache.poi.javax.xml.namespace.QName PRST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "prst");
     
     
     /**

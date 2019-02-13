@@ -19,12 +19,12 @@ public class CTAudioCDImpl extends org.apache.xmlbeans.impl.values.XmlComplexCon
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "st");
-    private static final javax.xml.namespace.QName END$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "end");
-    private static final javax.xml.namespace.QName EXTLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName ST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "st");
+    private static final org.apache.poi.javax.xml.namespace.QName END$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "end");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

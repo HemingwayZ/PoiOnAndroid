@@ -19,24 +19,24 @@ public class CTShape3DImpl extends org.apache.xmlbeans.impl.values.XmlComplexCon
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BEVELT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bevelT");
-    private static final javax.xml.namespace.QName BEVELB$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bevelB");
-    private static final javax.xml.namespace.QName EXTRUSIONCLR$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extrusionClr");
-    private static final javax.xml.namespace.QName CONTOURCLR$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "contourClr");
-    private static final javax.xml.namespace.QName EXTLST$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName Z$10 = 
-        new javax.xml.namespace.QName("", "z");
-    private static final javax.xml.namespace.QName EXTRUSIONH$12 = 
-        new javax.xml.namespace.QName("", "extrusionH");
-    private static final javax.xml.namespace.QName CONTOURW$14 = 
-        new javax.xml.namespace.QName("", "contourW");
-    private static final javax.xml.namespace.QName PRSTMATERIAL$16 = 
-        new javax.xml.namespace.QName("", "prstMaterial");
+    private static final org.apache.poi.javax.xml.namespace.QName BEVELT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bevelT");
+    private static final org.apache.poi.javax.xml.namespace.QName BEVELB$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bevelB");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTRUSIONCLR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extrusionClr");
+    private static final org.apache.poi.javax.xml.namespace.QName CONTOURCLR$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "contourClr");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName Z$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "z");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTRUSIONH$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "extrusionH");
+    private static final org.apache.poi.javax.xml.namespace.QName CONTOURW$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "contourW");
+    private static final org.apache.poi.javax.xml.namespace.QName PRSTMATERIAL$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "prstMaterial");
     
     
     /**

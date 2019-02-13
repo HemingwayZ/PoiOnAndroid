@@ -19,24 +19,24 @@ public class CTOleObjectImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EMBED$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "embed");
-    private static final javax.xml.namespace.QName LINK$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "link");
-    private static final javax.xml.namespace.QName SPID$4 = 
-        new javax.xml.namespace.QName("", "spid");
-    private static final javax.xml.namespace.QName NAME$6 = 
-        new javax.xml.namespace.QName("", "name");
-    private static final javax.xml.namespace.QName SHOWASICON$8 = 
-        new javax.xml.namespace.QName("", "showAsIcon");
-    private static final javax.xml.namespace.QName ID$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
-    private static final javax.xml.namespace.QName IMGW$12 = 
-        new javax.xml.namespace.QName("", "imgW");
-    private static final javax.xml.namespace.QName IMGH$14 = 
-        new javax.xml.namespace.QName("", "imgH");
-    private static final javax.xml.namespace.QName PROGID$16 = 
-        new javax.xml.namespace.QName("", "progId");
+    private static final org.apache.poi.javax.xml.namespace.QName EMBED$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "embed");
+    private static final org.apache.poi.javax.xml.namespace.QName LINK$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "link");
+    private static final org.apache.poi.javax.xml.namespace.QName SPID$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "spid");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWASICON$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showAsIcon");
+    private static final org.apache.poi.javax.xml.namespace.QName ID$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
+    private static final org.apache.poi.javax.xml.namespace.QName IMGW$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "imgW");
+    private static final org.apache.poi.javax.xml.namespace.QName IMGH$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "imgH");
+    private static final org.apache.poi.javax.xml.namespace.QName PROGID$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "progId");
     
     
     /**

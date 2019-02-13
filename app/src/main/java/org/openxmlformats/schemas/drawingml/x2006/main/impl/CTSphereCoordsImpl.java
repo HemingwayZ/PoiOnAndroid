@@ -19,12 +19,12 @@ public class CTSphereCoordsImpl extends org.apache.xmlbeans.impl.values.XmlCompl
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LAT$0 = 
-        new javax.xml.namespace.QName("", "lat");
-    private static final javax.xml.namespace.QName LON$2 = 
-        new javax.xml.namespace.QName("", "lon");
-    private static final javax.xml.namespace.QName REV$4 = 
-        new javax.xml.namespace.QName("", "rev");
+    private static final org.apache.poi.javax.xml.namespace.QName LAT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lat");
+    private static final org.apache.poi.javax.xml.namespace.QName LON$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lon");
+    private static final org.apache.poi.javax.xml.namespace.QName REV$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rev");
     
     
     /**

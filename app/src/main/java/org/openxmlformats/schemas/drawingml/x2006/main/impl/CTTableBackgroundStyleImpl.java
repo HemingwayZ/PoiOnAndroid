@@ -19,14 +19,14 @@ public class CTTableBackgroundStyleImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName FILL$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fill");
-    private static final javax.xml.namespace.QName FILLREF$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillRef");
-    private static final javax.xml.namespace.QName EFFECT$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effect");
-    private static final javax.xml.namespace.QName EFFECTREF$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectRef");
+    private static final org.apache.poi.javax.xml.namespace.QName FILL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fill");
+    private static final org.apache.poi.javax.xml.namespace.QName FILLREF$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillRef");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECT$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effect");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTREF$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectRef");
     
     
     /**

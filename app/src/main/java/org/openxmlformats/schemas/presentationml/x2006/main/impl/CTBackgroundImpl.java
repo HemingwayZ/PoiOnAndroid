@@ -19,12 +19,12 @@ public class CTBackgroundImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BGPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bgPr");
-    private static final javax.xml.namespace.QName BGREF$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bgRef");
-    private static final javax.xml.namespace.QName BWMODE$4 = 
-        new javax.xml.namespace.QName("", "bwMode");
+    private static final org.apache.poi.javax.xml.namespace.QName BGPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bgPr");
+    private static final org.apache.poi.javax.xml.namespace.QName BGREF$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bgRef");
+    private static final org.apache.poi.javax.xml.namespace.QName BWMODE$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bwMode");
     
     
     /**

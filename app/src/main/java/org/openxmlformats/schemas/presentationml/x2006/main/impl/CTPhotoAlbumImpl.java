@@ -19,16 +19,16 @@ public class CTPhotoAlbumImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName BW$2 = 
-        new javax.xml.namespace.QName("", "bw");
-    private static final javax.xml.namespace.QName SHOWCAPTIONS$4 = 
-        new javax.xml.namespace.QName("", "showCaptions");
-    private static final javax.xml.namespace.QName LAYOUT$6 = 
-        new javax.xml.namespace.QName("", "layout");
-    private static final javax.xml.namespace.QName FRAME$8 = 
-        new javax.xml.namespace.QName("", "frame");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName BW$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bw");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWCAPTIONS$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showCaptions");
+    private static final org.apache.poi.javax.xml.namespace.QName LAYOUT$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "layout");
+    private static final org.apache.poi.javax.xml.namespace.QName FRAME$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "frame");
     
     
     /**

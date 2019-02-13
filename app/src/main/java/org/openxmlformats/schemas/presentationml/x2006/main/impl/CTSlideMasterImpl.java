@@ -19,24 +19,24 @@ public class CTSlideMasterImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CSLD$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cSld");
-    private static final javax.xml.namespace.QName CLRMAP$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "clrMap");
-    private static final javax.xml.namespace.QName SLDLAYOUTIDLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldLayoutIdLst");
-    private static final javax.xml.namespace.QName TRANSITION$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "transition");
-    private static final javax.xml.namespace.QName TIMING$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "timing");
-    private static final javax.xml.namespace.QName HF$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "hf");
-    private static final javax.xml.namespace.QName TXSTYLES$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "txStyles");
-    private static final javax.xml.namespace.QName EXTLST$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName PRESERVE$16 = 
-        new javax.xml.namespace.QName("", "preserve");
+    private static final org.apache.poi.javax.xml.namespace.QName CSLD$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cSld");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRMAP$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "clrMap");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDLAYOUTIDLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldLayoutIdLst");
+    private static final org.apache.poi.javax.xml.namespace.QName TRANSITION$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "transition");
+    private static final org.apache.poi.javax.xml.namespace.QName TIMING$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "timing");
+    private static final org.apache.poi.javax.xml.namespace.QName HF$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "hf");
+    private static final org.apache.poi.javax.xml.namespace.QName TXSTYLES$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "txStyles");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName PRESERVE$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "preserve");
     
     
     /**

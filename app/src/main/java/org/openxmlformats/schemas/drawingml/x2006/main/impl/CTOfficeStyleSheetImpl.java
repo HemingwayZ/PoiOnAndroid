@@ -19,18 +19,18 @@ public class CTOfficeStyleSheetImpl extends org.apache.xmlbeans.impl.values.XmlC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName THEMEELEMENTS$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "themeElements");
-    private static final javax.xml.namespace.QName OBJECTDEFAULTS$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "objectDefaults");
-    private static final javax.xml.namespace.QName EXTRACLRSCHEMELST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extraClrSchemeLst");
-    private static final javax.xml.namespace.QName CUSTCLRLST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "custClrLst");
-    private static final javax.xml.namespace.QName EXTLST$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName NAME$10 = 
-        new javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName THEMEELEMENTS$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "themeElements");
+    private static final org.apache.poi.javax.xml.namespace.QName OBJECTDEFAULTS$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "objectDefaults");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTRACLRSCHEMELST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extraClrSchemeLst");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTCLRLST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "custClrLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
     
     
     /**

@@ -19,26 +19,26 @@ public class CTWebPropertiesImpl extends org.apache.xmlbeans.impl.values.XmlComp
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SHOWANIMATION$2 = 
-        new javax.xml.namespace.QName("", "showAnimation");
-    private static final javax.xml.namespace.QName RESIZEGRAPHICS$4 = 
-        new javax.xml.namespace.QName("", "resizeGraphics");
-    private static final javax.xml.namespace.QName ALLOWPNG$6 = 
-        new javax.xml.namespace.QName("", "allowPng");
-    private static final javax.xml.namespace.QName RELYONVML$8 = 
-        new javax.xml.namespace.QName("", "relyOnVml");
-    private static final javax.xml.namespace.QName ORGANIZEINFOLDERS$10 = 
-        new javax.xml.namespace.QName("", "organizeInFolders");
-    private static final javax.xml.namespace.QName USELONGFILENAMES$12 = 
-        new javax.xml.namespace.QName("", "useLongFilenames");
-    private static final javax.xml.namespace.QName IMGSZ$14 = 
-        new javax.xml.namespace.QName("", "imgSz");
-    private static final javax.xml.namespace.QName ENCODING$16 = 
-        new javax.xml.namespace.QName("", "encoding");
-    private static final javax.xml.namespace.QName CLR$18 = 
-        new javax.xml.namespace.QName("", "clr");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWANIMATION$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showAnimation");
+    private static final org.apache.poi.javax.xml.namespace.QName RESIZEGRAPHICS$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "resizeGraphics");
+    private static final org.apache.poi.javax.xml.namespace.QName ALLOWPNG$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "allowPng");
+    private static final org.apache.poi.javax.xml.namespace.QName RELYONVML$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "relyOnVml");
+    private static final org.apache.poi.javax.xml.namespace.QName ORGANIZEINFOLDERS$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "organizeInFolders");
+    private static final org.apache.poi.javax.xml.namespace.QName USELONGFILENAMES$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "useLongFilenames");
+    private static final org.apache.poi.javax.xml.namespace.QName IMGSZ$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "imgSz");
+    private static final org.apache.poi.javax.xml.namespace.QName ENCODING$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "encoding");
+    private static final org.apache.poi.javax.xml.namespace.QName CLR$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "clr");
     
     
     /**

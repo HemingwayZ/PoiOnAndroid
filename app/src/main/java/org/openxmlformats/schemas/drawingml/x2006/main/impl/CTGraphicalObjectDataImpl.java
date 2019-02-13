@@ -19,8 +19,8 @@ public class CTGraphicalObjectDataImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName URI$0 = 
-        new javax.xml.namespace.QName("", "uri");
+    private static final org.apache.poi.javax.xml.namespace.QName URI$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "uri");
     
     
     /**

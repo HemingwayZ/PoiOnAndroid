@@ -19,12 +19,12 @@ public class CTGroupShapeNonVisualImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CNVPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cNvPr");
-    private static final javax.xml.namespace.QName CNVGRPSPPR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cNvGrpSpPr");
-    private static final javax.xml.namespace.QName NVPR$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "nvPr");
+    private static final org.apache.poi.javax.xml.namespace.QName CNVPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cNvPr");
+    private static final org.apache.poi.javax.xml.namespace.QName CNVGRPSPPR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cNvGrpSpPr");
+    private static final org.apache.poi.javax.xml.namespace.QName NVPR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "nvPr");
     
     
     /**

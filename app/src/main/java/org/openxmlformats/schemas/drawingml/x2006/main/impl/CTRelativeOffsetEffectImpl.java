@@ -19,10 +19,10 @@ public class CTRelativeOffsetEffectImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TX$0 = 
-        new javax.xml.namespace.QName("", "tx");
-    private static final javax.xml.namespace.QName TY$2 = 
-        new javax.xml.namespace.QName("", "ty");
+    private static final org.apache.poi.javax.xml.namespace.QName TX$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "tx");
+    private static final org.apache.poi.javax.xml.namespace.QName TY$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "ty");
     
     
     /**

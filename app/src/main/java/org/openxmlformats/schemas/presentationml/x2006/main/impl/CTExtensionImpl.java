@@ -19,8 +19,8 @@ public class CTExtensionImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName URI$0 = 
-        new javax.xml.namespace.QName("", "uri");
+    private static final org.apache.poi.javax.xml.namespace.QName URI$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "uri");
     
     
     /**

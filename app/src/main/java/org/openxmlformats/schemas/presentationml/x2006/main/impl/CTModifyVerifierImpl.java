@@ -19,30 +19,30 @@ public class CTModifyVerifierImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CRYPTPROVIDERTYPE$0 = 
-        new javax.xml.namespace.QName("", "cryptProviderType");
-    private static final javax.xml.namespace.QName CRYPTALGORITHMCLASS$2 = 
-        new javax.xml.namespace.QName("", "cryptAlgorithmClass");
-    private static final javax.xml.namespace.QName CRYPTALGORITHMTYPE$4 = 
-        new javax.xml.namespace.QName("", "cryptAlgorithmType");
-    private static final javax.xml.namespace.QName CRYPTALGORITHMSID$6 = 
-        new javax.xml.namespace.QName("", "cryptAlgorithmSid");
-    private static final javax.xml.namespace.QName SPINCOUNT$8 = 
-        new javax.xml.namespace.QName("", "spinCount");
-    private static final javax.xml.namespace.QName SALTDATA$10 = 
-        new javax.xml.namespace.QName("", "saltData");
-    private static final javax.xml.namespace.QName HASHDATA$12 = 
-        new javax.xml.namespace.QName("", "hashData");
-    private static final javax.xml.namespace.QName CRYPTPROVIDER$14 = 
-        new javax.xml.namespace.QName("", "cryptProvider");
-    private static final javax.xml.namespace.QName ALGIDEXT$16 = 
-        new javax.xml.namespace.QName("", "algIdExt");
-    private static final javax.xml.namespace.QName ALGIDEXTSOURCE$18 = 
-        new javax.xml.namespace.QName("", "algIdExtSource");
-    private static final javax.xml.namespace.QName CRYPTPROVIDERTYPEEXT$20 = 
-        new javax.xml.namespace.QName("", "cryptProviderTypeExt");
-    private static final javax.xml.namespace.QName CRYPTPROVIDERTYPEEXTSOURCE$22 = 
-        new javax.xml.namespace.QName("", "cryptProviderTypeExtSource");
+    private static final org.apache.poi.javax.xml.namespace.QName CRYPTPROVIDERTYPE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cryptProviderType");
+    private static final org.apache.poi.javax.xml.namespace.QName CRYPTALGORITHMCLASS$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cryptAlgorithmClass");
+    private static final org.apache.poi.javax.xml.namespace.QName CRYPTALGORITHMTYPE$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cryptAlgorithmType");
+    private static final org.apache.poi.javax.xml.namespace.QName CRYPTALGORITHMSID$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cryptAlgorithmSid");
+    private static final org.apache.poi.javax.xml.namespace.QName SPINCOUNT$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "spinCount");
+    private static final org.apache.poi.javax.xml.namespace.QName SALTDATA$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "saltData");
+    private static final org.apache.poi.javax.xml.namespace.QName HASHDATA$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hashData");
+    private static final org.apache.poi.javax.xml.namespace.QName CRYPTPROVIDER$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cryptProvider");
+    private static final org.apache.poi.javax.xml.namespace.QName ALGIDEXT$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "algIdExt");
+    private static final org.apache.poi.javax.xml.namespace.QName ALGIDEXTSOURCE$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "algIdExtSource");
+    private static final org.apache.poi.javax.xml.namespace.QName CRYPTPROVIDERTYPEEXT$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cryptProviderTypeExt");
+    private static final org.apache.poi.javax.xml.namespace.QName CRYPTPROVIDERTYPEEXTSOURCE$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cryptProviderTypeExtSource");
     
     
     /**

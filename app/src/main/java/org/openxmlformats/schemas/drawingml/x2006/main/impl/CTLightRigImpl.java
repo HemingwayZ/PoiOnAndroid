@@ -19,12 +19,12 @@ public class CTLightRigImpl extends org.apache.xmlbeans.impl.values.XmlComplexCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ROT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rot");
-    private static final javax.xml.namespace.QName RIG$2 = 
-        new javax.xml.namespace.QName("", "rig");
-    private static final javax.xml.namespace.QName DIR$4 = 
-        new javax.xml.namespace.QName("", "dir");
+    private static final org.apache.poi.javax.xml.namespace.QName ROT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rot");
+    private static final org.apache.poi.javax.xml.namespace.QName RIG$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rig");
+    private static final org.apache.poi.javax.xml.namespace.QName DIR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dir");
     
     
     /**

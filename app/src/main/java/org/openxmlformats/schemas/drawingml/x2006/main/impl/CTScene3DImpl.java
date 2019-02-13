@@ -19,14 +19,14 @@ public class CTScene3DImpl extends org.apache.xmlbeans.impl.values.XmlComplexCon
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CAMERA$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "camera");
-    private static final javax.xml.namespace.QName LIGHTRIG$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lightRig");
-    private static final javax.xml.namespace.QName BACKDROP$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "backdrop");
-    private static final javax.xml.namespace.QName EXTLST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName CAMERA$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "camera");
+    private static final org.apache.poi.javax.xml.namespace.QName LIGHTRIG$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lightRig");
+    private static final org.apache.poi.javax.xml.namespace.QName BACKDROP$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "backdrop");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

@@ -19,8 +19,8 @@ public class CTCustomShowListImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CUSTSHOW$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custShow");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTSHOW$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custShow");
     
     
     /**

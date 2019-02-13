@@ -19,28 +19,28 @@ public class CTTableStyleTextStyleImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName FONT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "font");
-    private static final javax.xml.namespace.QName FONTREF$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fontRef");
-    private static final javax.xml.namespace.QName SCRGBCLR$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scrgbClr");
-    private static final javax.xml.namespace.QName SRGBCLR$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "srgbClr");
-    private static final javax.xml.namespace.QName HSLCLR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hslClr");
-    private static final javax.xml.namespace.QName SYSCLR$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sysClr");
-    private static final javax.xml.namespace.QName SCHEMECLR$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "schemeClr");
-    private static final javax.xml.namespace.QName PRSTCLR$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstClr");
-    private static final javax.xml.namespace.QName EXTLST$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName B$18 = 
-        new javax.xml.namespace.QName("", "b");
-    private static final javax.xml.namespace.QName I$20 = 
-        new javax.xml.namespace.QName("", "i");
+    private static final org.apache.poi.javax.xml.namespace.QName FONT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "font");
+    private static final org.apache.poi.javax.xml.namespace.QName FONTREF$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fontRef");
+    private static final org.apache.poi.javax.xml.namespace.QName SCRGBCLR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scrgbClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SRGBCLR$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "srgbClr");
+    private static final org.apache.poi.javax.xml.namespace.QName HSLCLR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hslClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SYSCLR$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sysClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SCHEMECLR$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "schemeClr");
+    private static final org.apache.poi.javax.xml.namespace.QName PRSTCLR$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstClr");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName B$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "b");
+    private static final org.apache.poi.javax.xml.namespace.QName I$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "i");
     
     
     /**

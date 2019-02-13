@@ -19,10 +19,10 @@ public class CTColorSchemeAndMappingImpl extends org.apache.xmlbeans.impl.values
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CLRSCHEME$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrScheme");
-    private static final javax.xml.namespace.QName CLRMAP$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrMap");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRSCHEME$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrScheme");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRMAP$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrMap");
     
     
     /**

@@ -19,8 +19,8 @@ public class CTAlphaModulateEffectImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CONT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cont");
+    private static final org.apache.poi.javax.xml.namespace.QName CONT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cont");
     
     
     /**

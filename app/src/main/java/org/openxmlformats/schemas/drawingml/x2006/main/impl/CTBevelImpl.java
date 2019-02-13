@@ -19,12 +19,12 @@ public class CTBevelImpl extends org.apache.xmlbeans.impl.values.XmlComplexConte
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName W$0 = 
-        new javax.xml.namespace.QName("", "w");
-    private static final javax.xml.namespace.QName H$2 = 
-        new javax.xml.namespace.QName("", "h");
-    private static final javax.xml.namespace.QName PRST$4 = 
-        new javax.xml.namespace.QName("", "prst");
+    private static final org.apache.poi.javax.xml.namespace.QName W$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "w");
+    private static final org.apache.poi.javax.xml.namespace.QName H$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "h");
+    private static final org.apache.poi.javax.xml.namespace.QName PRST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "prst");
     
     
     /**

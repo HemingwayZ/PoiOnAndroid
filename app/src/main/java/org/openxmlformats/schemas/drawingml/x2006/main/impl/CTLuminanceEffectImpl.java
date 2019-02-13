@@ -19,10 +19,10 @@ public class CTLuminanceEffectImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BRIGHT$0 = 
-        new javax.xml.namespace.QName("", "bright");
-    private static final javax.xml.namespace.QName CONTRAST$2 = 
-        new javax.xml.namespace.QName("", "contrast");
+    private static final org.apache.poi.javax.xml.namespace.QName BRIGHT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bright");
+    private static final org.apache.poi.javax.xml.namespace.QName CONTRAST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "contrast");
     
     
     /**

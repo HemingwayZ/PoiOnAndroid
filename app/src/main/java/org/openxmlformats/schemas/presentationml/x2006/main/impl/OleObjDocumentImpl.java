@@ -20,8 +20,8 @@ public class OleObjDocumentImpl extends org.apache.xmlbeans.impl.values.XmlCompl
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName OLEOBJ$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "oleObj");
+    private static final org.apache.poi.javax.xml.namespace.QName OLEOBJ$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "oleObj");
     
     
     /**

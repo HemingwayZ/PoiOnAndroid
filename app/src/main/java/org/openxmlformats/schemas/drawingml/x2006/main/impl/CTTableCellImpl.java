@@ -19,20 +19,20 @@ public class CTTableCellImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TXBODY$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "txBody");
-    private static final javax.xml.namespace.QName TCPR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tcPr");
-    private static final javax.xml.namespace.QName EXTLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName ROWSPAN$6 = 
-        new javax.xml.namespace.QName("", "rowSpan");
-    private static final javax.xml.namespace.QName GRIDSPAN$8 = 
-        new javax.xml.namespace.QName("", "gridSpan");
-    private static final javax.xml.namespace.QName HMERGE$10 = 
-        new javax.xml.namespace.QName("", "hMerge");
-    private static final javax.xml.namespace.QName VMERGE$12 = 
-        new javax.xml.namespace.QName("", "vMerge");
+    private static final org.apache.poi.javax.xml.namespace.QName TXBODY$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "txBody");
+    private static final org.apache.poi.javax.xml.namespace.QName TCPR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tcPr");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName ROWSPAN$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rowSpan");
+    private static final org.apache.poi.javax.xml.namespace.QName GRIDSPAN$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "gridSpan");
+    private static final org.apache.poi.javax.xml.namespace.QName HMERGE$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hMerge");
+    private static final org.apache.poi.javax.xml.namespace.QName VMERGE$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "vMerge");
     
     
     /**

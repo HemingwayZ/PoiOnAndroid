@@ -20,8 +20,8 @@ public class NotesDocumentImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName NOTES$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notes");
+    private static final org.apache.poi.javax.xml.namespace.QName NOTES$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notes");
     
     
     /**

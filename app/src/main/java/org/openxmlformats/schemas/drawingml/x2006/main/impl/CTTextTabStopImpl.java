@@ -19,10 +19,10 @@ public class CTTextTabStopImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName POS$0 = 
-        new javax.xml.namespace.QName("", "pos");
-    private static final javax.xml.namespace.QName ALGN$2 = 
-        new javax.xml.namespace.QName("", "algn");
+    private static final org.apache.poi.javax.xml.namespace.QName POS$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "pos");
+    private static final org.apache.poi.javax.xml.namespace.QName ALGN$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "algn");
     
     
     /**

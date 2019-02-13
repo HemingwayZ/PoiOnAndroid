@@ -19,10 +19,10 @@ public class CTTableStyleListImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TBLSTYLE$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tblStyle");
-    private static final javax.xml.namespace.QName DEF$2 = 
-        new javax.xml.namespace.QName("", "def");
+    private static final org.apache.poi.javax.xml.namespace.QName TBLSTYLE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tblStyle");
+    private static final org.apache.poi.javax.xml.namespace.QName DEF$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "def");
     
     
     /**

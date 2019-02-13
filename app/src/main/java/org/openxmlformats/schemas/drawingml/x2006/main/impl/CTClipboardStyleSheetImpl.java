@@ -19,10 +19,10 @@ public class CTClipboardStyleSheetImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName THEMEELEMENTS$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "themeElements");
-    private static final javax.xml.namespace.QName CLRMAP$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrMap");
+    private static final org.apache.poi.javax.xml.namespace.QName THEMEELEMENTS$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "themeElements");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRMAP$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrMap");
     
     
     /**

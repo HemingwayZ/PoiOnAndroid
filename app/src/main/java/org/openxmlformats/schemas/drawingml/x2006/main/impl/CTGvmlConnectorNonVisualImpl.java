@@ -19,10 +19,10 @@ public class CTGvmlConnectorNonVisualImpl extends org.apache.xmlbeans.impl.value
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CNVPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cNvPr");
-    private static final javax.xml.namespace.QName CNVCXNSPPR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cNvCxnSpPr");
+    private static final org.apache.poi.javax.xml.namespace.QName CNVPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cNvPr");
+    private static final org.apache.poi.javax.xml.namespace.QName CNVCXNSPPR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cNvCxnSpPr");
     
     
     /**

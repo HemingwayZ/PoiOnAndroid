@@ -19,12 +19,12 @@ public class CTTableRowImpl extends org.apache.xmlbeans.impl.values.XmlComplexCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TC$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tc");
-    private static final javax.xml.namespace.QName EXTLST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName H$4 = 
-        new javax.xml.namespace.QName("", "h");
+    private static final org.apache.poi.javax.xml.namespace.QName TC$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tc");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName H$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "h");
     
     
     /**

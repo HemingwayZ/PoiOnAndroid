@@ -20,8 +20,8 @@ public class SldLayoutDocumentImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SLDLAYOUT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldLayout");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDLAYOUT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldLayout");
     
     
     /**

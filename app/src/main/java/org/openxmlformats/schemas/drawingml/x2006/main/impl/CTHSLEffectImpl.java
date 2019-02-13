@@ -19,12 +19,12 @@ public class CTHSLEffectImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName HUE$0 = 
-        new javax.xml.namespace.QName("", "hue");
-    private static final javax.xml.namespace.QName SAT$2 = 
-        new javax.xml.namespace.QName("", "sat");
-    private static final javax.xml.namespace.QName LUM$4 = 
-        new javax.xml.namespace.QName("", "lum");
+    private static final org.apache.poi.javax.xml.namespace.QName HUE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hue");
+    private static final org.apache.poi.javax.xml.namespace.QName SAT$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sat");
+    private static final org.apache.poi.javax.xml.namespace.QName LUM$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lum");
     
     
     /**

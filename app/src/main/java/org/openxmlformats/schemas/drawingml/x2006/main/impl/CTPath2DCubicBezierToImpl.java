@@ -19,8 +19,8 @@ public class CTPath2DCubicBezierToImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName PT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pt");
+    private static final org.apache.poi.javax.xml.namespace.QName PT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pt");
     
     
     /**

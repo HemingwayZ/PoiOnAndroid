@@ -19,40 +19,40 @@ public class CTTableStyleImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TBLBG$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tblBg");
-    private static final javax.xml.namespace.QName WHOLETBL$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "wholeTbl");
-    private static final javax.xml.namespace.QName BAND1H$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "band1H");
-    private static final javax.xml.namespace.QName BAND2H$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "band2H");
-    private static final javax.xml.namespace.QName BAND1V$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "band1V");
-    private static final javax.xml.namespace.QName BAND2V$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "band2V");
-    private static final javax.xml.namespace.QName LASTCOL$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lastCol");
-    private static final javax.xml.namespace.QName FIRSTCOL$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "firstCol");
-    private static final javax.xml.namespace.QName LASTROW$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lastRow");
-    private static final javax.xml.namespace.QName SECELL$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "seCell");
-    private static final javax.xml.namespace.QName SWCELL$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "swCell");
-    private static final javax.xml.namespace.QName FIRSTROW$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "firstRow");
-    private static final javax.xml.namespace.QName NECELL$24 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "neCell");
-    private static final javax.xml.namespace.QName NWCELL$26 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "nwCell");
-    private static final javax.xml.namespace.QName EXTLST$28 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName STYLEID$30 = 
-        new javax.xml.namespace.QName("", "styleId");
-    private static final javax.xml.namespace.QName STYLENAME$32 = 
-        new javax.xml.namespace.QName("", "styleName");
+    private static final org.apache.poi.javax.xml.namespace.QName TBLBG$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tblBg");
+    private static final org.apache.poi.javax.xml.namespace.QName WHOLETBL$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "wholeTbl");
+    private static final org.apache.poi.javax.xml.namespace.QName BAND1H$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "band1H");
+    private static final org.apache.poi.javax.xml.namespace.QName BAND2H$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "band2H");
+    private static final org.apache.poi.javax.xml.namespace.QName BAND1V$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "band1V");
+    private static final org.apache.poi.javax.xml.namespace.QName BAND2V$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "band2V");
+    private static final org.apache.poi.javax.xml.namespace.QName LASTCOL$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lastCol");
+    private static final org.apache.poi.javax.xml.namespace.QName FIRSTCOL$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "firstCol");
+    private static final org.apache.poi.javax.xml.namespace.QName LASTROW$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lastRow");
+    private static final org.apache.poi.javax.xml.namespace.QName SECELL$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "seCell");
+    private static final org.apache.poi.javax.xml.namespace.QName SWCELL$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "swCell");
+    private static final org.apache.poi.javax.xml.namespace.QName FIRSTROW$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "firstRow");
+    private static final org.apache.poi.javax.xml.namespace.QName NECELL$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "neCell");
+    private static final org.apache.poi.javax.xml.namespace.QName NWCELL$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "nwCell");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName STYLEID$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "styleId");
+    private static final org.apache.poi.javax.xml.namespace.QName STYLENAME$32 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "styleName");
     
     
     /**

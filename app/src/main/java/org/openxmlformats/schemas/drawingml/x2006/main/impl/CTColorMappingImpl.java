@@ -19,32 +19,32 @@ public class CTColorMappingImpl extends org.apache.xmlbeans.impl.values.XmlCompl
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName BG1$2 = 
-        new javax.xml.namespace.QName("", "bg1");
-    private static final javax.xml.namespace.QName TX1$4 = 
-        new javax.xml.namespace.QName("", "tx1");
-    private static final javax.xml.namespace.QName BG2$6 = 
-        new javax.xml.namespace.QName("", "bg2");
-    private static final javax.xml.namespace.QName TX2$8 = 
-        new javax.xml.namespace.QName("", "tx2");
-    private static final javax.xml.namespace.QName ACCENT1$10 = 
-        new javax.xml.namespace.QName("", "accent1");
-    private static final javax.xml.namespace.QName ACCENT2$12 = 
-        new javax.xml.namespace.QName("", "accent2");
-    private static final javax.xml.namespace.QName ACCENT3$14 = 
-        new javax.xml.namespace.QName("", "accent3");
-    private static final javax.xml.namespace.QName ACCENT4$16 = 
-        new javax.xml.namespace.QName("", "accent4");
-    private static final javax.xml.namespace.QName ACCENT5$18 = 
-        new javax.xml.namespace.QName("", "accent5");
-    private static final javax.xml.namespace.QName ACCENT6$20 = 
-        new javax.xml.namespace.QName("", "accent6");
-    private static final javax.xml.namespace.QName HLINK$22 = 
-        new javax.xml.namespace.QName("", "hlink");
-    private static final javax.xml.namespace.QName FOLHLINK$24 = 
-        new javax.xml.namespace.QName("", "folHlink");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName BG1$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bg1");
+    private static final org.apache.poi.javax.xml.namespace.QName TX1$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "tx1");
+    private static final org.apache.poi.javax.xml.namespace.QName BG2$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bg2");
+    private static final org.apache.poi.javax.xml.namespace.QName TX2$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "tx2");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT1$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "accent1");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT2$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "accent2");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT3$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "accent3");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT4$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "accent4");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT5$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "accent5");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT6$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "accent6");
+    private static final org.apache.poi.javax.xml.namespace.QName HLINK$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hlink");
+    private static final org.apache.poi.javax.xml.namespace.QName FOLHLINK$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "folHlink");
     
     
     /**

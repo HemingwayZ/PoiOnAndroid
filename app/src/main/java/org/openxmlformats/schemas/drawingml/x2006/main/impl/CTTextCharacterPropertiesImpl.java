@@ -19,86 +19,86 @@ public class CTTextCharacterPropertiesImpl extends org.apache.xmlbeans.impl.valu
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LN$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ln");
-    private static final javax.xml.namespace.QName NOFILL$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
-    private static final javax.xml.namespace.QName SOLIDFILL$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
-    private static final javax.xml.namespace.QName GRADFILL$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
-    private static final javax.xml.namespace.QName BLIPFILL$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
-    private static final javax.xml.namespace.QName PATTFILL$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
-    private static final javax.xml.namespace.QName GRPFILL$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
-    private static final javax.xml.namespace.QName EFFECTLST$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
-    private static final javax.xml.namespace.QName EFFECTDAG$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
-    private static final javax.xml.namespace.QName HIGHLIGHT$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "highlight");
-    private static final javax.xml.namespace.QName ULNTX$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "uLnTx");
-    private static final javax.xml.namespace.QName ULN$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "uLn");
-    private static final javax.xml.namespace.QName UFILLTX$24 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "uFillTx");
-    private static final javax.xml.namespace.QName UFILL$26 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "uFill");
-    private static final javax.xml.namespace.QName LATIN$28 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "latin");
-    private static final javax.xml.namespace.QName EA$30 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ea");
-    private static final javax.xml.namespace.QName CS$32 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cs");
-    private static final javax.xml.namespace.QName SYM$34 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sym");
-    private static final javax.xml.namespace.QName HLINKCLICK$36 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hlinkClick");
-    private static final javax.xml.namespace.QName HLINKMOUSEOVER$38 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hlinkMouseOver");
-    private static final javax.xml.namespace.QName EXTLST$40 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName KUMIMOJI$42 = 
-        new javax.xml.namespace.QName("", "kumimoji");
-    private static final javax.xml.namespace.QName LANG$44 = 
-        new javax.xml.namespace.QName("", "lang");
-    private static final javax.xml.namespace.QName ALTLANG$46 = 
-        new javax.xml.namespace.QName("", "altLang");
-    private static final javax.xml.namespace.QName SZ$48 = 
-        new javax.xml.namespace.QName("", "sz");
-    private static final javax.xml.namespace.QName B$50 = 
-        new javax.xml.namespace.QName("", "b");
-    private static final javax.xml.namespace.QName I$52 = 
-        new javax.xml.namespace.QName("", "i");
-    private static final javax.xml.namespace.QName U$54 = 
-        new javax.xml.namespace.QName("", "u");
-    private static final javax.xml.namespace.QName STRIKE$56 = 
-        new javax.xml.namespace.QName("", "strike");
-    private static final javax.xml.namespace.QName KERN$58 = 
-        new javax.xml.namespace.QName("", "kern");
-    private static final javax.xml.namespace.QName CAP$60 = 
-        new javax.xml.namespace.QName("", "cap");
-    private static final javax.xml.namespace.QName SPC$62 = 
-        new javax.xml.namespace.QName("", "spc");
-    private static final javax.xml.namespace.QName NORMALIZEH$64 = 
-        new javax.xml.namespace.QName("", "normalizeH");
-    private static final javax.xml.namespace.QName BASELINE$66 = 
-        new javax.xml.namespace.QName("", "baseline");
-    private static final javax.xml.namespace.QName NOPROOF$68 = 
-        new javax.xml.namespace.QName("", "noProof");
-    private static final javax.xml.namespace.QName DIRTY$70 = 
-        new javax.xml.namespace.QName("", "dirty");
-    private static final javax.xml.namespace.QName ERR$72 = 
-        new javax.xml.namespace.QName("", "err");
-    private static final javax.xml.namespace.QName SMTCLEAN$74 = 
-        new javax.xml.namespace.QName("", "smtClean");
-    private static final javax.xml.namespace.QName SMTID$76 = 
-        new javax.xml.namespace.QName("", "smtId");
-    private static final javax.xml.namespace.QName BMK$78 = 
-        new javax.xml.namespace.QName("", "bmk");
+    private static final org.apache.poi.javax.xml.namespace.QName LN$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ln");
+    private static final org.apache.poi.javax.xml.namespace.QName NOFILL$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
+    private static final org.apache.poi.javax.xml.namespace.QName SOLIDFILL$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRADFILL$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
+    private static final org.apache.poi.javax.xml.namespace.QName BLIPFILL$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
+    private static final org.apache.poi.javax.xml.namespace.QName PATTFILL$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRPFILL$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTLST$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTDAG$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
+    private static final org.apache.poi.javax.xml.namespace.QName HIGHLIGHT$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "highlight");
+    private static final org.apache.poi.javax.xml.namespace.QName ULNTX$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "uLnTx");
+    private static final org.apache.poi.javax.xml.namespace.QName ULN$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "uLn");
+    private static final org.apache.poi.javax.xml.namespace.QName UFILLTX$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "uFillTx");
+    private static final org.apache.poi.javax.xml.namespace.QName UFILL$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "uFill");
+    private static final org.apache.poi.javax.xml.namespace.QName LATIN$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "latin");
+    private static final org.apache.poi.javax.xml.namespace.QName EA$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ea");
+    private static final org.apache.poi.javax.xml.namespace.QName CS$32 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cs");
+    private static final org.apache.poi.javax.xml.namespace.QName SYM$34 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sym");
+    private static final org.apache.poi.javax.xml.namespace.QName HLINKCLICK$36 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hlinkClick");
+    private static final org.apache.poi.javax.xml.namespace.QName HLINKMOUSEOVER$38 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hlinkMouseOver");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$40 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName KUMIMOJI$42 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "kumimoji");
+    private static final org.apache.poi.javax.xml.namespace.QName LANG$44 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lang");
+    private static final org.apache.poi.javax.xml.namespace.QName ALTLANG$46 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "altLang");
+    private static final org.apache.poi.javax.xml.namespace.QName SZ$48 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sz");
+    private static final org.apache.poi.javax.xml.namespace.QName B$50 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "b");
+    private static final org.apache.poi.javax.xml.namespace.QName I$52 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "i");
+    private static final org.apache.poi.javax.xml.namespace.QName U$54 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "u");
+    private static final org.apache.poi.javax.xml.namespace.QName STRIKE$56 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "strike");
+    private static final org.apache.poi.javax.xml.namespace.QName KERN$58 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "kern");
+    private static final org.apache.poi.javax.xml.namespace.QName CAP$60 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cap");
+    private static final org.apache.poi.javax.xml.namespace.QName SPC$62 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "spc");
+    private static final org.apache.poi.javax.xml.namespace.QName NORMALIZEH$64 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "normalizeH");
+    private static final org.apache.poi.javax.xml.namespace.QName BASELINE$66 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "baseline");
+    private static final org.apache.poi.javax.xml.namespace.QName NOPROOF$68 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "noProof");
+    private static final org.apache.poi.javax.xml.namespace.QName DIRTY$70 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dirty");
+    private static final org.apache.poi.javax.xml.namespace.QName ERR$72 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "err");
+    private static final org.apache.poi.javax.xml.namespace.QName SMTCLEAN$74 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "smtClean");
+    private static final org.apache.poi.javax.xml.namespace.QName SMTID$76 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "smtId");
+    private static final org.apache.poi.javax.xml.namespace.QName BMK$78 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bmk");
     
     
     /**

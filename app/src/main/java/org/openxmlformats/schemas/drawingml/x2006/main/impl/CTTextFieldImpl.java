@@ -19,16 +19,16 @@ public class CTTextFieldImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName RPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rPr");
-    private static final javax.xml.namespace.QName PPR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pPr");
-    private static final javax.xml.namespace.QName T$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "t");
-    private static final javax.xml.namespace.QName ID$6 = 
-        new javax.xml.namespace.QName("", "id");
-    private static final javax.xml.namespace.QName TYPE$8 = 
-        new javax.xml.namespace.QName("", "type");
+    private static final org.apache.poi.javax.xml.namespace.QName RPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rPr");
+    private static final org.apache.poi.javax.xml.namespace.QName PPR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName T$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "t");
+    private static final org.apache.poi.javax.xml.namespace.QName ID$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "id");
+    private static final org.apache.poi.javax.xml.namespace.QName TYPE$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "type");
     
     
     /**

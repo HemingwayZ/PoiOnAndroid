@@ -19,10 +19,10 @@ public class CTRatioImpl extends org.apache.xmlbeans.impl.values.XmlComplexConte
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName N$0 = 
-        new javax.xml.namespace.QName("", "n");
-    private static final javax.xml.namespace.QName D$2 = 
-        new javax.xml.namespace.QName("", "d");
+    private static final org.apache.poi.javax.xml.namespace.QName N$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "n");
+    private static final org.apache.poi.javax.xml.namespace.QName D$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "d");
     
     
     /**

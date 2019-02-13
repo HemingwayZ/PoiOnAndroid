@@ -19,26 +19,26 @@ public class CTHyperlinkImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SND$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "snd");
-    private static final javax.xml.namespace.QName EXTLST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName ID$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
-    private static final javax.xml.namespace.QName INVALIDURL$6 = 
-        new javax.xml.namespace.QName("", "invalidUrl");
-    private static final javax.xml.namespace.QName ACTION$8 = 
-        new javax.xml.namespace.QName("", "action");
-    private static final javax.xml.namespace.QName TGTFRAME$10 = 
-        new javax.xml.namespace.QName("", "tgtFrame");
-    private static final javax.xml.namespace.QName TOOLTIP$12 = 
-        new javax.xml.namespace.QName("", "tooltip");
-    private static final javax.xml.namespace.QName HISTORY$14 = 
-        new javax.xml.namespace.QName("", "history");
-    private static final javax.xml.namespace.QName HIGHLIGHTCLICK$16 = 
-        new javax.xml.namespace.QName("", "highlightClick");
-    private static final javax.xml.namespace.QName ENDSND$18 = 
-        new javax.xml.namespace.QName("", "endSnd");
+    private static final org.apache.poi.javax.xml.namespace.QName SND$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "snd");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName ID$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
+    private static final org.apache.poi.javax.xml.namespace.QName INVALIDURL$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "invalidUrl");
+    private static final org.apache.poi.javax.xml.namespace.QName ACTION$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "action");
+    private static final org.apache.poi.javax.xml.namespace.QName TGTFRAME$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "tgtFrame");
+    private static final org.apache.poi.javax.xml.namespace.QName TOOLTIP$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "tooltip");
+    private static final org.apache.poi.javax.xml.namespace.QName HISTORY$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "history");
+    private static final org.apache.poi.javax.xml.namespace.QName HIGHLIGHTCLICK$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "highlightClick");
+    private static final org.apache.poi.javax.xml.namespace.QName ENDSND$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "endSnd");
     
     
     /**

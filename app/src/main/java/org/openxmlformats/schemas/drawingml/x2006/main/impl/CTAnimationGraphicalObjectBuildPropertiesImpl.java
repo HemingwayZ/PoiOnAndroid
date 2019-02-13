@@ -19,10 +19,10 @@ public class CTAnimationGraphicalObjectBuildPropertiesImpl extends org.apache.xm
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BLDDGM$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bldDgm");
-    private static final javax.xml.namespace.QName BLDCHART$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bldChart");
+    private static final org.apache.poi.javax.xml.namespace.QName BLDDGM$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bldDgm");
+    private static final org.apache.poi.javax.xml.namespace.QName BLDCHART$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bldChart");
     
     
     /**

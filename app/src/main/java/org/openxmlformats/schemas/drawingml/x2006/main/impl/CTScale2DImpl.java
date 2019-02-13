@@ -19,10 +19,10 @@ public class CTScale2DImpl extends org.apache.xmlbeans.impl.values.XmlComplexCon
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SX$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sx");
-    private static final javax.xml.namespace.QName SY$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sy");
+    private static final org.apache.poi.javax.xml.namespace.QName SX$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sx");
+    private static final org.apache.poi.javax.xml.namespace.QName SY$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sy");
     
     
     /**

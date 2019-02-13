@@ -19,14 +19,14 @@ public class CTRelativeRectImpl extends org.apache.xmlbeans.impl.values.XmlCompl
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName L$0 = 
-        new javax.xml.namespace.QName("", "l");
-    private static final javax.xml.namespace.QName T$2 = 
-        new javax.xml.namespace.QName("", "t");
-    private static final javax.xml.namespace.QName R$4 = 
-        new javax.xml.namespace.QName("", "r");
-    private static final javax.xml.namespace.QName B$6 = 
-        new javax.xml.namespace.QName("", "b");
+    private static final org.apache.poi.javax.xml.namespace.QName L$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "l");
+    private static final org.apache.poi.javax.xml.namespace.QName T$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "t");
+    private static final org.apache.poi.javax.xml.namespace.QName R$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "r");
+    private static final org.apache.poi.javax.xml.namespace.QName B$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "b");
     
     
     /**

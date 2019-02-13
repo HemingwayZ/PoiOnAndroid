@@ -19,14 +19,14 @@ public class CTEffectStyleItemImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EFFECTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
-    private static final javax.xml.namespace.QName EFFECTDAG$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
-    private static final javax.xml.namespace.QName SCENE3D$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scene3d");
-    private static final javax.xml.namespace.QName SP3D$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sp3d");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTDAG$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
+    private static final org.apache.poi.javax.xml.namespace.QName SCENE3D$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scene3d");
+    private static final org.apache.poi.javax.xml.namespace.QName SP3D$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sp3d");
     
     
     /**

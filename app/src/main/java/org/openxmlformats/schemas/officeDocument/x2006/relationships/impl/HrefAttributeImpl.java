@@ -20,8 +20,8 @@ public class HrefAttributeImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName HREF$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "href");
+    private static final org.apache.poi.javax.xml.namespace.QName HREF$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "href");
     
     
     /**

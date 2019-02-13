@@ -19,10 +19,10 @@ public class CTOleObjectEmbedImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName FOLLOWCOLORSCHEME$2 = 
-        new javax.xml.namespace.QName("", "followColorScheme");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName FOLLOWCOLORSCHEME$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "followColorScheme");
     
     
     /**

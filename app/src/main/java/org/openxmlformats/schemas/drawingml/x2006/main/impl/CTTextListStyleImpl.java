@@ -19,28 +19,28 @@ public class CTTextListStyleImpl extends org.apache.xmlbeans.impl.values.XmlComp
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName DEFPPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "defPPr");
-    private static final javax.xml.namespace.QName LVL1PPR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl1pPr");
-    private static final javax.xml.namespace.QName LVL2PPR$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl2pPr");
-    private static final javax.xml.namespace.QName LVL3PPR$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl3pPr");
-    private static final javax.xml.namespace.QName LVL4PPR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl4pPr");
-    private static final javax.xml.namespace.QName LVL5PPR$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl5pPr");
-    private static final javax.xml.namespace.QName LVL6PPR$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl6pPr");
-    private static final javax.xml.namespace.QName LVL7PPR$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl7pPr");
-    private static final javax.xml.namespace.QName LVL8PPR$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl8pPr");
-    private static final javax.xml.namespace.QName LVL9PPR$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl9pPr");
-    private static final javax.xml.namespace.QName EXTLST$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName DEFPPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "defPPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL1PPR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl1pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL2PPR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl2pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL3PPR$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl3pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL4PPR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl4pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL5PPR$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl5pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL6PPR$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl6pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL7PPR$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl7pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL8PPR$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl8pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL9PPR$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lvl9pPr");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

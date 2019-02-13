@@ -19,14 +19,14 @@ public class CTTextFontImpl extends org.apache.xmlbeans.impl.values.XmlComplexCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TYPEFACE$0 = 
-        new javax.xml.namespace.QName("", "typeface");
-    private static final javax.xml.namespace.QName PANOSE$2 = 
-        new javax.xml.namespace.QName("", "panose");
-    private static final javax.xml.namespace.QName PITCHFAMILY$4 = 
-        new javax.xml.namespace.QName("", "pitchFamily");
-    private static final javax.xml.namespace.QName CHARSET$6 = 
-        new javax.xml.namespace.QName("", "charset");
+    private static final org.apache.poi.javax.xml.namespace.QName TYPEFACE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "typeface");
+    private static final org.apache.poi.javax.xml.namespace.QName PANOSE$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "panose");
+    private static final org.apache.poi.javax.xml.namespace.QName PITCHFAMILY$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "pitchFamily");
+    private static final org.apache.poi.javax.xml.namespace.QName CHARSET$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "charset");
     
     
     /**

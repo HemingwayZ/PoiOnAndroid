@@ -19,12 +19,12 @@ public class CTKinsokuImpl extends org.apache.xmlbeans.impl.values.XmlComplexCon
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LANG$0 = 
-        new javax.xml.namespace.QName("", "lang");
-    private static final javax.xml.namespace.QName INVALSTCHARS$2 = 
-        new javax.xml.namespace.QName("", "invalStChars");
-    private static final javax.xml.namespace.QName INVALENDCHARS$4 = 
-        new javax.xml.namespace.QName("", "invalEndChars");
+    private static final org.apache.poi.javax.xml.namespace.QName LANG$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lang");
+    private static final org.apache.poi.javax.xml.namespace.QName INVALSTCHARS$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "invalStChars");
+    private static final org.apache.poi.javax.xml.namespace.QName INVALENDCHARS$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "invalEndChars");
     
     
     /**

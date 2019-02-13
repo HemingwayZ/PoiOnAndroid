@@ -19,10 +19,10 @@ public class CTAdjustHandleListImpl extends org.apache.xmlbeans.impl.values.XmlC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName AHXY$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ahXY");
-    private static final javax.xml.namespace.QName AHPOLAR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ahPolar");
+    private static final org.apache.poi.javax.xml.namespace.QName AHXY$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ahXY");
+    private static final org.apache.poi.javax.xml.namespace.QName AHPOLAR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ahPolar");
     
     
     /**

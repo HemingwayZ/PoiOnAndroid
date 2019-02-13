@@ -19,18 +19,18 @@ public class CTGradientFillPropertiesImpl extends org.apache.xmlbeans.impl.value
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName GSLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gsLst");
-    private static final javax.xml.namespace.QName LIN$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lin");
-    private static final javax.xml.namespace.QName PATH$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "path");
-    private static final javax.xml.namespace.QName TILERECT$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tileRect");
-    private static final javax.xml.namespace.QName FLIP$8 = 
-        new javax.xml.namespace.QName("", "flip");
-    private static final javax.xml.namespace.QName ROTWITHSHAPE$10 = 
-        new javax.xml.namespace.QName("", "rotWithShape");
+    private static final org.apache.poi.javax.xml.namespace.QName GSLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gsLst");
+    private static final org.apache.poi.javax.xml.namespace.QName LIN$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lin");
+    private static final org.apache.poi.javax.xml.namespace.QName PATH$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "path");
+    private static final org.apache.poi.javax.xml.namespace.QName TILERECT$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tileRect");
+    private static final org.apache.poi.javax.xml.namespace.QName FLIP$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "flip");
+    private static final org.apache.poi.javax.xml.namespace.QName ROTWITHSHAPE$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rotWithShape");
     
     
     /**

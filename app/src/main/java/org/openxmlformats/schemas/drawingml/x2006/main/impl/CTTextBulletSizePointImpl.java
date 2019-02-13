@@ -19,8 +19,8 @@ public class CTTextBulletSizePointImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName VAL$0 = 
-        new javax.xml.namespace.QName("", "val");
+    private static final org.apache.poi.javax.xml.namespace.QName VAL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "val");
     
     
     /**

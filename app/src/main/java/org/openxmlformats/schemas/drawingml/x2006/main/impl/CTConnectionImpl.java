@@ -19,10 +19,10 @@ public class CTConnectionImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ID$0 = 
-        new javax.xml.namespace.QName("", "id");
-    private static final javax.xml.namespace.QName IDX$2 = 
-        new javax.xml.namespace.QName("", "idx");
+    private static final org.apache.poi.javax.xml.namespace.QName ID$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "id");
+    private static final org.apache.poi.javax.xml.namespace.QName IDX$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "idx");
     
     
     /**

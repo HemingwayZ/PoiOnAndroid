@@ -19,12 +19,12 @@ public class CTTableImpl extends org.apache.xmlbeans.impl.values.XmlComplexConte
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TBLPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tblPr");
-    private static final javax.xml.namespace.QName TBLGRID$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tblGrid");
-    private static final javax.xml.namespace.QName TR$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tr");
+    private static final org.apache.poi.javax.xml.namespace.QName TBLPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tblPr");
+    private static final org.apache.poi.javax.xml.namespace.QName TBLGRID$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tblGrid");
+    private static final org.apache.poi.javax.xml.namespace.QName TR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tr");
     
     
     /**

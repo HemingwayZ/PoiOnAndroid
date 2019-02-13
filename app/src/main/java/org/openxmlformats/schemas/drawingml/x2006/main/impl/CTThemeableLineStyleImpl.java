@@ -19,10 +19,10 @@ public class CTThemeableLineStyleImpl extends org.apache.xmlbeans.impl.values.Xm
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LN$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ln");
-    private static final javax.xml.namespace.QName LNREF$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnRef");
+    private static final org.apache.poi.javax.xml.namespace.QName LN$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ln");
+    private static final org.apache.poi.javax.xml.namespace.QName LNREF$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnRef");
     
     
     /**

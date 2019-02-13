@@ -19,14 +19,14 @@ public class CTCameraImpl extends org.apache.xmlbeans.impl.values.XmlComplexCont
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ROT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rot");
-    private static final javax.xml.namespace.QName PRST$2 = 
-        new javax.xml.namespace.QName("", "prst");
-    private static final javax.xml.namespace.QName FOV$4 = 
-        new javax.xml.namespace.QName("", "fov");
-    private static final javax.xml.namespace.QName ZOOM$6 = 
-        new javax.xml.namespace.QName("", "zoom");
+    private static final org.apache.poi.javax.xml.namespace.QName ROT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rot");
+    private static final org.apache.poi.javax.xml.namespace.QName PRST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "prst");
+    private static final org.apache.poi.javax.xml.namespace.QName FOV$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "fov");
+    private static final org.apache.poi.javax.xml.namespace.QName ZOOM$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "zoom");
     
     
     /**

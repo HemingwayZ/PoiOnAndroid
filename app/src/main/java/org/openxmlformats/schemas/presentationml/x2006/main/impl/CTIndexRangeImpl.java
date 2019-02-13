@@ -19,10 +19,10 @@ public class CTIndexRangeImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ST$0 = 
-        new javax.xml.namespace.QName("", "st");
-    private static final javax.xml.namespace.QName END$2 = 
-        new javax.xml.namespace.QName("", "end");
+    private static final org.apache.poi.javax.xml.namespace.QName ST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "st");
+    private static final org.apache.poi.javax.xml.namespace.QName END$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "end");
     
     
     /**

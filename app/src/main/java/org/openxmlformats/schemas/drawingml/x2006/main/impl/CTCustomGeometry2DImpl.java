@@ -19,18 +19,18 @@ public class CTCustomGeometry2DImpl extends org.apache.xmlbeans.impl.values.XmlC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName AVLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "avLst");
-    private static final javax.xml.namespace.QName GDLST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gdLst");
-    private static final javax.xml.namespace.QName AHLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ahLst");
-    private static final javax.xml.namespace.QName CXNLST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cxnLst");
-    private static final javax.xml.namespace.QName RECT$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rect");
-    private static final javax.xml.namespace.QName PATHLST$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pathLst");
+    private static final org.apache.poi.javax.xml.namespace.QName AVLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "avLst");
+    private static final org.apache.poi.javax.xml.namespace.QName GDLST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gdLst");
+    private static final org.apache.poi.javax.xml.namespace.QName AHLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ahLst");
+    private static final org.apache.poi.javax.xml.namespace.QName CXNLST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cxnLst");
+    private static final org.apache.poi.javax.xml.namespace.QName RECT$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rect");
+    private static final org.apache.poi.javax.xml.namespace.QName PATHLST$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pathLst");
     
     
     /**

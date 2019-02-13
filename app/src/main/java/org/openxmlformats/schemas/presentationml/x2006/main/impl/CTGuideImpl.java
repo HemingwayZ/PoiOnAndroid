@@ -19,10 +19,10 @@ public class CTGuideImpl extends org.apache.xmlbeans.impl.values.XmlComplexConte
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ORIENT$0 = 
-        new javax.xml.namespace.QName("", "orient");
-    private static final javax.xml.namespace.QName POS$2 = 
-        new javax.xml.namespace.QName("", "pos");
+    private static final org.apache.poi.javax.xml.namespace.QName ORIENT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "orient");
+    private static final org.apache.poi.javax.xml.namespace.QName POS$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "pos");
     
     
     /**

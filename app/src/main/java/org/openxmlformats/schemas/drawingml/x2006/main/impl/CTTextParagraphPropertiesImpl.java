@@ -19,62 +19,62 @@ public class CTTextParagraphPropertiesImpl extends org.apache.xmlbeans.impl.valu
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LNSPC$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnSpc");
-    private static final javax.xml.namespace.QName SPCBEF$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spcBef");
-    private static final javax.xml.namespace.QName SPCAFT$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spcAft");
-    private static final javax.xml.namespace.QName BUCLRTX$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buClrTx");
-    private static final javax.xml.namespace.QName BUCLR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buClr");
-    private static final javax.xml.namespace.QName BUSZTX$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buSzTx");
-    private static final javax.xml.namespace.QName BUSZPCT$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buSzPct");
-    private static final javax.xml.namespace.QName BUSZPTS$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buSzPts");
-    private static final javax.xml.namespace.QName BUFONTTX$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buFontTx");
-    private static final javax.xml.namespace.QName BUFONT$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buFont");
-    private static final javax.xml.namespace.QName BUNONE$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buNone");
-    private static final javax.xml.namespace.QName BUAUTONUM$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buAutoNum");
-    private static final javax.xml.namespace.QName BUCHAR$24 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buChar");
-    private static final javax.xml.namespace.QName BUBLIP$26 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buBlip");
-    private static final javax.xml.namespace.QName TABLST$28 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tabLst");
-    private static final javax.xml.namespace.QName DEFRPR$30 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "defRPr");
-    private static final javax.xml.namespace.QName EXTLST$32 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName MARL$34 = 
-        new javax.xml.namespace.QName("", "marL");
-    private static final javax.xml.namespace.QName MARR$36 = 
-        new javax.xml.namespace.QName("", "marR");
-    private static final javax.xml.namespace.QName LVL$38 = 
-        new javax.xml.namespace.QName("", "lvl");
-    private static final javax.xml.namespace.QName INDENT$40 = 
-        new javax.xml.namespace.QName("", "indent");
-    private static final javax.xml.namespace.QName ALGN$42 = 
-        new javax.xml.namespace.QName("", "algn");
-    private static final javax.xml.namespace.QName DEFTABSZ$44 = 
-        new javax.xml.namespace.QName("", "defTabSz");
-    private static final javax.xml.namespace.QName RTL$46 = 
-        new javax.xml.namespace.QName("", "rtl");
-    private static final javax.xml.namespace.QName EALNBRK$48 = 
-        new javax.xml.namespace.QName("", "eaLnBrk");
-    private static final javax.xml.namespace.QName FONTALGN$50 = 
-        new javax.xml.namespace.QName("", "fontAlgn");
-    private static final javax.xml.namespace.QName LATINLNBRK$52 = 
-        new javax.xml.namespace.QName("", "latinLnBrk");
-    private static final javax.xml.namespace.QName HANGINGPUNCT$54 = 
-        new javax.xml.namespace.QName("", "hangingPunct");
+    private static final org.apache.poi.javax.xml.namespace.QName LNSPC$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnSpc");
+    private static final org.apache.poi.javax.xml.namespace.QName SPCBEF$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spcBef");
+    private static final org.apache.poi.javax.xml.namespace.QName SPCAFT$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "spcAft");
+    private static final org.apache.poi.javax.xml.namespace.QName BUCLRTX$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buClrTx");
+    private static final org.apache.poi.javax.xml.namespace.QName BUCLR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buClr");
+    private static final org.apache.poi.javax.xml.namespace.QName BUSZTX$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buSzTx");
+    private static final org.apache.poi.javax.xml.namespace.QName BUSZPCT$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buSzPct");
+    private static final org.apache.poi.javax.xml.namespace.QName BUSZPTS$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buSzPts");
+    private static final org.apache.poi.javax.xml.namespace.QName BUFONTTX$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buFontTx");
+    private static final org.apache.poi.javax.xml.namespace.QName BUFONT$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buFont");
+    private static final org.apache.poi.javax.xml.namespace.QName BUNONE$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buNone");
+    private static final org.apache.poi.javax.xml.namespace.QName BUAUTONUM$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buAutoNum");
+    private static final org.apache.poi.javax.xml.namespace.QName BUCHAR$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buChar");
+    private static final org.apache.poi.javax.xml.namespace.QName BUBLIP$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "buBlip");
+    private static final org.apache.poi.javax.xml.namespace.QName TABLST$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tabLst");
+    private static final org.apache.poi.javax.xml.namespace.QName DEFRPR$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "defRPr");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$32 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName MARL$34 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "marL");
+    private static final org.apache.poi.javax.xml.namespace.QName MARR$36 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "marR");
+    private static final org.apache.poi.javax.xml.namespace.QName LVL$38 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lvl");
+    private static final org.apache.poi.javax.xml.namespace.QName INDENT$40 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "indent");
+    private static final org.apache.poi.javax.xml.namespace.QName ALGN$42 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "algn");
+    private static final org.apache.poi.javax.xml.namespace.QName DEFTABSZ$44 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "defTabSz");
+    private static final org.apache.poi.javax.xml.namespace.QName RTL$46 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rtl");
+    private static final org.apache.poi.javax.xml.namespace.QName EALNBRK$48 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "eaLnBrk");
+    private static final org.apache.poi.javax.xml.namespace.QName FONTALGN$50 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "fontAlgn");
+    private static final org.apache.poi.javax.xml.namespace.QName LATINLNBRK$52 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "latinLnBrk");
+    private static final org.apache.poi.javax.xml.namespace.QName HANGINGPUNCT$54 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hangingPunct");
     
     
     /**

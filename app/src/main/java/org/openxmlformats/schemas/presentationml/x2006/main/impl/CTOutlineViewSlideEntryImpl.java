@@ -19,10 +19,10 @@ public class CTOutlineViewSlideEntryImpl extends org.apache.xmlbeans.impl.values
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ID$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
-    private static final javax.xml.namespace.QName COLLAPSE$2 = 
-        new javax.xml.namespace.QName("", "collapse");
+    private static final org.apache.poi.javax.xml.namespace.QName ID$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
+    private static final org.apache.poi.javax.xml.namespace.QName COLLAPSE$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "collapse");
     
     
     /**

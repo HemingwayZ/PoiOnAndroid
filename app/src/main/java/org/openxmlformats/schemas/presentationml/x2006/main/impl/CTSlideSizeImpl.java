@@ -19,12 +19,12 @@ public class CTSlideSizeImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CX$0 = 
-        new javax.xml.namespace.QName("", "cx");
-    private static final javax.xml.namespace.QName CY$2 = 
-        new javax.xml.namespace.QName("", "cy");
-    private static final javax.xml.namespace.QName TYPE$4 = 
-        new javax.xml.namespace.QName("", "type");
+    private static final org.apache.poi.javax.xml.namespace.QName CX$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cx");
+    private static final org.apache.poi.javax.xml.namespace.QName CY$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cy");
+    private static final org.apache.poi.javax.xml.namespace.QName TYPE$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "type");
     
     
     /**

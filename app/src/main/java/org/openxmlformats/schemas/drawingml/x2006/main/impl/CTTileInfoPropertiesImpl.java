@@ -19,18 +19,18 @@ public class CTTileInfoPropertiesImpl extends org.apache.xmlbeans.impl.values.Xm
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TX$0 = 
-        new javax.xml.namespace.QName("", "tx");
-    private static final javax.xml.namespace.QName TY$2 = 
-        new javax.xml.namespace.QName("", "ty");
-    private static final javax.xml.namespace.QName SX$4 = 
-        new javax.xml.namespace.QName("", "sx");
-    private static final javax.xml.namespace.QName SY$6 = 
-        new javax.xml.namespace.QName("", "sy");
-    private static final javax.xml.namespace.QName FLIP$8 = 
-        new javax.xml.namespace.QName("", "flip");
-    private static final javax.xml.namespace.QName ALGN$10 = 
-        new javax.xml.namespace.QName("", "algn");
+    private static final org.apache.poi.javax.xml.namespace.QName TX$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "tx");
+    private static final org.apache.poi.javax.xml.namespace.QName TY$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "ty");
+    private static final org.apache.poi.javax.xml.namespace.QName SX$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sx");
+    private static final org.apache.poi.javax.xml.namespace.QName SY$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sy");
+    private static final org.apache.poi.javax.xml.namespace.QName FLIP$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "flip");
+    private static final org.apache.poi.javax.xml.namespace.QName ALGN$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "algn");
     
     
     /**

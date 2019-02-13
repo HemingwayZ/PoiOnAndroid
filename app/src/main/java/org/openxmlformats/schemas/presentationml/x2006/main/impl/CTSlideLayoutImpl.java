@@ -19,30 +19,30 @@ public class CTSlideLayoutImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CSLD$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cSld");
-    private static final javax.xml.namespace.QName CLRMAPOVR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "clrMapOvr");
-    private static final javax.xml.namespace.QName TRANSITION$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "transition");
-    private static final javax.xml.namespace.QName TIMING$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "timing");
-    private static final javax.xml.namespace.QName HF$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "hf");
-    private static final javax.xml.namespace.QName EXTLST$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SHOWMASTERSP$12 = 
-        new javax.xml.namespace.QName("", "showMasterSp");
-    private static final javax.xml.namespace.QName SHOWMASTERPHANIM$14 = 
-        new javax.xml.namespace.QName("", "showMasterPhAnim");
-    private static final javax.xml.namespace.QName MATCHINGNAME$16 = 
-        new javax.xml.namespace.QName("", "matchingName");
-    private static final javax.xml.namespace.QName TYPE$18 = 
-        new javax.xml.namespace.QName("", "type");
-    private static final javax.xml.namespace.QName PRESERVE$20 = 
-        new javax.xml.namespace.QName("", "preserve");
-    private static final javax.xml.namespace.QName USERDRAWN$22 = 
-        new javax.xml.namespace.QName("", "userDrawn");
+    private static final org.apache.poi.javax.xml.namespace.QName CSLD$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cSld");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRMAPOVR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "clrMapOvr");
+    private static final org.apache.poi.javax.xml.namespace.QName TRANSITION$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "transition");
+    private static final org.apache.poi.javax.xml.namespace.QName TIMING$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "timing");
+    private static final org.apache.poi.javax.xml.namespace.QName HF$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "hf");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWMASTERSP$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showMasterSp");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWMASTERPHANIM$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showMasterPhAnim");
+    private static final org.apache.poi.javax.xml.namespace.QName MATCHINGNAME$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "matchingName");
+    private static final org.apache.poi.javax.xml.namespace.QName TYPE$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "type");
+    private static final org.apache.poi.javax.xml.namespace.QName PRESERVE$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "preserve");
+    private static final org.apache.poi.javax.xml.namespace.QName USERDRAWN$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "userDrawn");
     
     
     /**

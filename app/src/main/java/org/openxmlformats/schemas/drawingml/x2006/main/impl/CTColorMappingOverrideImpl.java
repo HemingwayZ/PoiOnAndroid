@@ -19,10 +19,10 @@ public class CTColorMappingOverrideImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName MASTERCLRMAPPING$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "masterClrMapping");
-    private static final javax.xml.namespace.QName OVERRIDECLRMAPPING$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "overrideClrMapping");
+    private static final org.apache.poi.javax.xml.namespace.QName MASTERCLRMAPPING$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "masterClrMapping");
+    private static final org.apache.poi.javax.xml.namespace.QName OVERRIDECLRMAPPING$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "overrideClrMapping");
     
     
     /**

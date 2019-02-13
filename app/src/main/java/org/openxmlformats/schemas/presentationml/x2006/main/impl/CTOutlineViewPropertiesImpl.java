@@ -19,12 +19,12 @@ public class CTOutlineViewPropertiesImpl extends org.apache.xmlbeans.impl.values
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CVIEWPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cViewPr");
-    private static final javax.xml.namespace.QName SLDLST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldLst");
-    private static final javax.xml.namespace.QName EXTLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName CVIEWPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cViewPr");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDLST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
     
     
     /**

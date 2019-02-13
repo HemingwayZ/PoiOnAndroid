@@ -19,10 +19,10 @@ public class CTAudioCDTimeImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TRACK$0 = 
-        new javax.xml.namespace.QName("", "track");
-    private static final javax.xml.namespace.QName TIME$2 = 
-        new javax.xml.namespace.QName("", "time");
+    private static final org.apache.poi.javax.xml.namespace.QName TRACK$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "track");
+    private static final org.apache.poi.javax.xml.namespace.QName TIME$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "time");
     
     
     /**

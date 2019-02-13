@@ -19,10 +19,10 @@ public class CTAnimationDgmBuildPropertiesImpl extends org.apache.xmlbeans.impl.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BLD$0 = 
-        new javax.xml.namespace.QName("", "bld");
-    private static final javax.xml.namespace.QName REV$2 = 
-        new javax.xml.namespace.QName("", "rev");
+    private static final org.apache.poi.javax.xml.namespace.QName BLD$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bld");
+    private static final org.apache.poi.javax.xml.namespace.QName REV$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rev");
     
     
     /**

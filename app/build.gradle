@@ -134,8 +134,8 @@ dependencies {
 
 
     implementation 'com.android.support:multidex:1.0.3'
-//    implementation files('../poishadow/build/libs/poishadow-all.jar')
-    implementation project(':poishadow')
+    implementation files('../poishadow/build/libs/poishadow-all.jar')
+//    implementation project(':poishadow')
 
     api 'com.github.barteksc:pdfium-android:1.9.0'
     api 'com.itextpdf:itextg:5.5.10'

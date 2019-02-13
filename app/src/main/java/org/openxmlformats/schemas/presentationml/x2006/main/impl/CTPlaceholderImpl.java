@@ -19,18 +19,18 @@ public class CTPlaceholderImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName TYPE$2 = 
-        new javax.xml.namespace.QName("", "type");
-    private static final javax.xml.namespace.QName ORIENT$4 = 
-        new javax.xml.namespace.QName("", "orient");
-    private static final javax.xml.namespace.QName SZ$6 = 
-        new javax.xml.namespace.QName("", "sz");
-    private static final javax.xml.namespace.QName IDX$8 = 
-        new javax.xml.namespace.QName("", "idx");
-    private static final javax.xml.namespace.QName HASCUSTOMPROMPT$10 = 
-        new javax.xml.namespace.QName("", "hasCustomPrompt");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName TYPE$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "type");
+    private static final org.apache.poi.javax.xml.namespace.QName ORIENT$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "orient");
+    private static final org.apache.poi.javax.xml.namespace.QName SZ$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sz");
+    private static final org.apache.poi.javax.xml.namespace.QName IDX$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "idx");
+    private static final org.apache.poi.javax.xml.namespace.QName HASCUSTOMPROMPT$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hasCustomPrompt");
     
     
     /**

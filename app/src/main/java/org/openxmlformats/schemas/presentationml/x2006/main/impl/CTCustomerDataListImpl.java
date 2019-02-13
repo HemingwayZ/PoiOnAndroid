@@ -19,10 +19,10 @@ public class CTCustomerDataListImpl extends org.apache.xmlbeans.impl.values.XmlC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CUSTDATA$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custData");
-    private static final javax.xml.namespace.QName TAGS$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "tags");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTDATA$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custData");
+    private static final org.apache.poi.javax.xml.namespace.QName TAGS$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "tags");
     
     
     /**

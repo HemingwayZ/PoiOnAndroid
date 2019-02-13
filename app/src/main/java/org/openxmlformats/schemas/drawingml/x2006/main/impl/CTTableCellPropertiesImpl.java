@@ -19,50 +19,50 @@ public class CTTableCellPropertiesImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LNL$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnL");
-    private static final javax.xml.namespace.QName LNR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnR");
-    private static final javax.xml.namespace.QName LNT$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnT");
-    private static final javax.xml.namespace.QName LNB$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnB");
-    private static final javax.xml.namespace.QName LNTLTOBR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnTlToBr");
-    private static final javax.xml.namespace.QName LNBLTOTR$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnBlToTr");
-    private static final javax.xml.namespace.QName CELL3D$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cell3D");
-    private static final javax.xml.namespace.QName NOFILL$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
-    private static final javax.xml.namespace.QName SOLIDFILL$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
-    private static final javax.xml.namespace.QName GRADFILL$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
-    private static final javax.xml.namespace.QName BLIPFILL$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
-    private static final javax.xml.namespace.QName PATTFILL$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
-    private static final javax.xml.namespace.QName GRPFILL$24 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
-    private static final javax.xml.namespace.QName EXTLST$26 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName MARL$28 = 
-        new javax.xml.namespace.QName("", "marL");
-    private static final javax.xml.namespace.QName MARR$30 = 
-        new javax.xml.namespace.QName("", "marR");
-    private static final javax.xml.namespace.QName MART$32 = 
-        new javax.xml.namespace.QName("", "marT");
-    private static final javax.xml.namespace.QName MARB$34 = 
-        new javax.xml.namespace.QName("", "marB");
-    private static final javax.xml.namespace.QName VERT$36 = 
-        new javax.xml.namespace.QName("", "vert");
-    private static final javax.xml.namespace.QName ANCHOR$38 = 
-        new javax.xml.namespace.QName("", "anchor");
-    private static final javax.xml.namespace.QName ANCHORCTR$40 = 
-        new javax.xml.namespace.QName("", "anchorCtr");
-    private static final javax.xml.namespace.QName HORZOVERFLOW$42 = 
-        new javax.xml.namespace.QName("", "horzOverflow");
+    private static final org.apache.poi.javax.xml.namespace.QName LNL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnL");
+    private static final org.apache.poi.javax.xml.namespace.QName LNR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnR");
+    private static final org.apache.poi.javax.xml.namespace.QName LNT$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnT");
+    private static final org.apache.poi.javax.xml.namespace.QName LNB$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnB");
+    private static final org.apache.poi.javax.xml.namespace.QName LNTLTOBR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnTlToBr");
+    private static final org.apache.poi.javax.xml.namespace.QName LNBLTOTR$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnBlToTr");
+    private static final org.apache.poi.javax.xml.namespace.QName CELL3D$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cell3D");
+    private static final org.apache.poi.javax.xml.namespace.QName NOFILL$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
+    private static final org.apache.poi.javax.xml.namespace.QName SOLIDFILL$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRADFILL$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
+    private static final org.apache.poi.javax.xml.namespace.QName BLIPFILL$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
+    private static final org.apache.poi.javax.xml.namespace.QName PATTFILL$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRPFILL$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName MARL$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "marL");
+    private static final org.apache.poi.javax.xml.namespace.QName MARR$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "marR");
+    private static final org.apache.poi.javax.xml.namespace.QName MART$32 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "marT");
+    private static final org.apache.poi.javax.xml.namespace.QName MARB$34 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "marB");
+    private static final org.apache.poi.javax.xml.namespace.QName VERT$36 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "vert");
+    private static final org.apache.poi.javax.xml.namespace.QName ANCHOR$38 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "anchor");
+    private static final org.apache.poi.javax.xml.namespace.QName ANCHORCTR$40 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "anchorCtr");
+    private static final org.apache.poi.javax.xml.namespace.QName HORZOVERFLOW$42 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "horzOverflow");
     
     
     /**

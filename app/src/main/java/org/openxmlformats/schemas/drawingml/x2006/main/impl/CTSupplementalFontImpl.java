@@ -19,10 +19,10 @@ public class CTSupplementalFontImpl extends org.apache.xmlbeans.impl.values.XmlC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SCRIPT$0 = 
-        new javax.xml.namespace.QName("", "script");
-    private static final javax.xml.namespace.QName TYPEFACE$2 = 
-        new javax.xml.namespace.QName("", "typeface");
+    private static final org.apache.poi.javax.xml.namespace.QName SCRIPT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "script");
+    private static final org.apache.poi.javax.xml.namespace.QName TYPEFACE$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "typeface");
     
     
     /**

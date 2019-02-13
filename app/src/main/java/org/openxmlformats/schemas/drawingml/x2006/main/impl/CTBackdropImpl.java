@@ -19,14 +19,14 @@ public class CTBackdropImpl extends org.apache.xmlbeans.impl.values.XmlComplexCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ANCHOR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "anchor");
-    private static final javax.xml.namespace.QName NORM$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "norm");
-    private static final javax.xml.namespace.QName UP$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "up");
-    private static final javax.xml.namespace.QName EXTLST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName ANCHOR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "anchor");
+    private static final org.apache.poi.javax.xml.namespace.QName NORM$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "norm");
+    private static final org.apache.poi.javax.xml.namespace.QName UP$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "up");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

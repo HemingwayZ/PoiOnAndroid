@@ -19,10 +19,10 @@ public class CTTextNormalAutofitImpl extends org.apache.xmlbeans.impl.values.Xml
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName FONTSCALE$0 = 
-        new javax.xml.namespace.QName("", "fontScale");
-    private static final javax.xml.namespace.QName LNSPCREDUCTION$2 = 
-        new javax.xml.namespace.QName("", "lnSpcReduction");
+    private static final org.apache.poi.javax.xml.namespace.QName FONTSCALE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "fontScale");
+    private static final org.apache.poi.javax.xml.namespace.QName LNSPCREDUCTION$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lnSpcReduction");
     
     
     /**

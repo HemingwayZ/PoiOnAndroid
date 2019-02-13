@@ -19,14 +19,14 @@ public class CTCustomShowImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SLDLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldLst");
-    private static final javax.xml.namespace.QName EXTLST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName NAME$4 = 
-        new javax.xml.namespace.QName("", "name");
-    private static final javax.xml.namespace.QName ID$6 = 
-        new javax.xml.namespace.QName("", "id");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName ID$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "id");
     
     
     /**

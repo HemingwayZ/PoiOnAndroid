@@ -19,12 +19,12 @@ public class CTWholeE2OFormattingImpl extends org.apache.xmlbeans.impl.values.Xm
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LN$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ln");
-    private static final javax.xml.namespace.QName EFFECTLST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
-    private static final javax.xml.namespace.QName EFFECTDAG$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
+    private static final org.apache.poi.javax.xml.namespace.QName LN$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "ln");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTLST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTDAG$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
     
     
     /**

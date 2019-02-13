@@ -19,14 +19,14 @@ public class CTBuildListImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BLDP$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bldP");
-    private static final javax.xml.namespace.QName BLDDGM$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bldDgm");
-    private static final javax.xml.namespace.QName BLDOLECHART$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bldOleChart");
-    private static final javax.xml.namespace.QName BLDGRAPHIC$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bldGraphic");
+    private static final org.apache.poi.javax.xml.namespace.QName BLDP$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bldP");
+    private static final org.apache.poi.javax.xml.namespace.QName BLDDGM$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bldDgm");
+    private static final org.apache.poi.javax.xml.namespace.QName BLDOLECHART$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bldOleChart");
+    private static final org.apache.poi.javax.xml.namespace.QName BLDGRAPHIC$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bldGraphic");
     
     
     // XXX: DD

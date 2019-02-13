@@ -19,8 +19,8 @@ public class CTControlListImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CONTROL$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "control");
+    private static final org.apache.poi.javax.xml.namespace.QName CONTROL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "control");
     
     
     /**

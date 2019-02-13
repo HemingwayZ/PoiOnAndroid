@@ -19,12 +19,12 @@ public class CTLineEndPropertiesImpl extends org.apache.xmlbeans.impl.values.Xml
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TYPE$0 = 
-        new javax.xml.namespace.QName("", "type");
-    private static final javax.xml.namespace.QName W$2 = 
-        new javax.xml.namespace.QName("", "w");
-    private static final javax.xml.namespace.QName LEN$4 = 
-        new javax.xml.namespace.QName("", "len");
+    private static final org.apache.poi.javax.xml.namespace.QName TYPE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "type");
+    private static final org.apache.poi.javax.xml.namespace.QName W$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "w");
+    private static final org.apache.poi.javax.xml.namespace.QName LEN$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "len");
     
     
     /**

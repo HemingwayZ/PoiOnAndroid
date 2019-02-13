@@ -19,14 +19,14 @@ public class CTNonVisualConnectorPropertiesImpl extends org.apache.xmlbeans.impl
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CXNSPLOCKS$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cxnSpLocks");
-    private static final javax.xml.namespace.QName STCXN$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "stCxn");
-    private static final javax.xml.namespace.QName ENDCXN$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "endCxn");
-    private static final javax.xml.namespace.QName EXTLST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName CXNSPLOCKS$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cxnSpLocks");
+    private static final org.apache.poi.javax.xml.namespace.QName STCXN$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "stCxn");
+    private static final org.apache.poi.javax.xml.namespace.QName ENDCXN$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "endCxn");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

@@ -20,8 +20,8 @@ public class GraphicDocumentImpl extends org.apache.xmlbeans.impl.values.XmlComp
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName GRAPHIC$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "graphic");
+    private static final org.apache.poi.javax.xml.namespace.QName GRAPHIC$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "graphic");
     
     
     /**

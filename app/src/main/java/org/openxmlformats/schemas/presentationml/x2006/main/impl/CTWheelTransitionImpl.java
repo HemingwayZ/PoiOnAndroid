@@ -19,8 +19,8 @@ public class CTWheelTransitionImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SPOKES$0 = 
-        new javax.xml.namespace.QName("", "spokes");
+    private static final org.apache.poi.javax.xml.namespace.QName SPOKES$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "spokes");
     
     
     /**

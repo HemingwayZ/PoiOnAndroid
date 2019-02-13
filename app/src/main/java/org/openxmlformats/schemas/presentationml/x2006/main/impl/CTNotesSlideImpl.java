@@ -19,16 +19,16 @@ public class CTNotesSlideImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CSLD$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cSld");
-    private static final javax.xml.namespace.QName CLRMAPOVR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "clrMapOvr");
-    private static final javax.xml.namespace.QName EXTLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SHOWMASTERSP$6 = 
-        new javax.xml.namespace.QName("", "showMasterSp");
-    private static final javax.xml.namespace.QName SHOWMASTERPHANIM$8 = 
-        new javax.xml.namespace.QName("", "showMasterPhAnim");
+    private static final org.apache.poi.javax.xml.namespace.QName CSLD$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cSld");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRMAPOVR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "clrMapOvr");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWMASTERSP$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showMasterSp");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWMASTERPHANIM$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showMasterPhAnim");
     
     
     /**

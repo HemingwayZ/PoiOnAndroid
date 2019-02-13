@@ -19,10 +19,10 @@ public class CTDashStopImpl extends org.apache.xmlbeans.impl.values.XmlComplexCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName D$0 = 
-        new javax.xml.namespace.QName("", "d");
-    private static final javax.xml.namespace.QName SP$2 = 
-        new javax.xml.namespace.QName("", "sp");
+    private static final org.apache.poi.javax.xml.namespace.QName D$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "d");
+    private static final org.apache.poi.javax.xml.namespace.QName SP$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sp");
     
     
     /**

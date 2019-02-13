@@ -18,7 +18,7 @@ dependencies {
     compile('org.apache.poi:poi-ooxml:3.17')
 
             {
-                exclude group: 'org.apache.xmlbeans'
+//                exclude group: 'org.apache.xmlbeans'
 //        exclude group:'org.apache.poi.xslf'
             }
 //    compile 'org.apache.poi:poi-ooxml:3.10-FINAL'

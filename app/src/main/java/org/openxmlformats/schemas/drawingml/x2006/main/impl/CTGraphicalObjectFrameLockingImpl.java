@@ -19,20 +19,20 @@ public class CTGraphicalObjectFrameLockingImpl extends org.apache.xmlbeans.impl.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName NOGRP$2 = 
-        new javax.xml.namespace.QName("", "noGrp");
-    private static final javax.xml.namespace.QName NODRILLDOWN$4 = 
-        new javax.xml.namespace.QName("", "noDrilldown");
-    private static final javax.xml.namespace.QName NOSELECT$6 = 
-        new javax.xml.namespace.QName("", "noSelect");
-    private static final javax.xml.namespace.QName NOCHANGEASPECT$8 = 
-        new javax.xml.namespace.QName("", "noChangeAspect");
-    private static final javax.xml.namespace.QName NOMOVE$10 = 
-        new javax.xml.namespace.QName("", "noMove");
-    private static final javax.xml.namespace.QName NORESIZE$12 = 
-        new javax.xml.namespace.QName("", "noResize");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName NOGRP$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "noGrp");
+    private static final org.apache.poi.javax.xml.namespace.QName NODRILLDOWN$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "noDrilldown");
+    private static final org.apache.poi.javax.xml.namespace.QName NOSELECT$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "noSelect");
+    private static final org.apache.poi.javax.xml.namespace.QName NOCHANGEASPECT$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "noChangeAspect");
+    private static final org.apache.poi.javax.xml.namespace.QName NOMOVE$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "noMove");
+    private static final org.apache.poi.javax.xml.namespace.QName NORESIZE$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "noResize");
     
     
     /**

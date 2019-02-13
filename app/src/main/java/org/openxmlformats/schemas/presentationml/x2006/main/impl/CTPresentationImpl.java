@@ -19,58 +19,58 @@ public class CTPresentationImpl extends org.apache.xmlbeans.impl.values.XmlCompl
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SLDMASTERIDLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldMasterIdLst");
-    private static final javax.xml.namespace.QName NOTESMASTERIDLST$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notesMasterIdLst");
-    private static final javax.xml.namespace.QName HANDOUTMASTERIDLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "handoutMasterIdLst");
-    private static final javax.xml.namespace.QName SLDIDLST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldIdLst");
-    private static final javax.xml.namespace.QName SLDSZ$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldSz");
-    private static final javax.xml.namespace.QName NOTESSZ$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notesSz");
-    private static final javax.xml.namespace.QName SMARTTAGS$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "smartTags");
-    private static final javax.xml.namespace.QName EMBEDDEDFONTLST$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "embeddedFontLst");
-    private static final javax.xml.namespace.QName CUSTSHOWLST$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custShowLst");
-    private static final javax.xml.namespace.QName PHOTOALBUM$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "photoAlbum");
-    private static final javax.xml.namespace.QName CUSTDATALST$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custDataLst");
-    private static final javax.xml.namespace.QName KINSOKU$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "kinsoku");
-    private static final javax.xml.namespace.QName DEFAULTTEXTSTYLE$24 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "defaultTextStyle");
-    private static final javax.xml.namespace.QName MODIFYVERIFIER$26 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "modifyVerifier");
-    private static final javax.xml.namespace.QName EXTLST$28 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SERVERZOOM$30 = 
-        new javax.xml.namespace.QName("", "serverZoom");
-    private static final javax.xml.namespace.QName FIRSTSLIDENUM$32 = 
-        new javax.xml.namespace.QName("", "firstSlideNum");
-    private static final javax.xml.namespace.QName SHOWSPECIALPLSONTITLESLD$34 = 
-        new javax.xml.namespace.QName("", "showSpecialPlsOnTitleSld");
-    private static final javax.xml.namespace.QName RTL$36 = 
-        new javax.xml.namespace.QName("", "rtl");
-    private static final javax.xml.namespace.QName REMOVEPERSONALINFOONSAVE$38 = 
-        new javax.xml.namespace.QName("", "removePersonalInfoOnSave");
-    private static final javax.xml.namespace.QName COMPATMODE$40 = 
-        new javax.xml.namespace.QName("", "compatMode");
-    private static final javax.xml.namespace.QName STRICTFIRSTANDLASTCHARS$42 = 
-        new javax.xml.namespace.QName("", "strictFirstAndLastChars");
-    private static final javax.xml.namespace.QName EMBEDTRUETYPEFONTS$44 = 
-        new javax.xml.namespace.QName("", "embedTrueTypeFonts");
-    private static final javax.xml.namespace.QName SAVESUBSETFONTS$46 = 
-        new javax.xml.namespace.QName("", "saveSubsetFonts");
-    private static final javax.xml.namespace.QName AUTOCOMPRESSPICTURES$48 = 
-        new javax.xml.namespace.QName("", "autoCompressPictures");
-    private static final javax.xml.namespace.QName BOOKMARKIDSEED$50 = 
-        new javax.xml.namespace.QName("", "bookmarkIdSeed");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDMASTERIDLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldMasterIdLst");
+    private static final org.apache.poi.javax.xml.namespace.QName NOTESMASTERIDLST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notesMasterIdLst");
+    private static final org.apache.poi.javax.xml.namespace.QName HANDOUTMASTERIDLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "handoutMasterIdLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDIDLST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldIdLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDSZ$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldSz");
+    private static final org.apache.poi.javax.xml.namespace.QName NOTESSZ$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notesSz");
+    private static final org.apache.poi.javax.xml.namespace.QName SMARTTAGS$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "smartTags");
+    private static final org.apache.poi.javax.xml.namespace.QName EMBEDDEDFONTLST$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "embeddedFontLst");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTSHOWLST$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custShowLst");
+    private static final org.apache.poi.javax.xml.namespace.QName PHOTOALBUM$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "photoAlbum");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTDATALST$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custDataLst");
+    private static final org.apache.poi.javax.xml.namespace.QName KINSOKU$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "kinsoku");
+    private static final org.apache.poi.javax.xml.namespace.QName DEFAULTTEXTSTYLE$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "defaultTextStyle");
+    private static final org.apache.poi.javax.xml.namespace.QName MODIFYVERIFIER$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "modifyVerifier");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SERVERZOOM$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "serverZoom");
+    private static final org.apache.poi.javax.xml.namespace.QName FIRSTSLIDENUM$32 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "firstSlideNum");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWSPECIALPLSONTITLESLD$34 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showSpecialPlsOnTitleSld");
+    private static final org.apache.poi.javax.xml.namespace.QName RTL$36 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rtl");
+    private static final org.apache.poi.javax.xml.namespace.QName REMOVEPERSONALINFOONSAVE$38 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "removePersonalInfoOnSave");
+    private static final org.apache.poi.javax.xml.namespace.QName COMPATMODE$40 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "compatMode");
+    private static final org.apache.poi.javax.xml.namespace.QName STRICTFIRSTANDLASTCHARS$42 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "strictFirstAndLastChars");
+    private static final org.apache.poi.javax.xml.namespace.QName EMBEDTRUETYPEFONTS$44 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "embedTrueTypeFonts");
+    private static final org.apache.poi.javax.xml.namespace.QName SAVESUBSETFONTS$46 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "saveSubsetFonts");
+    private static final org.apache.poi.javax.xml.namespace.QName AUTOCOMPRESSPICTURES$48 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "autoCompressPictures");
+    private static final org.apache.poi.javax.xml.namespace.QName BOOKMARKIDSEED$50 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bookmarkIdSeed");
     
     
     /**

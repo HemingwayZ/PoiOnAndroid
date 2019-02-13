@@ -19,24 +19,24 @@ public class CTTableCellBorderStyleImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName LEFT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "left");
-    private static final javax.xml.namespace.QName RIGHT$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "right");
-    private static final javax.xml.namespace.QName TOP$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "top");
-    private static final javax.xml.namespace.QName BOTTOM$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bottom");
-    private static final javax.xml.namespace.QName INSIDEH$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "insideH");
-    private static final javax.xml.namespace.QName INSIDEV$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "insideV");
-    private static final javax.xml.namespace.QName TL2BR$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tl2br");
-    private static final javax.xml.namespace.QName TR2BL$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tr2bl");
-    private static final javax.xml.namespace.QName EXTLST$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName LEFT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "left");
+    private static final org.apache.poi.javax.xml.namespace.QName RIGHT$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "right");
+    private static final org.apache.poi.javax.xml.namespace.QName TOP$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "top");
+    private static final org.apache.poi.javax.xml.namespace.QName BOTTOM$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bottom");
+    private static final org.apache.poi.javax.xml.namespace.QName INSIDEH$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "insideH");
+    private static final org.apache.poi.javax.xml.namespace.QName INSIDEV$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "insideV");
+    private static final org.apache.poi.javax.xml.namespace.QName TL2BR$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tl2br");
+    private static final org.apache.poi.javax.xml.namespace.QName TR2BL$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tr2bl");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
     
     
     /**

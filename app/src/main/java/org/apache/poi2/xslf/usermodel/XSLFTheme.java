@@ -32,7 +32,7 @@ import org.openxmlformats.schemas.drawingml.x2006.main.CTOfficeStyleSheet;
 import org.openxmlformats.schemas.drawingml.x2006.main.CTTextParagraphProperties;
 import org.openxmlformats.schemas.drawingml.x2006.main.ThemeDocument;
 
-import javax.xml.namespace.QName;
+import org.apache.poi.javax.xml.namespace.QName;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.util.HashMap;

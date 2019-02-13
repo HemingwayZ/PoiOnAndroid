@@ -19,14 +19,14 @@ public class CTCell3DImpl extends org.apache.xmlbeans.impl.values.XmlComplexCont
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BEVEL$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bevel");
-    private static final javax.xml.namespace.QName LIGHTRIG$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lightRig");
-    private static final javax.xml.namespace.QName EXTLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName PRSTMATERIAL$6 = 
-        new javax.xml.namespace.QName("", "prstMaterial");
+    private static final org.apache.poi.javax.xml.namespace.QName BEVEL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bevel");
+    private static final org.apache.poi.javax.xml.namespace.QName LIGHTRIG$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lightRig");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName PRSTMATERIAL$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "prstMaterial");
     
     
     /**

@@ -19,8 +19,8 @@ public class CTSlideMasterIdListImpl extends org.apache.xmlbeans.impl.values.Xml
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SLDMASTERID$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldMasterId");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDMASTERID$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldMasterId");
     
     
     /**

@@ -19,8 +19,8 @@ public class CTFixedPercentageImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName VAL$0 = 
-        new javax.xml.namespace.QName("", "val");
+    private static final org.apache.poi.javax.xml.namespace.QName VAL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "val");
     
     
     /**

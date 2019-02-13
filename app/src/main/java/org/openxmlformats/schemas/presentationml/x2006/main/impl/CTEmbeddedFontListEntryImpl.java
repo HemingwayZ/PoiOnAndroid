@@ -19,16 +19,16 @@ public class CTEmbeddedFontListEntryImpl extends org.apache.xmlbeans.impl.values
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName FONT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "font");
-    private static final javax.xml.namespace.QName REGULAR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "regular");
-    private static final javax.xml.namespace.QName BOLD$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bold");
-    private static final javax.xml.namespace.QName ITALIC$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "italic");
-    private static final javax.xml.namespace.QName BOLDITALIC$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "boldItalic");
+    private static final org.apache.poi.javax.xml.namespace.QName FONT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "font");
+    private static final org.apache.poi.javax.xml.namespace.QName REGULAR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "regular");
+    private static final org.apache.poi.javax.xml.namespace.QName BOLD$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "bold");
+    private static final org.apache.poi.javax.xml.namespace.QName ITALIC$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "italic");
+    private static final org.apache.poi.javax.xml.namespace.QName BOLDITALIC$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "boldItalic");
     
     
     /**

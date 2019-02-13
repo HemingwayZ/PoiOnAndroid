@@ -19,58 +19,58 @@ public class CTSlideTransitionImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BLINDS$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "blinds");
-    private static final javax.xml.namespace.QName CHECKER$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "checker");
-    private static final javax.xml.namespace.QName CIRCLE$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "circle");
-    private static final javax.xml.namespace.QName DISSOLVE$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "dissolve");
-    private static final javax.xml.namespace.QName COMB$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "comb");
-    private static final javax.xml.namespace.QName COVER$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cover");
-    private static final javax.xml.namespace.QName CUT$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cut");
-    private static final javax.xml.namespace.QName DIAMOND$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "diamond");
-    private static final javax.xml.namespace.QName FADE$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "fade");
-    private static final javax.xml.namespace.QName NEWSFLASH$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "newsflash");
-    private static final javax.xml.namespace.QName PLUS$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "plus");
-    private static final javax.xml.namespace.QName PULL$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "pull");
-    private static final javax.xml.namespace.QName PUSH$24 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "push");
-    private static final javax.xml.namespace.QName RANDOM$26 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "random");
-    private static final javax.xml.namespace.QName RANDOMBAR$28 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "randomBar");
-    private static final javax.xml.namespace.QName SPLIT$30 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "split");
-    private static final javax.xml.namespace.QName STRIPS$32 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "strips");
-    private static final javax.xml.namespace.QName WEDGE$34 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "wedge");
-    private static final javax.xml.namespace.QName WHEEL$36 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "wheel");
-    private static final javax.xml.namespace.QName WIPE$38 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "wipe");
-    private static final javax.xml.namespace.QName ZOOM$40 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "zoom");
-    private static final javax.xml.namespace.QName SNDAC$42 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sndAc");
-    private static final javax.xml.namespace.QName EXTLST$44 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SPD$46 = 
-        new javax.xml.namespace.QName("", "spd");
-    private static final javax.xml.namespace.QName ADVCLICK$48 = 
-        new javax.xml.namespace.QName("", "advClick");
-    private static final javax.xml.namespace.QName ADVTM$50 = 
-        new javax.xml.namespace.QName("", "advTm");
+    private static final org.apache.poi.javax.xml.namespace.QName BLINDS$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "blinds");
+    private static final org.apache.poi.javax.xml.namespace.QName CHECKER$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "checker");
+    private static final org.apache.poi.javax.xml.namespace.QName CIRCLE$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "circle");
+    private static final org.apache.poi.javax.xml.namespace.QName DISSOLVE$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "dissolve");
+    private static final org.apache.poi.javax.xml.namespace.QName COMB$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "comb");
+    private static final org.apache.poi.javax.xml.namespace.QName COVER$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cover");
+    private static final org.apache.poi.javax.xml.namespace.QName CUT$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "cut");
+    private static final org.apache.poi.javax.xml.namespace.QName DIAMOND$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "diamond");
+    private static final org.apache.poi.javax.xml.namespace.QName FADE$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "fade");
+    private static final org.apache.poi.javax.xml.namespace.QName NEWSFLASH$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "newsflash");
+    private static final org.apache.poi.javax.xml.namespace.QName PLUS$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "plus");
+    private static final org.apache.poi.javax.xml.namespace.QName PULL$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "pull");
+    private static final org.apache.poi.javax.xml.namespace.QName PUSH$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "push");
+    private static final org.apache.poi.javax.xml.namespace.QName RANDOM$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "random");
+    private static final org.apache.poi.javax.xml.namespace.QName RANDOMBAR$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "randomBar");
+    private static final org.apache.poi.javax.xml.namespace.QName SPLIT$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "split");
+    private static final org.apache.poi.javax.xml.namespace.QName STRIPS$32 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "strips");
+    private static final org.apache.poi.javax.xml.namespace.QName WEDGE$34 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "wedge");
+    private static final org.apache.poi.javax.xml.namespace.QName WHEEL$36 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "wheel");
+    private static final org.apache.poi.javax.xml.namespace.QName WIPE$38 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "wipe");
+    private static final org.apache.poi.javax.xml.namespace.QName ZOOM$40 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "zoom");
+    private static final org.apache.poi.javax.xml.namespace.QName SNDAC$42 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sndAc");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$44 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SPD$46 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "spd");
+    private static final org.apache.poi.javax.xml.namespace.QName ADVCLICK$48 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "advClick");
+    private static final org.apache.poi.javax.xml.namespace.QName ADVTM$50 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "advTm");
     
     
     /**

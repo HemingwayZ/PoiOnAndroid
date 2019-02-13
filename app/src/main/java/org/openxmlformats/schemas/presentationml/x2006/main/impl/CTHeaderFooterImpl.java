@@ -19,16 +19,16 @@ public class CTHeaderFooterImpl extends org.apache.xmlbeans.impl.values.XmlCompl
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SLDNUM$2 = 
-        new javax.xml.namespace.QName("", "sldNum");
-    private static final javax.xml.namespace.QName HDR$4 = 
-        new javax.xml.namespace.QName("", "hdr");
-    private static final javax.xml.namespace.QName FTR$6 = 
-        new javax.xml.namespace.QName("", "ftr");
-    private static final javax.xml.namespace.QName DT$8 = 
-        new javax.xml.namespace.QName("", "dt");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDNUM$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sldNum");
+    private static final org.apache.poi.javax.xml.namespace.QName HDR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hdr");
+    private static final org.apache.poi.javax.xml.namespace.QName FTR$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "ftr");
+    private static final org.apache.poi.javax.xml.namespace.QName DT$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dt");
     
     
     /**

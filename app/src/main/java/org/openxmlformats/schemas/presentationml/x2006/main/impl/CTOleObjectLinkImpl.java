@@ -19,10 +19,10 @@ public class CTOleObjectLinkImpl extends org.apache.xmlbeans.impl.values.XmlComp
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName UPDATEAUTOMATIC$2 = 
-        new javax.xml.namespace.QName("", "updateAutomatic");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName UPDATEAUTOMATIC$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "updateAutomatic");
     
     
     /**

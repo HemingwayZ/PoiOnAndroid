@@ -19,10 +19,10 @@ public class CTTablePartStyleImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName TCTXSTYLE$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tcTxStyle");
-    private static final javax.xml.namespace.QName TCSTYLE$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tcStyle");
+    private static final org.apache.poi.javax.xml.namespace.QName TCTXSTYLE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tcTxStyle");
+    private static final org.apache.poi.javax.xml.namespace.QName TCSTYLE$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tcStyle");
     
     
     /**

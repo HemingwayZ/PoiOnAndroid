@@ -19,20 +19,20 @@ public class CTControlImpl extends org.apache.xmlbeans.impl.values.XmlComplexCon
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXTLST$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SPID$2 = 
-        new javax.xml.namespace.QName("", "spid");
-    private static final javax.xml.namespace.QName NAME$4 = 
-        new javax.xml.namespace.QName("", "name");
-    private static final javax.xml.namespace.QName SHOWASICON$6 = 
-        new javax.xml.namespace.QName("", "showAsIcon");
-    private static final javax.xml.namespace.QName ID$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
-    private static final javax.xml.namespace.QName IMGW$10 = 
-        new javax.xml.namespace.QName("", "imgW");
-    private static final javax.xml.namespace.QName IMGH$12 = 
-        new javax.xml.namespace.QName("", "imgH");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SPID$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "spid");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWASICON$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showAsIcon");
+    private static final org.apache.poi.javax.xml.namespace.QName ID$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
+    private static final org.apache.poi.javax.xml.namespace.QName IMGW$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "imgW");
+    private static final org.apache.poi.javax.xml.namespace.QName IMGH$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "imgH");
     
     
     /**

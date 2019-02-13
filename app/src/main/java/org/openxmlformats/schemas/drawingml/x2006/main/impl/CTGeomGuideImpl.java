@@ -19,10 +19,10 @@ public class CTGeomGuideImpl extends org.apache.xmlbeans.impl.values.XmlComplexC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName NAME$0 = 
-        new javax.xml.namespace.QName("", "name");
-    private static final javax.xml.namespace.QName FMLA$2 = 
-        new javax.xml.namespace.QName("", "fmla");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName FMLA$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "fmla");
     
     
     /**

@@ -78,11 +78,11 @@ public interface SldDocument extends org.apache.xmlbeans.XmlObject
         public static org.openxmlformats.schemas.presentationml.x2006.main.SldDocument parse(java.io.Reader r, org.apache.xmlbeans.XmlOptions options) throws org.apache.xmlbeans.XmlException, java.io.IOException {
           return (org.openxmlformats.schemas.presentationml.x2006.main.SldDocument) org.apache.xmlbeans.XmlBeans.getContextTypeLoader().parse( r, type, options ); }
         
-        public static org.openxmlformats.schemas.presentationml.x2006.main.SldDocument parse(javax.xml.stream.XMLStreamReader sr) throws org.apache.xmlbeans.XmlException {
-          return (org.openxmlformats.schemas.presentationml.x2006.main.SldDocument) org.apache.xmlbeans.XmlBeans.getContextTypeLoader().parse( sr, type, null ); }
-        
-        public static org.openxmlformats.schemas.presentationml.x2006.main.SldDocument parse(javax.xml.stream.XMLStreamReader sr, org.apache.xmlbeans.XmlOptions options) throws org.apache.xmlbeans.XmlException {
-          return (org.openxmlformats.schemas.presentationml.x2006.main.SldDocument) org.apache.xmlbeans.XmlBeans.getContextTypeLoader().parse( sr, type, options ); }
+//        public static org.openxmlformats.schemas.presentationml.x2006.main.SldDocument parse(javax.xml.stream.XMLStreamReader sr) throws org.apache.xmlbeans.XmlException {
+//          return (org.openxmlformats.schemas.presentationml.x2006.main.SldDocument) org.apache.xmlbeans.XmlBeans.getContextTypeLoader().parse( sr, type, null ); }
+//
+//        public static org.openxmlformats.schemas.presentationml.x2006.main.SldDocument parse(javax.xml.stream.XMLStreamReader sr, org.apache.xmlbeans.XmlOptions options) throws org.apache.xmlbeans.XmlException {
+//          return (org.openxmlformats.schemas.presentationml.x2006.main.SldDocument) org.apache.xmlbeans.XmlBeans.getContextTypeLoader().parse( sr, type, options ); }
         
         public static org.openxmlformats.schemas.presentationml.x2006.main.SldDocument parse(org.w3c.dom.Node node) throws org.apache.xmlbeans.XmlException {
           return (org.openxmlformats.schemas.presentationml.x2006.main.SldDocument) org.apache.xmlbeans.XmlBeans.getContextTypeLoader().parse( node, type, null ); }

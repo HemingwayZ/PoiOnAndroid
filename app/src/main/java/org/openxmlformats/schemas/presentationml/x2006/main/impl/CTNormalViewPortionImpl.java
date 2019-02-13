@@ -19,10 +19,10 @@ public class CTNormalViewPortionImpl extends org.apache.xmlbeans.impl.values.Xml
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SZ$0 = 
-        new javax.xml.namespace.QName("", "sz");
-    private static final javax.xml.namespace.QName AUTOADJUST$2 = 
-        new javax.xml.namespace.QName("", "autoAdjust");
+    private static final org.apache.poi.javax.xml.namespace.QName SZ$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sz");
+    private static final org.apache.poi.javax.xml.namespace.QName AUTOADJUST$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "autoAdjust");
     
     
     /**

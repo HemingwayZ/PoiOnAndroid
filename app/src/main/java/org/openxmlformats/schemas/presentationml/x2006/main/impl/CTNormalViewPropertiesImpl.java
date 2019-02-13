@@ -19,22 +19,22 @@ public class CTNormalViewPropertiesImpl extends org.apache.xmlbeans.impl.values.
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName RESTOREDLEFT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "restoredLeft");
-    private static final javax.xml.namespace.QName RESTOREDTOP$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "restoredTop");
-    private static final javax.xml.namespace.QName EXTLST$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SHOWOUTLINEICONS$6 = 
-        new javax.xml.namespace.QName("", "showOutlineIcons");
-    private static final javax.xml.namespace.QName SNAPVERTSPLITTER$8 = 
-        new javax.xml.namespace.QName("", "snapVertSplitter");
-    private static final javax.xml.namespace.QName VERTBARSTATE$10 = 
-        new javax.xml.namespace.QName("", "vertBarState");
-    private static final javax.xml.namespace.QName HORZBARSTATE$12 = 
-        new javax.xml.namespace.QName("", "horzBarState");
-    private static final javax.xml.namespace.QName PREFERSINGLEVIEW$14 = 
-        new javax.xml.namespace.QName("", "preferSingleView");
+    private static final org.apache.poi.javax.xml.namespace.QName RESTOREDLEFT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "restoredLeft");
+    private static final org.apache.poi.javax.xml.namespace.QName RESTOREDTOP$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "restoredTop");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWOUTLINEICONS$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showOutlineIcons");
+    private static final org.apache.poi.javax.xml.namespace.QName SNAPVERTSPLITTER$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "snapVertSplitter");
+    private static final org.apache.poi.javax.xml.namespace.QName VERTBARSTATE$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "vertBarState");
+    private static final org.apache.poi.javax.xml.namespace.QName HORZBARSTATE$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "horzBarState");
+    private static final org.apache.poi.javax.xml.namespace.QName PREFERSINGLEVIEW$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "preferSingleView");
     
     
     /**

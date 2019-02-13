@@ -19,10 +19,10 @@ public class CTTintEffectImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName HUE$0 = 
-        new javax.xml.namespace.QName("", "hue");
-    private static final javax.xml.namespace.QName AMT$2 = 
-        new javax.xml.namespace.QName("", "amt");
+    private static final org.apache.poi.javax.xml.namespace.QName HUE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hue");
+    private static final org.apache.poi.javax.xml.namespace.QName AMT$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "amt");
     
     
     /**

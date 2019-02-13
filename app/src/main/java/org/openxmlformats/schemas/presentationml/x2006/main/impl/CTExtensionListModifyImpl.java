@@ -19,10 +19,10 @@ public class CTExtensionListModifyImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EXT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "ext");
-    private static final javax.xml.namespace.QName MOD$2 = 
-        new javax.xml.namespace.QName("", "mod");
+    private static final org.apache.poi.javax.xml.namespace.QName EXT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "ext");
+    private static final org.apache.poi.javax.xml.namespace.QName MOD$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "mod");
     
     
     /**

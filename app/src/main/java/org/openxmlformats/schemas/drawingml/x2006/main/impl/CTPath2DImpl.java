@@ -19,28 +19,28 @@ public class CTPath2DImpl extends org.apache.xmlbeans.impl.values.XmlComplexCont
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CLOSE$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "close");
-    private static final javax.xml.namespace.QName MOVETO$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "moveTo");
-    private static final javax.xml.namespace.QName LNTO$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnTo");
-    private static final javax.xml.namespace.QName ARCTO$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "arcTo");
-    private static final javax.xml.namespace.QName QUADBEZTO$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "quadBezTo");
-    private static final javax.xml.namespace.QName CUBICBEZTO$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cubicBezTo");
-    private static final javax.xml.namespace.QName W$12 = 
-        new javax.xml.namespace.QName("", "w");
-    private static final javax.xml.namespace.QName H$14 = 
-        new javax.xml.namespace.QName("", "h");
-    private static final javax.xml.namespace.QName FILL$16 = 
-        new javax.xml.namespace.QName("", "fill");
-    private static final javax.xml.namespace.QName STROKE$18 = 
-        new javax.xml.namespace.QName("", "stroke");
-    private static final javax.xml.namespace.QName EXTRUSIONOK$20 = 
-        new javax.xml.namespace.QName("", "extrusionOk");
+    private static final org.apache.poi.javax.xml.namespace.QName CLOSE$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "close");
+    private static final org.apache.poi.javax.xml.namespace.QName MOVETO$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "moveTo");
+    private static final org.apache.poi.javax.xml.namespace.QName LNTO$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lnTo");
+    private static final org.apache.poi.javax.xml.namespace.QName ARCTO$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "arcTo");
+    private static final org.apache.poi.javax.xml.namespace.QName QUADBEZTO$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "quadBezTo");
+    private static final org.apache.poi.javax.xml.namespace.QName CUBICBEZTO$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cubicBezTo");
+    private static final org.apache.poi.javax.xml.namespace.QName W$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "w");
+    private static final org.apache.poi.javax.xml.namespace.QName H$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "h");
+    private static final org.apache.poi.javax.xml.namespace.QName FILL$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "fill");
+    private static final org.apache.poi.javax.xml.namespace.QName STROKE$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "stroke");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTRUSIONOK$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "extrusionOk");
     
     
     /**

@@ -19,38 +19,38 @@ public class CTLinePropertiesImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName NOFILL$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
-    private static final javax.xml.namespace.QName SOLIDFILL$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
-    private static final javax.xml.namespace.QName GRADFILL$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
-    private static final javax.xml.namespace.QName PATTFILL$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
-    private static final javax.xml.namespace.QName PRSTDASH$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstDash");
-    private static final javax.xml.namespace.QName CUSTDASH$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "custDash");
-    private static final javax.xml.namespace.QName ROUND$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "round");
-    private static final javax.xml.namespace.QName BEVEL$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bevel");
-    private static final javax.xml.namespace.QName MITER$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "miter");
-    private static final javax.xml.namespace.QName HEADEND$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "headEnd");
-    private static final javax.xml.namespace.QName TAILEND$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tailEnd");
-    private static final javax.xml.namespace.QName EXTLST$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName W$24 = 
-        new javax.xml.namespace.QName("", "w");
-    private static final javax.xml.namespace.QName CAP$26 = 
-        new javax.xml.namespace.QName("", "cap");
-    private static final javax.xml.namespace.QName CMPD$28 = 
-        new javax.xml.namespace.QName("", "cmpd");
-    private static final javax.xml.namespace.QName ALGN$30 = 
-        new javax.xml.namespace.QName("", "algn");
+    private static final org.apache.poi.javax.xml.namespace.QName NOFILL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
+    private static final org.apache.poi.javax.xml.namespace.QName SOLIDFILL$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRADFILL$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
+    private static final org.apache.poi.javax.xml.namespace.QName PATTFILL$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
+    private static final org.apache.poi.javax.xml.namespace.QName PRSTDASH$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstDash");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTDASH$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "custDash");
+    private static final org.apache.poi.javax.xml.namespace.QName ROUND$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "round");
+    private static final org.apache.poi.javax.xml.namespace.QName BEVEL$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bevel");
+    private static final org.apache.poi.javax.xml.namespace.QName MITER$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "miter");
+    private static final org.apache.poi.javax.xml.namespace.QName HEADEND$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "headEnd");
+    private static final org.apache.poi.javax.xml.namespace.QName TAILEND$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tailEnd");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName W$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "w");
+    private static final org.apache.poi.javax.xml.namespace.QName CAP$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cap");
+    private static final org.apache.poi.javax.xml.namespace.QName CMPD$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "cmpd");
+    private static final org.apache.poi.javax.xml.namespace.QName ALGN$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "algn");
     
     
     /**

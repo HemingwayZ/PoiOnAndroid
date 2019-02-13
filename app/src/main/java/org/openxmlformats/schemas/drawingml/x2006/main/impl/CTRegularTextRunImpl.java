@@ -19,10 +19,10 @@ public class CTRegularTextRunImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName RPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rPr");
-    private static final javax.xml.namespace.QName T$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "t");
+    private static final org.apache.poi.javax.xml.namespace.QName RPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "rPr");
+    private static final org.apache.poi.javax.xml.namespace.QName T$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "t");
     
     
     /**

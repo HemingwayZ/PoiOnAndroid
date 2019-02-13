@@ -19,42 +19,42 @@ public class CTTablePropertiesImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName NOFILL$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
-    private static final javax.xml.namespace.QName SOLIDFILL$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
-    private static final javax.xml.namespace.QName GRADFILL$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
-    private static final javax.xml.namespace.QName BLIPFILL$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
-    private static final javax.xml.namespace.QName PATTFILL$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
-    private static final javax.xml.namespace.QName GRPFILL$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
-    private static final javax.xml.namespace.QName EFFECTLST$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
-    private static final javax.xml.namespace.QName EFFECTDAG$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
-    private static final javax.xml.namespace.QName TABLESTYLE$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tableStyle");
-    private static final javax.xml.namespace.QName TABLESTYLEID$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tableStyleId");
-    private static final javax.xml.namespace.QName EXTLST$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName RTL$22 = 
-        new javax.xml.namespace.QName("", "rtl");
-    private static final javax.xml.namespace.QName FIRSTROW$24 = 
-        new javax.xml.namespace.QName("", "firstRow");
-    private static final javax.xml.namespace.QName FIRSTCOL$26 = 
-        new javax.xml.namespace.QName("", "firstCol");
-    private static final javax.xml.namespace.QName LASTROW$28 = 
-        new javax.xml.namespace.QName("", "lastRow");
-    private static final javax.xml.namespace.QName LASTCOL$30 = 
-        new javax.xml.namespace.QName("", "lastCol");
-    private static final javax.xml.namespace.QName BANDROW$32 = 
-        new javax.xml.namespace.QName("", "bandRow");
-    private static final javax.xml.namespace.QName BANDCOL$34 = 
-        new javax.xml.namespace.QName("", "bandCol");
+    private static final org.apache.poi.javax.xml.namespace.QName NOFILL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "noFill");
+    private static final org.apache.poi.javax.xml.namespace.QName SOLIDFILL$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "solidFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRADFILL$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "gradFill");
+    private static final org.apache.poi.javax.xml.namespace.QName BLIPFILL$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blipFill");
+    private static final org.apache.poi.javax.xml.namespace.QName PATTFILL$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "pattFill");
+    private static final org.apache.poi.javax.xml.namespace.QName GRPFILL$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grpFill");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTLST$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectLst");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECTDAG$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effectDag");
+    private static final org.apache.poi.javax.xml.namespace.QName TABLESTYLE$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tableStyle");
+    private static final org.apache.poi.javax.xml.namespace.QName TABLESTYLEID$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tableStyleId");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName RTL$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rtl");
+    private static final org.apache.poi.javax.xml.namespace.QName FIRSTROW$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "firstRow");
+    private static final org.apache.poi.javax.xml.namespace.QName FIRSTCOL$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "firstCol");
+    private static final org.apache.poi.javax.xml.namespace.QName LASTROW$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lastRow");
+    private static final org.apache.poi.javax.xml.namespace.QName LASTCOL$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lastCol");
+    private static final org.apache.poi.javax.xml.namespace.QName BANDROW$32 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bandRow");
+    private static final org.apache.poi.javax.xml.namespace.QName BANDCOL$34 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bandCol");
     
     
     /**

@@ -19,10 +19,10 @@ public class CTBlurEffectImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName RAD$0 = 
-        new javax.xml.namespace.QName("", "rad");
-    private static final javax.xml.namespace.QName GROW$2 = 
-        new javax.xml.namespace.QName("", "grow");
+    private static final org.apache.poi.javax.xml.namespace.QName RAD$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rad");
+    private static final org.apache.poi.javax.xml.namespace.QName GROW$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "grow");
     
     
     /**

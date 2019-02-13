@@ -19,10 +19,10 @@ public class CTSplitTransitionImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ORIENT$0 = 
-        new javax.xml.namespace.QName("", "orient");
-    private static final javax.xml.namespace.QName DIR$2 = 
-        new javax.xml.namespace.QName("", "dir");
+    private static final org.apache.poi.javax.xml.namespace.QName ORIENT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "orient");
+    private static final org.apache.poi.javax.xml.namespace.QName DIR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dir");
     
     
     /**

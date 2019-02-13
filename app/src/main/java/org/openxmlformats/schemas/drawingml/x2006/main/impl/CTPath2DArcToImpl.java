@@ -19,14 +19,14 @@ public class CTPath2DArcToImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName WR$0 = 
-        new javax.xml.namespace.QName("", "wR");
-    private static final javax.xml.namespace.QName HR$2 = 
-        new javax.xml.namespace.QName("", "hR");
-    private static final javax.xml.namespace.QName STANG$4 = 
-        new javax.xml.namespace.QName("", "stAng");
-    private static final javax.xml.namespace.QName SWANG$6 = 
-        new javax.xml.namespace.QName("", "swAng");
+    private static final org.apache.poi.javax.xml.namespace.QName WR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "wR");
+    private static final org.apache.poi.javax.xml.namespace.QName HR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "hR");
+    private static final org.apache.poi.javax.xml.namespace.QName STANG$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "stAng");
+    private static final org.apache.poi.javax.xml.namespace.QName SWANG$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "swAng");
     
     
     /**

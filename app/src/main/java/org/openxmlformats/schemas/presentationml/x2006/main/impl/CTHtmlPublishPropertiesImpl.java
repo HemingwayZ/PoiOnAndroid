@@ -19,22 +19,22 @@ public class CTHtmlPublishPropertiesImpl extends org.apache.xmlbeans.impl.values
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SLDALL$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldAll");
-    private static final javax.xml.namespace.QName SLDRG$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldRg");
-    private static final javax.xml.namespace.QName CUSTSHOW$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custShow");
-    private static final javax.xml.namespace.QName EXTLST$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName SHOWSPEAKERNOTES$8 = 
-        new javax.xml.namespace.QName("", "showSpeakerNotes");
-    private static final javax.xml.namespace.QName PUBBROWSER$10 = 
-        new javax.xml.namespace.QName("", "pubBrowser");
-    private static final javax.xml.namespace.QName TITLE$12 = 
-        new javax.xml.namespace.QName("", "title");
-    private static final javax.xml.namespace.QName ID$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDALL$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldAll");
+    private static final org.apache.poi.javax.xml.namespace.QName SLDRG$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sldRg");
+    private static final org.apache.poi.javax.xml.namespace.QName CUSTSHOW$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "custShow");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWSPEAKERNOTES$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showSpeakerNotes");
+    private static final org.apache.poi.javax.xml.namespace.QName PUBBROWSER$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "pubBrowser");
+    private static final org.apache.poi.javax.xml.namespace.QName TITLE$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "title");
+    private static final org.apache.poi.javax.xml.namespace.QName ID$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/officeDocument/2006/relationships", "id");
     
     
     /**

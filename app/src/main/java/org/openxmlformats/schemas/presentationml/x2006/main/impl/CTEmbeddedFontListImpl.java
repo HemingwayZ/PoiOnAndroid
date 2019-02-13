@@ -19,8 +19,8 @@ public class CTEmbeddedFontListImpl extends org.apache.xmlbeans.impl.values.XmlC
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName EMBEDDEDFONT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "embeddedFont");
+    private static final org.apache.poi.javax.xml.namespace.QName EMBEDDEDFONT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "embeddedFont");
     
     
     /**

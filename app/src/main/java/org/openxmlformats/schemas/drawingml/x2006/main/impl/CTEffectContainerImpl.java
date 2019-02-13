@@ -19,70 +19,70 @@ public class CTEffectContainerImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CONT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cont");
-    private static final javax.xml.namespace.QName EFFECT$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effect");
-    private static final javax.xml.namespace.QName ALPHABILEVEL$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaBiLevel");
-    private static final javax.xml.namespace.QName ALPHACEILING$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaCeiling");
-    private static final javax.xml.namespace.QName ALPHAFLOOR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaFloor");
-    private static final javax.xml.namespace.QName ALPHAINV$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaInv");
-    private static final javax.xml.namespace.QName ALPHAMOD$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaMod");
-    private static final javax.xml.namespace.QName ALPHAMODFIX$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaModFix");
-    private static final javax.xml.namespace.QName ALPHAOUTSET$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaOutset");
-    private static final javax.xml.namespace.QName ALPHAREPL$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaRepl");
-    private static final javax.xml.namespace.QName BILEVEL$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "biLevel");
-    private static final javax.xml.namespace.QName BLEND$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blend");
-    private static final javax.xml.namespace.QName BLUR$24 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blur");
-    private static final javax.xml.namespace.QName CLRCHANGE$26 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrChange");
-    private static final javax.xml.namespace.QName CLRREPL$28 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrRepl");
-    private static final javax.xml.namespace.QName DUOTONE$30 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "duotone");
-    private static final javax.xml.namespace.QName FILL$32 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fill");
-    private static final javax.xml.namespace.QName FILLOVERLAY$34 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillOverlay");
-    private static final javax.xml.namespace.QName GLOW$36 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "glow");
-    private static final javax.xml.namespace.QName GRAYSCL$38 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grayscl");
-    private static final javax.xml.namespace.QName HSL$40 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hsl");
-    private static final javax.xml.namespace.QName INNERSHDW$42 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "innerShdw");
-    private static final javax.xml.namespace.QName LUM$44 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lum");
-    private static final javax.xml.namespace.QName OUTERSHDW$46 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "outerShdw");
-    private static final javax.xml.namespace.QName PRSTSHDW$48 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstShdw");
-    private static final javax.xml.namespace.QName REFLECTION$50 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "reflection");
-    private static final javax.xml.namespace.QName RELOFF$52 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "relOff");
-    private static final javax.xml.namespace.QName SOFTEDGE$54 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "softEdge");
-    private static final javax.xml.namespace.QName TINT$56 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tint");
-    private static final javax.xml.namespace.QName XFRM$58 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "xfrm");
-    private static final javax.xml.namespace.QName TYPE$60 = 
-        new javax.xml.namespace.QName("", "type");
-    private static final javax.xml.namespace.QName NAME$62 = 
-        new javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName CONT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cont");
+    private static final org.apache.poi.javax.xml.namespace.QName EFFECT$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "effect");
+    private static final org.apache.poi.javax.xml.namespace.QName ALPHABILEVEL$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaBiLevel");
+    private static final org.apache.poi.javax.xml.namespace.QName ALPHACEILING$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaCeiling");
+    private static final org.apache.poi.javax.xml.namespace.QName ALPHAFLOOR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaFloor");
+    private static final org.apache.poi.javax.xml.namespace.QName ALPHAINV$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaInv");
+    private static final org.apache.poi.javax.xml.namespace.QName ALPHAMOD$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaMod");
+    private static final org.apache.poi.javax.xml.namespace.QName ALPHAMODFIX$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaModFix");
+    private static final org.apache.poi.javax.xml.namespace.QName ALPHAOUTSET$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaOutset");
+    private static final org.apache.poi.javax.xml.namespace.QName ALPHAREPL$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "alphaRepl");
+    private static final org.apache.poi.javax.xml.namespace.QName BILEVEL$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "biLevel");
+    private static final org.apache.poi.javax.xml.namespace.QName BLEND$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blend");
+    private static final org.apache.poi.javax.xml.namespace.QName BLUR$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blur");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRCHANGE$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrChange");
+    private static final org.apache.poi.javax.xml.namespace.QName CLRREPL$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "clrRepl");
+    private static final org.apache.poi.javax.xml.namespace.QName DUOTONE$30 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "duotone");
+    private static final org.apache.poi.javax.xml.namespace.QName FILL$32 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fill");
+    private static final org.apache.poi.javax.xml.namespace.QName FILLOVERLAY$34 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillOverlay");
+    private static final org.apache.poi.javax.xml.namespace.QName GLOW$36 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "glow");
+    private static final org.apache.poi.javax.xml.namespace.QName GRAYSCL$38 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "grayscl");
+    private static final org.apache.poi.javax.xml.namespace.QName HSL$40 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hsl");
+    private static final org.apache.poi.javax.xml.namespace.QName INNERSHDW$42 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "innerShdw");
+    private static final org.apache.poi.javax.xml.namespace.QName LUM$44 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lum");
+    private static final org.apache.poi.javax.xml.namespace.QName OUTERSHDW$46 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "outerShdw");
+    private static final org.apache.poi.javax.xml.namespace.QName PRSTSHDW$48 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstShdw");
+    private static final org.apache.poi.javax.xml.namespace.QName REFLECTION$50 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "reflection");
+    private static final org.apache.poi.javax.xml.namespace.QName RELOFF$52 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "relOff");
+    private static final org.apache.poi.javax.xml.namespace.QName SOFTEDGE$54 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "softEdge");
+    private static final org.apache.poi.javax.xml.namespace.QName TINT$56 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "tint");
+    private static final org.apache.poi.javax.xml.namespace.QName XFRM$58 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "xfrm");
+    private static final org.apache.poi.javax.xml.namespace.QName TYPE$60 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "type");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$62 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
     
     
     /**

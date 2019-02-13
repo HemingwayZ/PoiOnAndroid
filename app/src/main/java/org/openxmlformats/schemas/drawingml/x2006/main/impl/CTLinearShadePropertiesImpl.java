@@ -19,10 +19,10 @@ public class CTLinearShadePropertiesImpl extends org.apache.xmlbeans.impl.values
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName ANG$0 = 
-        new javax.xml.namespace.QName("", "ang");
-    private static final javax.xml.namespace.QName SCALED$2 = 
-        new javax.xml.namespace.QName("", "scaled");
+    private static final org.apache.poi.javax.xml.namespace.QName ANG$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "ang");
+    private static final org.apache.poi.javax.xml.namespace.QName SCALED$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "scaled");
     
     
     /**

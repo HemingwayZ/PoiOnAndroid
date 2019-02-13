@@ -19,34 +19,34 @@ public class CTColorSchemeImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName DK1$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "dk1");
-    private static final javax.xml.namespace.QName LT1$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lt1");
-    private static final javax.xml.namespace.QName DK2$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "dk2");
-    private static final javax.xml.namespace.QName LT2$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lt2");
-    private static final javax.xml.namespace.QName ACCENT1$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent1");
-    private static final javax.xml.namespace.QName ACCENT2$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent2");
-    private static final javax.xml.namespace.QName ACCENT3$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent3");
-    private static final javax.xml.namespace.QName ACCENT4$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent4");
-    private static final javax.xml.namespace.QName ACCENT5$16 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent5");
-    private static final javax.xml.namespace.QName ACCENT6$18 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent6");
-    private static final javax.xml.namespace.QName HLINK$20 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hlink");
-    private static final javax.xml.namespace.QName FOLHLINK$22 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "folHlink");
-    private static final javax.xml.namespace.QName EXTLST$24 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName NAME$26 = 
-        new javax.xml.namespace.QName("", "name");
+    private static final org.apache.poi.javax.xml.namespace.QName DK1$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "dk1");
+    private static final org.apache.poi.javax.xml.namespace.QName LT1$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lt1");
+    private static final org.apache.poi.javax.xml.namespace.QName DK2$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "dk2");
+    private static final org.apache.poi.javax.xml.namespace.QName LT2$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "lt2");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT1$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent1");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT2$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent2");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT3$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent3");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT4$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent4");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT5$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent5");
+    private static final org.apache.poi.javax.xml.namespace.QName ACCENT6$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "accent6");
+    private static final org.apache.poi.javax.xml.namespace.QName HLINK$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hlink");
+    private static final org.apache.poi.javax.xml.namespace.QName FOLHLINK$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "folHlink");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName NAME$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "name");
     
     
     /**

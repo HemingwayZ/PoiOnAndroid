@@ -19,12 +19,12 @@ public class CTPoint3DImpl extends org.apache.xmlbeans.impl.values.XmlComplexCon
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName X$0 = 
-        new javax.xml.namespace.QName("", "x");
-    private static final javax.xml.namespace.QName Y$2 = 
-        new javax.xml.namespace.QName("", "y");
-    private static final javax.xml.namespace.QName Z$4 = 
-        new javax.xml.namespace.QName("", "z");
+    private static final org.apache.poi.javax.xml.namespace.QName X$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "x");
+    private static final org.apache.poi.javax.xml.namespace.QName Y$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "y");
+    private static final org.apache.poi.javax.xml.namespace.QName Z$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "z");
     
     
     /**

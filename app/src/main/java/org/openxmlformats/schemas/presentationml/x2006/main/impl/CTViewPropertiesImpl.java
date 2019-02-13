@@ -19,26 +19,26 @@ public class CTViewPropertiesImpl extends org.apache.xmlbeans.impl.values.XmlCom
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName NORMALVIEWPR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "normalViewPr");
-    private static final javax.xml.namespace.QName SLIDEVIEWPR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "slideViewPr");
-    private static final javax.xml.namespace.QName OUTLINEVIEWPR$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "outlineViewPr");
-    private static final javax.xml.namespace.QName NOTESTEXTVIEWPR$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notesTextViewPr");
-    private static final javax.xml.namespace.QName SORTERVIEWPR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sorterViewPr");
-    private static final javax.xml.namespace.QName NOTESVIEWPR$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notesViewPr");
-    private static final javax.xml.namespace.QName GRIDSPACING$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "gridSpacing");
-    private static final javax.xml.namespace.QName EXTLST$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
-    private static final javax.xml.namespace.QName LASTVIEW$16 = 
-        new javax.xml.namespace.QName("", "lastView");
-    private static final javax.xml.namespace.QName SHOWCOMMENTS$18 = 
-        new javax.xml.namespace.QName("", "showComments");
+    private static final org.apache.poi.javax.xml.namespace.QName NORMALVIEWPR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "normalViewPr");
+    private static final org.apache.poi.javax.xml.namespace.QName SLIDEVIEWPR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "slideViewPr");
+    private static final org.apache.poi.javax.xml.namespace.QName OUTLINEVIEWPR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "outlineViewPr");
+    private static final org.apache.poi.javax.xml.namespace.QName NOTESTEXTVIEWPR$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notesTextViewPr");
+    private static final org.apache.poi.javax.xml.namespace.QName SORTERVIEWPR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "sorterViewPr");
+    private static final org.apache.poi.javax.xml.namespace.QName NOTESVIEWPR$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "notesViewPr");
+    private static final org.apache.poi.javax.xml.namespace.QName GRIDSPACING$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "gridSpacing");
+    private static final org.apache.poi.javax.xml.namespace.QName EXTLST$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/presentationml/2006/main", "extLst");
+    private static final org.apache.poi.javax.xml.namespace.QName LASTVIEW$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "lastView");
+    private static final org.apache.poi.javax.xml.namespace.QName SHOWCOMMENTS$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "showComments");
     
     
     /**

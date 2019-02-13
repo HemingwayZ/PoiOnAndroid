@@ -19,8 +19,8 @@ public class CTAlphaReplaceEffectImpl extends org.apache.xmlbeans.impl.values.Xm
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName A$0 = 
-        new javax.xml.namespace.QName("", "a");
+    private static final org.apache.poi.javax.xml.namespace.QName A$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "a");
     
     
     /**

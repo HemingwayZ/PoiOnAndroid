@@ -19,8 +19,8 @@ public class CTEffectReferenceImpl extends org.apache.xmlbeans.impl.values.XmlCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName REF$0 = 
-        new javax.xml.namespace.QName("", "ref");
+    private static final org.apache.poi.javax.xml.namespace.QName REF$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "ref");
     
     
     /**

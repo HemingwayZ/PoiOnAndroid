@@ -19,36 +19,36 @@ public class CTOuterShadowEffectImpl extends org.apache.xmlbeans.impl.values.Xml
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName SCRGBCLR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scrgbClr");
-    private static final javax.xml.namespace.QName SRGBCLR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "srgbClr");
-    private static final javax.xml.namespace.QName HSLCLR$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hslClr");
-    private static final javax.xml.namespace.QName SYSCLR$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sysClr");
-    private static final javax.xml.namespace.QName SCHEMECLR$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "schemeClr");
-    private static final javax.xml.namespace.QName PRSTCLR$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstClr");
-    private static final javax.xml.namespace.QName BLURRAD$12 = 
-        new javax.xml.namespace.QName("", "blurRad");
-    private static final javax.xml.namespace.QName DIST$14 = 
-        new javax.xml.namespace.QName("", "dist");
-    private static final javax.xml.namespace.QName DIR$16 = 
-        new javax.xml.namespace.QName("", "dir");
-    private static final javax.xml.namespace.QName SX$18 = 
-        new javax.xml.namespace.QName("", "sx");
-    private static final javax.xml.namespace.QName SY$20 = 
-        new javax.xml.namespace.QName("", "sy");
-    private static final javax.xml.namespace.QName KX$22 = 
-        new javax.xml.namespace.QName("", "kx");
-    private static final javax.xml.namespace.QName KY$24 = 
-        new javax.xml.namespace.QName("", "ky");
-    private static final javax.xml.namespace.QName ALGN$26 = 
-        new javax.xml.namespace.QName("", "algn");
-    private static final javax.xml.namespace.QName ROTWITHSHAPE$28 = 
-        new javax.xml.namespace.QName("", "rotWithShape");
+    private static final org.apache.poi.javax.xml.namespace.QName SCRGBCLR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "scrgbClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SRGBCLR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "srgbClr");
+    private static final org.apache.poi.javax.xml.namespace.QName HSLCLR$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "hslClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SYSCLR$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "sysClr");
+    private static final org.apache.poi.javax.xml.namespace.QName SCHEMECLR$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "schemeClr");
+    private static final org.apache.poi.javax.xml.namespace.QName PRSTCLR$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstClr");
+    private static final org.apache.poi.javax.xml.namespace.QName BLURRAD$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "blurRad");
+    private static final org.apache.poi.javax.xml.namespace.QName DIST$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dist");
+    private static final org.apache.poi.javax.xml.namespace.QName DIR$16 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dir");
+    private static final org.apache.poi.javax.xml.namespace.QName SX$18 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sx");
+    private static final org.apache.poi.javax.xml.namespace.QName SY$20 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "sy");
+    private static final org.apache.poi.javax.xml.namespace.QName KX$22 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "kx");
+    private static final org.apache.poi.javax.xml.namespace.QName KY$24 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "ky");
+    private static final org.apache.poi.javax.xml.namespace.QName ALGN$26 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "algn");
+    private static final org.apache.poi.javax.xml.namespace.QName ROTWITHSHAPE$28 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "rotWithShape");
     
     
     /**

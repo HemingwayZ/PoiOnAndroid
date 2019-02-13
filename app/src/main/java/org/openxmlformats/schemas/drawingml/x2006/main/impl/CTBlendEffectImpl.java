@@ -19,10 +19,10 @@ public class CTBlendEffectImpl extends org.apache.xmlbeans.impl.values.XmlComple
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName CONT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cont");
-    private static final javax.xml.namespace.QName BLEND$2 = 
-        new javax.xml.namespace.QName("", "blend");
+    private static final org.apache.poi.javax.xml.namespace.QName CONT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "cont");
+    private static final org.apache.poi.javax.xml.namespace.QName BLEND$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "blend");
     
     
     /**

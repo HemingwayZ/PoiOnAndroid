@@ -19,8 +19,8 @@ public class CTFlatTextImpl extends org.apache.xmlbeans.impl.values.XmlComplexCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName Z$0 = 
-        new javax.xml.namespace.QName("", "z");
+    private static final org.apache.poi.javax.xml.namespace.QName Z$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "z");
     
     
     /**

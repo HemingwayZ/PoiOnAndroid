@@ -19,12 +19,12 @@ public class CTPatternFillPropertiesImpl extends org.apache.xmlbeans.impl.values
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName FGCLR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fgClr");
-    private static final javax.xml.namespace.QName BGCLR$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bgClr");
-    private static final javax.xml.namespace.QName PRST$4 = 
-        new javax.xml.namespace.QName("", "prst");
+    private static final org.apache.poi.javax.xml.namespace.QName FGCLR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fgClr");
+    private static final org.apache.poi.javax.xml.namespace.QName BGCLR$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "bgClr");
+    private static final org.apache.poi.javax.xml.namespace.QName PRST$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "prst");
     
     
     /**

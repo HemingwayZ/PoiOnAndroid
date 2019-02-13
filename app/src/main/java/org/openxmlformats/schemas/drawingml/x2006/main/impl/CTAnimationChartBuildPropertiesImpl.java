@@ -19,10 +19,10 @@ public class CTAnimationChartBuildPropertiesImpl extends org.apache.xmlbeans.imp
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BLD$0 = 
-        new javax.xml.namespace.QName("", "bld");
-    private static final javax.xml.namespace.QName ANIMBG$2 = 
-        new javax.xml.namespace.QName("", "animBg");
+    private static final org.apache.poi.javax.xml.namespace.QName BLD$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "bld");
+    private static final org.apache.poi.javax.xml.namespace.QName ANIMBG$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "animBg");
     
     
     /**

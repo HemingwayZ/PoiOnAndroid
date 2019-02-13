@@ -19,10 +19,10 @@ public class CTPathShadePropertiesImpl extends org.apache.xmlbeans.impl.values.X
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName FILLTORECT$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillToRect");
-    private static final javax.xml.namespace.QName PATH$2 = 
-        new javax.xml.namespace.QName("", "path");
+    private static final org.apache.poi.javax.xml.namespace.QName FILLTORECT$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillToRect");
+    private static final org.apache.poi.javax.xml.namespace.QName PATH$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "path");
     
     
     /**

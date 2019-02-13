@@ -19,22 +19,22 @@ public class CTEffectListImpl extends org.apache.xmlbeans.impl.values.XmlComplex
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName BLUR$0 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blur");
-    private static final javax.xml.namespace.QName FILLOVERLAY$2 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillOverlay");
-    private static final javax.xml.namespace.QName GLOW$4 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "glow");
-    private static final javax.xml.namespace.QName INNERSHDW$6 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "innerShdw");
-    private static final javax.xml.namespace.QName OUTERSHDW$8 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "outerShdw");
-    private static final javax.xml.namespace.QName PRSTSHDW$10 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstShdw");
-    private static final javax.xml.namespace.QName REFLECTION$12 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "reflection");
-    private static final javax.xml.namespace.QName SOFTEDGE$14 = 
-        new javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "softEdge");
+    private static final org.apache.poi.javax.xml.namespace.QName BLUR$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "blur");
+    private static final org.apache.poi.javax.xml.namespace.QName FILLOVERLAY$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "fillOverlay");
+    private static final org.apache.poi.javax.xml.namespace.QName GLOW$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "glow");
+    private static final org.apache.poi.javax.xml.namespace.QName INNERSHDW$6 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "innerShdw");
+    private static final org.apache.poi.javax.xml.namespace.QName OUTERSHDW$8 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "outerShdw");
+    private static final org.apache.poi.javax.xml.namespace.QName PRSTSHDW$10 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "prstShdw");
+    private static final org.apache.poi.javax.xml.namespace.QName REFLECTION$12 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "reflection");
+    private static final org.apache.poi.javax.xml.namespace.QName SOFTEDGE$14 = 
+        new org.apache.poi.javax.xml.namespace.QName("http://schemas.openxmlformats.org/drawingml/2006/main", "softEdge");
     
     
     /**

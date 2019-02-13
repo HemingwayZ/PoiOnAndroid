@@ -19,12 +19,12 @@ public class CTVector3DImpl extends org.apache.xmlbeans.impl.values.XmlComplexCo
         super(sType);
     }
     
-    private static final javax.xml.namespace.QName DX$0 = 
-        new javax.xml.namespace.QName("", "dx");
-    private static final javax.xml.namespace.QName DY$2 = 
-        new javax.xml.namespace.QName("", "dy");
-    private static final javax.xml.namespace.QName DZ$4 = 
-        new javax.xml.namespace.QName("", "dz");
+    private static final org.apache.poi.javax.xml.namespace.QName DX$0 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dx");
+    private static final org.apache.poi.javax.xml.namespace.QName DY$2 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dy");
+    private static final org.apache.poi.javax.xml.namespace.QName DZ$4 = 
+        new org.apache.poi.javax.xml.namespace.QName("", "dz");
     
     
     /**

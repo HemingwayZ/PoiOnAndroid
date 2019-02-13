@@ -64,7 +64,7 @@ public class ZipContentTypeManager extends ContentTypeManager {
 		else
 			zos = new ZipOutputStream(out);
 
-		ZipEntry partEntry = new ZipEntry(org.apache.poi.openxml4j.opc.internal.ContentTypeManager.CONTENT_TYPES_PART_NAME);
+		ZipEntry partEntry = new ZipEntry(org.apache.poi2.openxml4j.opc.internal.ContentTypeManager.CONTENT_TYPES_PART_NAME);
 		try {
 			// Referenced in ZIP
 			zos.putNextEntry(partEntry);
@@ -83,7 +83,7 @@ public class ZipContentTypeManager extends ContentTypeManager {
 			}
 			zos.closeEntry();
 		} catch (IOException ioe) {
-			logger.log(POILogger.ERROR, "Cannot write: " + org.apache.poi.openxml4j.opc.internal.ContentTypeManager.CONTENT_TYPES_PART_NAME
+			logger.log(POILogger.ERROR, "Cannot write: " + org.apache.poi2.openxml4j.opc.internal.ContentTypeManager.CONTENT_TYPES_PART_NAME
 					+ " in Zip !", ioe);
 			return false;
 		}

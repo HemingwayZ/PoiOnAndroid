@@ -87,7 +87,6 @@ public class PPTActivity extends AppCompatActivity {
                     paint.setFlags(Paint.ANTI_ALIAS_FLAG);
                     canvas.drawPaint(paint);
 
-                    Dimension pageSize = ppt.getPageSize();
                     XSLFSlide[] slides = ppt.getSlides();
                     XSLFSlide slide = slides[1];
 

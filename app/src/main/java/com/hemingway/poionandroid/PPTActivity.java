@@ -36,30 +36,32 @@ public class PPTActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-		System.setProperty("javax.xml.stream.XMLInputFactory",
-				"com.sun.xml.stream.ZephyrParserFactory");
-		System.setProperty("javax.xml.stream.XMLOutput2Factory",
-				"com.sun.xml.stream.ZephyrWriterFactory");
-		System.setProperty("javax.xml.stream.XMLEventFactory",
-				"com.sun.xml.stream.events.ZephyrEventFactory");
+//		System.setProperty("javax.xml.stream.XMLInputFactory",
+//				"com.sun.xml.stream.ZephyrParserFactory");
+//		System.setProperty("javax.xml.stream.XMLOutput2Factory",
+//				"com.sun.xml.stream.ZephyrWriterFactory");
+//		System.setProperty("javax.xml.stream.XMLEventFactory",
+//				"com.sun.xml.stream.events.ZephyrEventFactory");
 
         Thread.currentThread().setContextClassLoader(
                 getClass().getClassLoader());
 
         // some test
-        try {
-            XMLInputFactory inputFactory = XMLInputFactory.newInstance();
-            XMLEventReader reader = inputFactory
-                    .createXMLEventReader(new StringReader(
-                            "<doc att=\"value\">some text</doc>"));
-            while (reader.hasNext()) {
-                XMLEvent e = reader.nextEvent();
-                Log.e("HelloStax", "Event:[" + e + "]");
-            }
-        } catch (XMLStreamException e) {
-            Log.e("HelloStax", "Error parsing XML", e);
-        }
-
+//        try {
+//            XMLInputFactory inputFactory = XMLInputFactory.newInstance();
+//            XMLEventReader reader = inputFactory
+//                    .createXMLEventReader(new StringReader(
+//                            "<doc att=\"value\">some text</doc>"));
+//            while (reader.hasNext()) {
+//                XMLEvent e = reader.nextEvent();
+//                Log.e("HelloStax", "Event:[" + e + "]");
+//            }
+//        } catch (XMLStreamException e) {
+//            Log.e("HelloStax", "Error parsing XML", e);
+//        }
+        System.setProperty("org.apache.poi.javax.xml.stream.XMLInputFactory", "com.fasterxml.aalto.stax.InputFactoryImpl");
+        System.setProperty("org.apache.poi.javax.xml.stream.XMLOutputFactory", "com.fasterxml.aalto.stax.OutputFactoryImpl");
+        System.setProperty("org.apache.poi.javax.xml.stream.XMLEventFactory", "com.fasterxml.aalto.stax.EventFactoryImpl");
         setContentView(R.layout.activity_ppt);
 //
 //        System.setProperty("Dimension",

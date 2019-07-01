@@ -90,6 +90,7 @@ public abstract class XSLFSheet extends org.apache.poi2.POIXMLDocumentPart imple
 
     protected List<XSLFShape> buildShapes(CTGroupShape spTree){
         List<XSLFShape> shapes = new ArrayList<XSLFShape>();
+
         for(XmlObject ch : spTree.selectPath("*")){
             if(ch instanceof CTShape){ // simple shape
                 XSLFAutoShape shape = XSLFAutoShape.create((CTShape)ch, this);
@@ -492,10 +493,13 @@ public abstract class XSLFSheet extends org.apache.poi2.POIXMLDocumentPart imple
      */
     public void draw(Graphics2D graphics, AtomicBoolean isCanceled, Handler handler, int position){
         XSLFSheet master = getMasterSheet();
-        if(getFollowMasterGraphics() && master != null) master.draw(graphics, isCanceled, handler, position);
+        if(getFollowMasterGraphics() && master != null) {
+            master.draw(graphics, isCanceled, handler, position);
+        }
 
         graphics.setRenderingHint(XSLFRenderingHint.GROUP_TRANSFORM, new AffineTransform());
         int i = 0;
+
         for(XSLFShape shape : getShapeList()) {
         	if (isCanceled.get()) {
         		Log.d("Slide", "Thread.Canceled");
@@ -523,6 +527,7 @@ public abstract class XSLFSheet extends org.apache.poi2.POIXMLDocumentPart imple
             graphics.setRenderingHint(XSLFRenderingHint.GRESTORE, true);
 
         }
+
     }
 
     /**

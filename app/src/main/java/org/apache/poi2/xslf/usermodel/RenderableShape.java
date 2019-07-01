@@ -19,6 +19,8 @@
 
 package org.apache.poi2.xslf.usermodel;
 
+import android.util.Log;
+
 import java.lang.reflect.Constructor;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -518,8 +520,9 @@ class RenderableShape {
         Collection<Outline> elems = computeOutlines(graphics);
 
         // shadow
+//        Log.d("Hemingway:","buildShapes1-"+System.currentTimeMillis()/1000);
         XSLFShadow shadow = _shape.getShadow();
-
+        Log.d("Hemingway:","buildShapes2("+_shape.getShapeName()+") time"+System.currentTimeMillis()/1000);
         // first fill
         Paint fill = getFillPaint(graphics);
         Paint line = getLinePaint(graphics);

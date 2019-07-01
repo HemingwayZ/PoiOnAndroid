@@ -60,6 +60,7 @@ import android.text.Spannable;
 import android.text.SpannableStringBuilder;
 import android.text.StaticLayout;
 import android.text.TextPaint;
+import android.text.TextUtils;
 import android.text.style.StrikethroughSpan;
 import android.text.style.SubscriptSpan;
 import android.text.style.SuperscriptSpan;
@@ -777,7 +778,7 @@ public class XSLFTextParagraph implements Iterable<XSLFTextRun>{
         if (sl != null) {
         	sl.draw(graphics.canvas);
         }
-        
+
         graphics.canvas.restore();
         
         return sl.getHeight();
@@ -856,7 +857,9 @@ public class XSLFTextParagraph implements Iterable<XSLFTextRun>{
 //        System.out.println("text: " + text);
         Log.d("textInset", "text: " + text);
         SpannableStringBuilder at = new SpannableStringBuilder(text);
-        
+        if(TextUtils.isEmpty(text)){
+            return null;
+        }
         int startIndex = 0;
         for (XSLFTextRun run : _runs){
             int length = run.getRenderableText().length();

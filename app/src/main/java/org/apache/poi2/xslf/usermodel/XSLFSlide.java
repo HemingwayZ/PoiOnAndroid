@@ -36,6 +36,7 @@ import org.openxmlformats.schemas.presentationml.x2006.main.CTSlide;
 import org.openxmlformats.schemas.presentationml.x2006.main.SldDocument;
 
 import android.os.Handler;
+import android.util.Log;
 
 @Beta
 public final class XSLFSlide extends XSLFSheet {
@@ -214,9 +215,10 @@ public final class XSLFSlide extends XSLFSheet {
     @Override
     public void draw(Graphics2D graphics, AtomicBoolean isCanceled, Handler handler, int position){
 
+        Log.d("Hemingway","Background1:"+System.currentTimeMillis()/1000);
         XSLFBackground bg = getBackground();
         if(bg != null) bg.draw(graphics);
-
+        Log.d("Hemingway","Background2:"+System.currentTimeMillis()/1000);
         super.draw(graphics, isCanceled, handler, position);
     }
 

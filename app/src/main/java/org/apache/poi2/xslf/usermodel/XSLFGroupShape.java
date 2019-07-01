@@ -147,6 +147,10 @@ public class XSLFGroupShape extends XSLFShape implements XSLFShapeContainer {
         return _shapes.toArray(new XSLFShape[_shapes.size()]);
     }
 
+    public List<XSLFShape> getShapeList(){
+        return _shapes;
+    }
+
     /**
      * Returns an iterator over the shapes in this sheet
      *
@@ -306,6 +310,9 @@ public class XSLFGroupShape extends XSLFShape implements XSLFShapeContainer {
         tx.translate(exterior.getX(), exterior.getY());
         tx.scale(scaleX, scaleY);
         tx.translate(-interior.getX(), -interior.getY());
+
+//        List<XSLFShape> shapeList = getShapeList();
+//        shapeList.toArray();
 
         for (XSLFShape shape : getShapes()) {
         	// remember the initial transform and restore it after we are done with the drawing
